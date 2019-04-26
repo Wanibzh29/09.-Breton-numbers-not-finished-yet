@@ -7079,7 +7079,7 @@
 
 7000 = c'hwec'h mil 
 7001 = seizh mil unan
-7002 = seizh mil daou
+7002 = seizh mil div
 7003 = seizh mil tri
 7004 = seizh mil pevar
 7005 = seizh mil pemp
@@ -7099,7 +7099,7 @@
 7019 = seizh mil naontek
 7020 = seizh mil ugent
 7021 = seizh mil unan warn-ugent
-7022 = seizh mil daou warn-ugent
+7022 = seizh mil div warn-ugent
 7023 = seizh mil tri warn-ugent
 7024 = seizh mil pevar warn-ugent
 7025 = seizh mil pemp warn-ugent
@@ -7109,7 +7109,7 @@
 7029 = seizh mil nav warn-ugent
 7030 = seizh mil tregont
 7031 = seizh mil unan ha tregont
-7032 = seizh mil daou ha tregont
+7032 = seizh mil div ha tregont
 7033 = seizh mil tri ha tregont
 7034 = seizh mil pevar ha tregont
 7035 = seizh mil pemp ha tregont
@@ -7119,7 +7119,7 @@
 7039 = seizh mil nav ha tregont
 7040 = seizh mil daou-ugent
 7041 = seizh mil unan ha daou-ugent
-7042 = seizh mil daou ha daou-ugent
+7042 = seizh mil div ha daou-ugent
 7043 = seizh mil tri ha daou-ugent
 7044 = seizh mil pevar ha daou-ugent
 7045 = seizh mil pemp ha daou-ugent
@@ -7129,7 +7129,7 @@
 7049 = seizh mil nav ha daou-ugent
 7050 = seizh mil hanter-kant
 7051 = seizh mil unan hag hanter-kant
-7052 = seizh mil daou hag hanter-kant
+7052 = seizh mil div hag hanter-kant
 7053 = seizh mil tri hag hanter-kant
 7054 = seizh mil pevar hag hanter-kant
 7055 = seizh mil pemp hag hanter-kant
@@ -7139,7 +7139,7 @@
 7059 = seizh mil nav hag hanter-kant
 7060 = seizh mil tri-ugent
 7061 = seizh mil unan ha tri-ugent
-7062 = seizh mil daou ha tri-ugent
+7062 = seizh mil div ha tri-ugent
 7063 = seizh mil tri ha tri-ugent
 7064 = seizh mil pevar ha tri-ugent
 7065 = seizh mil pemp ha tri-ugent
@@ -7159,7 +7159,7 @@
 7079 = seizh mil naontek ha tri-ugent
 7080 = seizh mil pevar-ugent
 7081 = seizh mil unan ha pevar-ugent
-7082 = seizh mil daou ha pevar-ugent
+7082 = seizh mil div ha pevar-ugent
 7083 = seizh mil tri ha pevar-ugent
 7084 = seizh mil pevar ha pevar-ugent
 7085 = seizh mil pemp ha pevar-ugent
@@ -7180,7 +7180,7 @@
 
 7100 = seizh mil kant
 7101 = seizh mil kant unan
-7102 = seizh mil kant daou
+7102 = seizh mil kant div
 7103 = seizh mil kant tri
 7104 = seizh mil kant pevar
 7105 = seizh mil kant pemp
@@ -7200,7 +7200,7 @@
 7119 = seizh mil kant naontek
 7120 = seizh mil kant ugent
 7121 = seizh mil kant unan warn-ugent
-7122 = seizh mil kant daou warn-ugent
+7122 = seizh mil kant div warn-ugent
 7123 = seizh mil kant tri warn-ugent
 7124 = seizh mil kant pevar warn-ugent
 7125 = seizh mil kant pemp warn-ugent
@@ -7210,7 +7210,7 @@
 7129 = seizh mil kant nav warn-ugent
 7130 = seizh mil kant tregont
 7131 = seizh mil kant unan ha tregont
-7132 = seizh mil kant daou ha tregont
+7132 = seizh mil kant div ha tregont
 7133 = seizh mil kant tri ha tregont
 7134 = seizh mil kant pevar ha tregont
 7135 = seizh mil kant pemp ha tregont
@@ -7220,7 +7220,7 @@
 7139 = seizh mil kant nav ha tregont
 7140 = seizh mil kant daou-ugent
 7141 = seizh mil kant unan ha daou-ugent
-7142 = seizh mil kant daou ha daou-ugent
+7142 = seizh mil kant div ha daou-ugent
 7143 = seizh mil kant tri ha daou-ugent
 7144 = seizh mil kant pevar ha daou-ugent
 7145 = seizh mil kant pemp ha daou-ugent
@@ -7230,7 +7230,7 @@
 7149 = seizh mil kant nav ha daou-ugent
 7150 = seizh mil kant hanter-kant
 7151 = seizh mil kant unan hag hanter-kant
-7152 = seizh mil kant daou hag hanter-kant
+7152 = seizh mil kant div hag hanter-kant
 7153 = seizh mil kant tri hag hanter-kant
 7154 = seizh mil kant pevar hag hanter-kant
 7155 = seizh mil kant pemp hag hanter-kant
@@ -7240,7 +7240,7 @@
 7159 = seizh mil kant nav hag hanter-kant
 7160 = seizh mil kant tri-ugent
 7161 = seizh mil kant unan ha tri-ugent
-7162 = seizh mil kant daou ha tri-ugent
+7162 = seizh mil kant div ha tri-ugent
 7163 = seizh mil kant tri ha tri-ugent
 7164 = seizh mil kant pevar ha tri-ugent
 7165 = seizh mil kant pemp ha tri-ugent
@@ -7260,7 +7260,7 @@
 7179 = seizh mil kant naontek ha tri-ugent
 7180 = seizh mil kant pevar-ugent
 7181 = seizh mil kant unan ha pevar-ugent
-7182 = seizh mil kant daou ha pevar-ugent
+7182 = seizh mil kant div ha pevar-ugent
 7183 = seizh mil kant tri ha pevar-ugent
 7184 = seizh mil kant pevar ha pevar-ugent
 7185 = seizh mil kant pemp ha pevar-ugent
@@ -7281,7 +7281,7 @@
 
 7200 = seizh mil daou c'hant 
 7201 = seizh mil daou c'hant unan
-7202 = seizh mil daou c'hant daou
+7202 = seizh mil daou c'hant div
 7203 = seizh mil daou c'hant tri
 7204 = seizh mil daou c'hant pevar
 7205 = seizh mil daou c'hant pemp
@@ -7301,7 +7301,7 @@
 7219 = seizh mil daou c'hant naontek
 7220 = seizh mil daou c'hant ugent
 7221 = seizh mil daou c'hant unan warn-ugent
-7222 = seizh mil daou c'hant daou warn-ugent
+7222 = seizh mil daou c'hant div warn-ugent
 7223 = seizh mil daou c'hant tri warn-ugent
 7224 = seizh mil daou c'hant pevar warn-ugent
 7225 = seizh mil daou c'hant pemp warn-ugent
@@ -7311,7 +7311,7 @@
 7229 = seizh mil daou c'hant nav warn-ugent
 7230 = seizh mil daou c'hant tregont
 7231 = seizh mil daou c'hant unan ha tregont
-7232 = seizh mil daou c'hant daou ha tregont
+7232 = seizh mil daou c'hant div ha tregont
 7233 = seizh mil daou c'hant tri ha tregont
 7234 = seizh mil daou c'hant pevar ha tregont
 7235 = seizh mil daou c'hant pemp ha tregont
@@ -7321,7 +7321,7 @@
 7239 = seizh mil daou c'hant nav ha tregont
 7240 = seizh mil daou c'hant daou-ugent
 7241 = seizh mil daou c'hant unan ha daou-ugent
-7242 = seizh mil daou c'hant daou ha daou-ugent
+7242 = seizh mil daou c'hant div ha daou-ugent
 7243 = seizh mil daou c'hant tri ha daou-ugent
 7244 = seizh mil daou c'hant pevar ha daou-ugent
 7245 = seizh mil daou c'hant pemp ha daou-ugent
@@ -7331,7 +7331,7 @@
 7249 = seizh mil daou c'hant nav ha daou-ugent
 7250 = seizh mil daou c'hant hanter-kant
 7251 = seizh mil daou c'hant unan hag hanter-kant
-7252 = seizh mil daou c'hant daou hag hanter-kant
+7252 = seizh mil daou c'hant div hag hanter-kant
 7253 = seizh mil daou c'hant tri hag hanter-kant
 7254 = seizh mil daou c'hant pevar hag hanter-kant
 7255 = seizh mil daou c'hant pemp hag hanter-kant
@@ -7341,7 +7341,7 @@
 7259 = seizh mil daou c'hant nav hag hanter-kant
 7260 = seizh mil daou c'hant tri-ugent
 7261 = seizh mil daou c'hant unan ha tri-ugent
-7262 = seizh mil daou c'hant daou ha tri-ugent
+7262 = seizh mil daou c'hant div ha tri-ugent
 7263 = seizh mil daou c'hant tri ha tri-ugent
 7264 = seizh mil daou c'hant pevar ha tri-ugent
 7265 = seizh mil daou c'hant pemp ha tri-ugent
@@ -7361,7 +7361,7 @@
 7279 = seizh mil daou c'hant naontek ha tri-ugent
 7280 = seizh mil daou c'hant pevar-ugent
 7281 = seizh mil daou c'hant unan ha pevar-ugent
-7282 = seizh mil daou c'hant daou ha pevar-ugent
+7282 = seizh mil daou c'hant div ha pevar-ugent
 7283 = seizh mil daou c'hant tri ha pevar-ugent
 7284 = seizh mil daou c'hant pevar ha pevar-ugent
 7285 = seizh mil daou c'hant pemp ha pevar-ugent
@@ -7382,7 +7382,7 @@
 
 7300 = seizh mil tri c'hant 
 7301 = seizh mil tri c'hant unan
-7302 = seizh mil tri c'hant daou
+7302 = seizh mil tri c'hant div
 7303 = seizh mil tri c'hant tri
 7304 = seizh mil tri c'hant pevar
 7305 = seizh mil tri c'hant pemp
@@ -7402,7 +7402,7 @@
 7319 = seizh mil tri c'hant naontek
 7320 = seizh mil tri c'hant ugent
 7321 = seizh mil tri c'hant unan warn-ugent
-7322 = seizh mil tri c'hant daou warn-ugent
+7322 = seizh mil tri c'hant div warn-ugent
 7323 = seizh mil tri c'hant tri warn-ugent
 7324 = seizh mil tri c'hant pevar warn-ugent
 7325 = seizh mil tri c'hant pemp warn-ugent
@@ -7412,7 +7412,7 @@
 7329 = seizh mil tri c'hant nav warn-ugent
 7330 = seizh mil tri c'hant tregont
 7331 = seizh mil tri c'hant unan ha tregont
-7332 = seizh mil tri c'hant daou ha tregont
+7332 = seizh mil tri c'hant div ha tregont
 7333 = seizh mil tri c'hant tri ha tregont
 7334 = seizh mil tri c'hant pevar ha tregont
 7335 = seizh mil tri c'hant pemp ha tregont
@@ -7422,7 +7422,7 @@
 7339 = seizh mil tri c'hant nav ha tregont
 7340 = seizh mil tri c'hant daou-ugent
 7341 = seizh mil tri c'hant unan ha daou-ugent
-7342 = seizh mil tri c'hant daou ha daou-ugent
+7342 = seizh mil tri c'hant div ha daou-ugent
 7343 = seizh mil tri c'hant tri ha daou-ugent
 7344 = seizh mil tri c'hant pevar ha daou-ugent
 7345 = seizh mil tri c'hant pemp ha daou-ugent
@@ -7432,7 +7432,7 @@
 7349 = seizh mil tri c'hant nav ha daou-ugent
 7350 = seizh mil tri c'hant hanter-kant
 7351 = seizh mil tri c'hant unan hag hanter-kant
-7352 = seizh mil tri c'hant daou hag hanter-kant
+7352 = seizh mil tri c'hant div hag hanter-kant
 7353 = seizh mil tri c'hant tri hag hanter-kant
 7354 = seizh mil tri c'hant pevar hag hanter-kant
 7355 = seizh mil tri c'hant pemp hag hanter-kant
@@ -7442,7 +7442,7 @@
 7359 = seizh mil tri c'hant nav hag hanter-kant
 7360 = seizh mil tri c'hant tri-ugent
 7361 = seizh mil tri c'hant unan ha tri-ugent
-7362 = seizh mil tri c'hant daou ha tri-ugent
+7362 = seizh mil tri c'hant div ha tri-ugent
 7363 = seizh mil tri c'hant tri ha tri-ugent
 7364 = seizh mil tri c'hant pevar ha tri-ugent
 7365 = seizh mil tri c'hant pemp ha tri-ugent
@@ -7462,7 +7462,7 @@
 7379 = seizh mil tri c'hant naontek ha tri-ugent
 7380 = seizh mil tri c'hant pevar-ugent
 7381 = seizh mil tri c'hant unan ha pevar-ugent
-7382 = seizh mil tri c'hant daou ha pevar-ugent
+7382 = seizh mil tri c'hant div ha pevar-ugent
 7383 = seizh mil tri c'hant tri ha pevar-ugent
 7384 = seizh mil tri c'hant pevar ha pevar-ugent
 7385 = seizh mil tri c'hant pemp ha pevar-ugent
@@ -7483,7 +7483,7 @@
 
 7400 = seizh mil pevar c'hant 
 7401 = seizh mil pevar c'hant unan
-7402 = seizh mil pevar c'hant daou
+7402 = seizh mil pevar c'hant div
 7403 = seizh mil pevar c'hant tri
 7404 = seizh mil pevar c'hant pevar
 7405 = seizh mil pevar c'hant pemp
@@ -7503,7 +7503,7 @@
 7419 = seizh mil pevar c'hant naontek
 7420 = seizh mil pevar c'hant ugent
 7421 = seizh mil pevar c'hant unan warn-ugent
-7422 = seizh mil pevar c'hant daou warn-ugent
+7422 = seizh mil pevar c'hant div warn-ugent
 7423 = seizh mil pevar c'hant tri warn-ugent
 7424 = seizh mil pevar c'hant pevar warn-ugent
 7425 = seizh mil pevar c'hant pemp warn-ugent
@@ -7513,7 +7513,7 @@
 7429 = seizh mil pevar c'hant nav warn-ugent
 7430 = seizh mil pevar c'hant tregont
 7431 = seizh mil pevar c'hant unan ha tregont
-7432 = seizh mil pevar c'hant daou ha tregont
+7432 = seizh mil pevar c'hant div ha tregont
 7433 = seizh mil pevar c'hant tri ha tregont
 7434 = seizh mil pevar c'hant pevar ha tregont
 7435 = seizh mil pevar c'hant pemp ha tregont
@@ -7523,7 +7523,7 @@
 7439 = seizh mil pevar c'hant nav ha tregont
 7440 = seizh mil pevar c'hant daou-ugent
 7441 = seizh mil pevar c'hant unan ha daou-ugent
-7442 = seizh mil pevar c'hant daou ha daou-ugent
+7442 = seizh mil pevar c'hant div ha daou-ugent
 7443 = seizh mil pevar c'hant tri ha daou-ugent
 7444 = seizh mil pevar c'hant pevar ha daou-ugent
 7445 = seizh mil pevar c'hant pemp ha daou-ugent
@@ -7533,7 +7533,7 @@
 7449 = seizh mil pevar c'hant nav ha daou-ugent
 7450 = seizh mil pevar c'hant hanter-kant
 7451 = seizh mil pevar c'hant unan hag hanter-kant
-7452 = seizh mil pevar c'hant daou hag hanter-kant
+7452 = seizh mil pevar c'hant div hag hanter-kant
 7453 = seizh mil pevar c'hant tri hag hanter-kant
 7454 = seizh mil pevar c'hant pevar hag hanter-kant
 7455 = seizh mil pevar c'hant pemp hag hanter-kant
@@ -7543,7 +7543,7 @@
 7459 = seizh mil pevar c'hant nav hag hanter-kant
 7460 = seizh mil pevar c'hant tri-ugent
 7461 = seizh mil pevar c'hant unan ha tri-ugent
-7462 = seizh mil pevar c'hant daou ha tri-ugent
+7462 = seizh mil pevar c'hant div ha tri-ugent
 7463 = seizh mil pevar c'hant tri ha tri-ugent
 7464 = seizh mil pevar c'hant pevar ha tri-ugent
 7465 = seizh mil pevar c'hant pemp ha tri-ugent
@@ -7563,7 +7563,7 @@
 7479 = seizh mil pevar c'hant naontek ha tri-ugent
 7480 = seizh mil pevar c'hant pevar-ugent
 7481 = seizh mil pevar c'hant unan ha pevar-ugent
-7482 = seizh mil pevar c'hant daou ha pevar-ugent
+7482 = seizh mil pevar c'hant div ha pevar-ugent
 7483 = seizh mil pevar c'hant tri ha pevar-ugent
 7484 = seizh mil pevar c'hant pevar ha pevar-ugent
 7485 = seizh mil pevar c'hant pemp ha pevar-ugent
@@ -7584,7 +7584,7 @@
 
 7500 = seizh mil pemp kant 
 7501 = seizh mil pemp kant unan
-7502 = seizh mil pemp kant daou
+7502 = seizh mil pemp kant div
 7503 = seizh mil pemp kant tri
 7504 = seizh mil pemp kant pevar
 7505 = seizh mil pemp kant pemp
@@ -7604,7 +7604,7 @@
 7519 = seizh mil pemp kant naontek
 7520 = seizh mil pemp kant ugent
 7521 = seizh mil pemp kant unan warn-ugent
-7522 = seizh mil pemp kant daou warn-ugent
+7522 = seizh mil pemp kant div warn-ugent
 7523 = seizh mil pemp kant tri warn-ugent
 7524 = seizh mil pemp kant pevar warn-ugent
 7525 = seizh mil pemp kant pemp warn-ugent
@@ -7614,7 +7614,7 @@
 7529 = seizh mil pemp kant nav warn-ugent
 7530 = seizh mil pemp kant tregont
 7531 = seizh mil pemp kant unan ha tregont
-7532 = seizh mil pemp kant daou ha tregont
+7532 = seizh mil pemp kant div ha tregont
 7533 = seizh mil pemp kant tri ha tregont
 7534 = seizh mil pemp kant pevar ha tregont
 7535 = seizh mil pemp kant pemp ha tregont
@@ -7624,7 +7624,7 @@
 7539 = seizh mil pemp kant nav ha tregont
 7540 = seizh mil pemp kant daou-ugent
 7541 = seizh mil pemp kant unan ha daou-ugent
-7542 = seizh mil pemp kant daou ha daou-ugent
+7542 = seizh mil pemp kant div ha daou-ugent
 7543 = seizh mil pemp kant tri ha daou-ugent
 7544 = seizh mil pemp kant pevar ha daou-ugent
 7545 = seizh mil pemp kant pemp ha daou-ugent
@@ -7634,7 +7634,7 @@
 7549 = seizh mil pemp kant nav ha daou-ugent
 7550 = seizh mil pemp kant hanter-kant
 7551 = seizh mil pemp kant unan hag hanter-kant
-7552 = seizh mil pemp kant daou hag hanter-kant
+7552 = seizh mil pemp kant div hag hanter-kant
 7553 = seizh mil pemp kant tri hag hanter-kant
 7554 = seizh mil pemp kant pevar hag hanter-kant
 7555 = seizh mil pemp kant pemp hag hanter-kant
@@ -7644,7 +7644,7 @@
 7559 = seizh mil pemp kant nav hag hanter-kant
 7560 = seizh mil pemp kant tri-ugent
 7561 = seizh mil pemp kant unan ha tri-ugent
-7562 = seizh mil pemp kant daou ha tri-ugent
+7562 = seizh mil pemp kant div ha tri-ugent
 7563 = seizh mil pemp kant tri ha tri-ugent
 7564 = seizh mil pemp kant pevar ha tri-ugent
 7565 = seizh mil pemp kant pemp ha tri-ugent
@@ -7664,7 +7664,7 @@
 7579 = seizh mil pemp kant naontek ha tri-ugent
 7580 = seizh mil pemp kant pevar-ugent
 7581 = seizh mil pemp kant unan ha pevar-ugent
-7582 = seizh mil pemp kant daou ha pevar-ugent
+7582 = seizh mil pemp kant div ha pevar-ugent
 7583 = seizh mil pemp kant tri ha pevar-ugent
 7584 = seizh mil pemp kant pevar ha pevar-ugent
 7585 = seizh mil pemp kant pemp ha pevar-ugent
@@ -7685,7 +7685,7 @@
 
 7600 = seizh mil c'hwec'h kant 
 7601 = seizh mil c'hwec'h kant unan
-7602 = seizh mil c'hwec'h kant daou
+7602 = seizh mil c'hwec'h kant div
 7603 = seizh mil c'hwec'h kant tri
 7604 = seizh mil c'hwec'h kant pevar
 7605 = seizh mil c'hwec'h kant pemp
@@ -7705,7 +7705,7 @@
 7619 = seizh mil c'hwec'h kant naontek
 7620 = seizh mil c'hwec'h kant ugent
 7621 = seizh mil c'hwec'h kant unan warn-ugent
-7622 = seizh mil c'hwec'h kant daou warn-ugent
+7622 = seizh mil c'hwec'h kant div warn-ugent
 7623 = seizh mil c'hwec'h kant tri warn-ugent
 7624 = seizh mil c'hwec'h kant pevar warn-ugent
 7625 = seizh mil c'hwec'h kant pemp warn-ugent
@@ -7715,7 +7715,7 @@
 7629 = seizh mil c'hwec'h kant nav warn-ugent
 7630 = seizh mil c'hwec'h kant tregont
 7631 = seizh mil c'hwec'h kant unan ha tregont
-7632 = seizh mil c'hwec'h kant daou ha tregont
+7632 = seizh mil c'hwec'h kant div ha tregont
 7633 = seizh mil c'hwec'h kant tri ha tregont
 7634 = seizh mil c'hwec'h kant pevar ha tregont
 7635 = seizh mil c'hwec'h kant pemp ha tregont
@@ -7725,7 +7725,7 @@
 7639 = seizh mil c'hwec'h kant nav ha tregont
 7640 = seizh mil c'hwec'h kant daou-ugent
 7641 = seizh mil c'hwec'h kant unan ha daou-ugent
-7642 = seizh mil c'hwec'h kant daou ha daou-ugent
+7642 = seizh mil c'hwec'h kant div ha daou-ugent
 7643 = seizh mil c'hwec'h kant tri ha daou-ugent
 7644 = seizh mil c'hwec'h kant pevar ha daou-ugent
 7645 = seizh mil c'hwec'h kant pemp ha daou-ugent
@@ -7735,7 +7735,7 @@
 7649 = seizh mil c'hwec'h kant nav ha daou-ugent
 7650 = seizh mil c'hwec'h kant hanter-kant
 7651 = seizh mil c'hwec'h kant unan hag hanter-kant
-7652 = seizh mil c'hwec'h kant daou hag hanter-kant
+7652 = seizh mil c'hwec'h kant div hag hanter-kant
 7653 = seizh mil c'hwec'h kant tri hag hanter-kant
 7654 = seizh mil c'hwec'h kant pevar hag hanter-kant
 7655 = seizh mil c'hwec'h kant pemp hag hanter-kant
@@ -7745,7 +7745,7 @@
 7659 = seizh mil c'hwec'h kant nav hag hanter-kant
 7660 = seizh mil c'hwec'h kant tri-ugent
 7661 = seizh mil c'hwec'h kant unan ha tri-ugent
-7662 = seizh mil c'hwec'h kant daou ha tri-ugent
+7662 = seizh mil c'hwec'h kant div ha tri-ugent
 7663 = seizh mil c'hwec'h kant tri ha tri-ugent
 7664 = seizh mil c'hwec'h kant pevar ha tri-ugent
 7665 = seizh mil c'hwec'h kant pemp ha tri-ugent
@@ -7765,7 +7765,7 @@
 7679 = seizh mil c'hwec'h kant naontek ha tri-ugent
 7680 = seizh mil c'hwec'h kant pevar-ugent
 7681 = seizh mil c'hwec'h kant unan ha pevar-ugent
-7682 = seizh mil c'hwec'h kant daou ha pevar-ugent
+7682 = seizh mil c'hwec'h kant div ha pevar-ugent
 7683 = seizh mil c'hwec'h kant tri ha pevar-ugent
 7684 = seizh mil c'hwec'h kant pevar ha pevar-ugent
 7685 = seizh mil c'hwec'h kant pemp ha pevar-ugent
@@ -7786,7 +7786,7 @@
 
 7700 = seizh mil seizh kant 
 7701 = seizh mil seizh kant unan
-7702 = seizh mil seizh kant daou
+7702 = seizh mil seizh kant div
 7703 = seizh mil seizh kant tri
 7704 = seizh mil seizh kant pevar
 7705 = seizh mil seizh kant pemp
@@ -7806,7 +7806,7 @@
 7719 = seizh mil seizh kant naontek
 7720 = seizh mil seizh kant ugent
 7721 = seizh mil seizh kant unan warn-ugent
-7722 = seizh mil seizh kant daou warn-ugent
+7722 = seizh mil seizh kant div warn-ugent
 7723 = seizh mil seizh kant tri warn-ugent
 7724 = seizh mil seizh kant pevar warn-ugent
 7725 = seizh mil seizh kant pemp warn-ugent
@@ -7816,7 +7816,7 @@
 7729 = seizh mil seizh kant nav warn-ugent
 7730 = seizh mil seizh kant tregont
 7731 = seizh mil seizh kant unan ha tregont
-7732 = seizh mil seizh kant daou ha tregont
+7732 = seizh mil seizh kant div ha tregont
 7733 = seizh mil seizh kant tri ha tregont
 7734 = seizh mil seizh kant pevar ha tregont
 7735 = seizh mil seizh kant pemp ha tregont
@@ -7826,7 +7826,7 @@
 7739 = seizh mil seizh kant nav ha tregont
 7740 = seizh mil seizh kant daou-ugent
 7741 = seizh mil seizh kant unan ha daou-ugent
-7742 = seizh mil seizh kant daou ha daou-ugent
+7742 = seizh mil seizh kant div ha daou-ugent
 7743 = seizh mil seizh kant tri ha daou-ugent
 7744 = seizh mil seizh kant pevar ha daou-ugent
 7745 = seizh mil seizh kant pemp ha daou-ugent
@@ -7836,7 +7836,7 @@
 7749 = seizh mil seizh kant nav ha daou-ugent
 7750 = seizh mil seizh kant hanter-kant
 7751 = seizh mil seizh kant unan hag hanter-kant
-7752 = seizh mil seizh kant daou hag hanter-kant
+7752 = seizh mil seizh kant div hag hanter-kant
 7753 = seizh mil seizh kant tri hag hanter-kant
 7754 = seizh mil seizh kant pevar hag hanter-kant
 7755 = seizh mil seizh kant pemp hag hanter-kant
@@ -7846,7 +7846,7 @@
 7759 = seizh mil seizh kant nav hag hanter-kant
 7760 = seizh mil seizh kant tri-ugent
 7761 = seizh mil seizh kant unan ha tri-ugent
-7762 = seizh mil seizh kant daou ha tri-ugent
+7762 = seizh mil seizh kant div ha tri-ugent
 7763 = seizh mil seizh kant tri ha tri-ugent
 7764 = seizh mil seizh kant pevar ha tri-ugent
 7765 = seizh mil seizh kant pemp ha tri-ugent
@@ -7866,7 +7866,7 @@
 7779 = seizh mil seizh kant naontek ha tri-ugent
 7780 = seizh mil seizh kant pevar-ugent
 7781 = seizh mil seizh kant unan ha pevar-ugent
-7782 = seizh mil seizh kant daou ha pevar-ugent
+7782 = seizh mil seizh kant div ha pevar-ugent
 7783 = seizh mil seizh kant tri ha pevar-ugent
 7784 = seizh mil seizh kant pevar ha pevar-ugent
 7785 = seizh mil seizh kant pemp ha pevar-ugent
@@ -7887,7 +7887,7 @@
 
 7800 = seizh mil eizh kant 
 7801 = seizh mil eizh kant unan
-7802 = seizh mil eizh kant daou
+7802 = seizh mil eizh kant div
 7803 = seizh mil eizh kant tri
 7804 = seizh mil eizh kant pevar
 7805 = seizh mil eizh kant pemp
@@ -7907,7 +7907,7 @@
 7819 = seizh mil eizh kant naontek
 7820 = seizh mil eizh kant ugent
 7821 = seizh mil eizh kant unan warn-ugent
-7822 = seizh mil eizh kant daou warn-ugent
+7822 = seizh mil eizh kant div warn-ugent
 7823 = seizh mil eizh kant tri warn-ugent
 7824 = seizh mil eizh kant pevar warn-ugent
 7825 = seizh mil eizh kant pemp warn-ugent
@@ -7917,7 +7917,7 @@
 7829 = seizh mil eizh kant nav warn-ugent
 7830 = seizh mil eizh kant tregont
 7831 = seizh mil eizh kant unan ha tregont
-7832 = seizh mil eizh kant daou ha tregont
+7832 = seizh mil eizh kant div ha tregont
 7833 = seizh mil eizh kant tri ha tregont
 7834 = seizh mil eizh kant pevar ha tregont
 7835 = seizh mil eizh kant pemp ha tregont
@@ -7927,7 +7927,7 @@
 7839 = seizh mil eizh kant nav ha tregont
 7840 = seizh mil eizh kant daou-ugent
 7841 = seizh mil eizh kant unan ha daou-ugent
-7842 = seizh mil eizh kant daou ha daou-ugent
+7842 = seizh mil eizh kant div ha daou-ugent
 7843 = seizh mil eizh kant tri ha daou-ugent
 7844 = seizh mil eizh kant pevar ha daou-ugent
 7845 = seizh mil eizh kant pemp ha daou-ugent
@@ -7937,7 +7937,7 @@
 7849 = seizh mil eizh kant nav ha daou-ugent
 7850 = seizh mil eizh kant hanter-kant
 7851 = seizh mil eizh kant unan hag hanter-kant
-7852 = seizh mil eizh kant daou hag hanter-kant
+7852 = seizh mil eizh kant div hag hanter-kant
 7853 = seizh mil eizh kant tri hag hanter-kant
 7854 = seizh mil eizh kant pevar hag hanter-kant
 7855 = seizh mil eizh kant pemp hag hanter-kant
@@ -7947,7 +7947,7 @@
 7859 = seizh mil eizh kant nav hag hanter-kant
 7860 = seizh mil eizh kant tri-ugent
 7861 = seizh mil eizh kant unan ha tri-ugent
-7862 = seizh mil eizh kant daou ha tri-ugent
+7862 = seizh mil eizh kant div ha tri-ugent
 7863 = seizh mil eizh kant tri ha tri-ugent
 7864 = seizh mil eizh kant pevar ha tri-ugent
 7865 = seizh mil eizh kant pemp ha tri-ugent
@@ -7967,7 +7967,7 @@
 7879 = seizh mil eizh kant naontek ha tri-ugent
 7880 = seizh mil eizh kant pevar-ugent
 7881 = seizh mil eizh kant unan ha pevar-ugent
-7882 = seizh mil eizh kant daou ha pevar-ugent
+7882 = seizh mil eizh kant div ha pevar-ugent
 7883 = seizh mil eizh kant tri ha pevar-ugent
 7884 = seizh mil eizh kant pevar ha pevar-ugent
 7885 = seizh mil eizh kant pemp ha pevar-ugent
@@ -7988,7 +7988,7 @@
 
 7900 = seizh mil nav c'hant
 7901 = seizh mil nav c'hant unan
-7902 = seizh mil nav c'hant daou
+7902 = seizh mil nav c'hant div
 7903 = seizh mil nav c'hant tri
 7904 = seizh mil nav c'hant pevar
 7905 = seizh mil nav c'hant pemp
@@ -8008,7 +8008,7 @@
 7919 = seizh mil nav c'hant naontek
 7920 = seizh mil nav c'hant ugent
 7921 = seizh mil nav c'hant unan warn-ugent
-7922 = seizh mil nav c'hant daou warn-ugent
+7922 = seizh mil nav c'hant div warn-ugent
 7923 = seizh mil nav c'hant tri warn-ugent
 7924 = seizh mil nav c'hant pevar warn-ugent
 7925 = seizh mil nav c'hant pemp warn-ugent
@@ -8018,7 +8018,7 @@
 7929 = seizh mil nav c'hant nav warn-ugent
 7930 = seizh mil nav c'hant tregont
 7931 = seizh mil nav c'hant unan ha tregont
-7932 = seizh mil nav c'hant daou ha tregont
+7932 = seizh mil nav c'hant div ha tregont
 7933 = seizh mil nav c'hant tri ha tregont
 7934 = seizh mil nav c'hant pevar ha tregont
 7935 = seizh mil nav c'hant pemp ha tregont
@@ -8028,7 +8028,7 @@
 7939 = seizh mil nav c'hant nav ha tregont
 7940 = seizh mil nav c'hant daou-ugent
 7941 = seizh mil nav c'hant unan ha daou-ugent
-7942 = seizh mil nav c'hant daou ha daou-ugent
+7942 = seizh mil nav c'hant div ha daou-ugent
 7943 = seizh mil nav c'hant tri ha daou-ugent
 7944 = seizh mil nav c'hant pevar ha daou-ugent
 7945 = seizh mil nav c'hant pemp ha daou-ugent
@@ -8038,7 +8038,7 @@
 7949 = seizh mil nav c'hant nav ha daou-ugent
 7950 = seizh mil nav c'hant hanter-kant
 7951 = seizh mil nav c'hant unan hag hanter-kant
-7952 = seizh mil nav c'hant daou hag hanter-kant
+7952 = seizh mil nav c'hant div hag hanter-kant
 7953 = seizh mil nav c'hant tri hag hanter-kant
 7954 = seizh mil nav c'hant pevar hag hanter-kant
 7955 = seizh mil nav c'hant pemp hag hanter-kant
@@ -8048,7 +8048,7 @@
 7959 = seizh mil nav c'hant nav hag hanter-kant
 7960 = seizh mil nav c'hant tri-ugent
 7961 = seizh mil nav c'hant unan ha tri-ugent
-7962 = seizh mil nav c'hant daou ha tri-ugent
+7962 = seizh mil nav c'hant div ha tri-ugent
 7963 = seizh mil nav c'hant tri ha tri-ugent
 7964 = seizh mil nav c'hant pevar ha tri-ugent
 7965 = seizh mil nav c'hant pemp ha tri-ugent
@@ -8068,7 +8068,7 @@
 7979 = seizh mil nav c'hant naontek ha tri-ugent
 7980 = seizh mil nav c'hant pevar-ugent
 7981 = seizh mil nav c'hant unan ha pevar-ugent
-7982 = seizh mil nav c'hant daou ha pevar-ugent
+7982 = seizh mil nav c'hant div ha pevar-ugent
 7983 = seizh mil nav c'hant tri ha pevar-ugent
 7984 = seizh mil nav c'hant pevar ha pevar-ugent
 7985 = seizh mil nav c'hant pemp ha pevar-ugent
@@ -8089,7 +8089,7 @@
 
 8000 = eizh mil
 8001 = eizh mil unan
-8002 = eizh mil daou
+8002 = eizh mil div
 8003 = eizh mil tri
 8004 = eizh mil pevar
 8005 = eizh mil pemp
@@ -8109,7 +8109,7 @@
 8019 = eizh mil naontek
 8020 = eizh mil ugent
 8021 = eizh mil unan warn-ugent
-8022 = eizh mil daou warn-ugent
+8022 = eizh mil div warn-ugent
 8023 = eizh mil tri warn-ugent
 8024 = eizh mil pevar warn-ugent
 8025 = eizh mil pemp warn-ugent
@@ -8119,7 +8119,7 @@
 8029 = eizh mil nav warn-ugent
 8030 = eizh mil tregont
 8031 = eizh mil unan ha tregont
-8032 = eizh mil daou ha tregont
+8032 = eizh mil div ha tregont
 8033 = eizh mil tri ha tregont
 8034 = eizh mil pevar ha tregont
 8035 = eizh mil pemp ha tregont
@@ -8129,7 +8129,7 @@
 8039 = eizh mil nav ha tregont
 8040 = eizh mil daou-ugent
 8041 = eizh mil unan ha daou-ugent
-8042 = eizh mil daou ha daou-ugent
+8042 = eizh mil div ha daou-ugent
 8043 = eizh mil tri ha daou-ugent
 8044 = eizh mil pevar ha daou-ugent
 8045 = eizh mil pemp ha daou-ugent
@@ -8139,7 +8139,7 @@
 8049 = eizh mil nav ha daou-ugent
 8050 = eizh mil hanter-kant
 8051 = eizh mil unan hag hanter-kant
-8052 = eizh mil daou hag hanter-kant
+8052 = eizh mil div hag hanter-kant
 8053 = eizh mil tri hag hanter-kant
 8054 = eizh mil pevar hag hanter-kant
 8055 = eizh mil pemp hag hanter-kant
@@ -8149,7 +8149,7 @@
 8059 = eizh mil nav hag hanter-kant
 8060 = eizh mil tri-ugent
 8061 = eizh mil unan ha tri-ugent
-8062 = eizh mil daou ha tri-ugent
+8062 = eizh mil div ha tri-ugent
 8063 = eizh mil tri ha tri-ugent
 8064 = eizh mil pevar ha tri-ugent
 8065 = eizh mil pemp ha tri-ugent
@@ -8169,7 +8169,7 @@
 8079 = eizh mil naontek ha tri-ugent
 8080 = eizh mil pevar-ugent
 8081 = eizh mil unan ha pevar-ugent
-8082 = eizh mil daou ha pevar-ugent
+8082 = eizh mil div ha pevar-ugent
 8083 = eizh mil tri ha pevar-ugent
 8084 = eizh mil pevar ha pevar-ugent
 8085 = eizh mil pemp ha pevar-ugent
@@ -8190,7 +8190,7 @@
 
 8100 = eizh mil kant
 8101 = eizh mil kant unan
-8102 = eizh mil kant daou
+8102 = eizh mil kant div
 8103 = eizh mil kant tri
 8104 = eizh mil kant pevar
 8105 = eizh mil kant pemp
@@ -8210,7 +8210,7 @@
 8119 = eizh mil kant naontek
 8120 = eizh mil kant ugent
 8121 = eizh mil kant unan warn-ugent
-8122 = eizh mil kant daou warn-ugent
+8122 = eizh mil kant div warn-ugent
 8123 = eizh mil kant tri warn-ugent
 8124 = eizh mil kant pevar warn-ugent
 8125 = eizh mil kant pemp warn-ugent
@@ -8220,7 +8220,7 @@
 8129 = eizh mil kant nav warn-ugent
 8130 = eizh mil kant tregont
 8131 = eizh mil kant unan ha tregont
-8132 = eizh mil kant daou ha tregont
+8132 = eizh mil kant div ha tregont
 8133 = eizh mil kant tri ha tregont
 8134 = eizh mil kant pevar ha tregont
 8135 = eizh mil kant pemp ha tregont
@@ -8230,7 +8230,7 @@
 8139 = eizh mil kant nav ha tregont
 8140 = eizh mil kant daou-ugent
 8141 = eizh mil kant unan ha daou-ugent
-8142 = eizh mil kant daou ha daou-ugent
+8142 = eizh mil kant div ha daou-ugent
 8143 = eizh mil kant tri ha daou-ugent
 8144 = eizh mil kant pevar ha daou-ugent
 8145 = eizh mil kant pemp ha daou-ugent
@@ -8240,7 +8240,7 @@
 8149 = eizh mil kant nav ha daou-ugent
 8150 = eizh mil kant hanter-kant
 8151 = eizh mil kant unan hag hanter-kant
-8152 = eizh mil kant daou hag hanter-kant
+8152 = eizh mil kant div hag hanter-kant
 8153 = eizh mil kant tri hag hanter-kant
 8154 = eizh mil kant pevar hag hanter-kant
 8155 = eizh mil kant pemp hag hanter-kant
@@ -8250,7 +8250,7 @@
 8159 = eizh mil kant nav hag hanter-kant
 8160 = eizh mil kant tri-ugent
 8161 = eizh mil kant unan ha tri-ugent
-8162 = eizh mil kant daou ha tri-ugent
+8162 = eizh mil kant div ha tri-ugent
 8163 = eizh mil kant tri ha tri-ugent
 8164 = eizh mil kant pevar ha tri-ugent
 8165 = eizh mil kant pemp ha tri-ugent
@@ -8270,7 +8270,7 @@
 8179 = eizh mil kant naontek ha tri-ugent
 8180 = eizh mil kant pevar-ugent
 8181 = eizh mil kant unan ha pevar-ugent
-8182 = eizh mil kant daou ha pevar-ugent
+8182 = eizh mil kant div ha pevar-ugent
 8183 = eizh mil kant tri ha pevar-ugent
 8184 = eizh mil kant pevar ha pevar-ugent
 8185 = eizh mil kant pemp ha pevar-ugent
@@ -8291,7 +8291,7 @@
 
 8200 = eizh mil daou c'hant 
 8201 = eizh mil daou c'hant unan
-8202 = eizh mil daou c'hant daou
+8202 = eizh mil daou c'hant div
 8203 = eizh mil daou c'hant tri
 8204 = eizh mil daou c'hant pevar
 8205 = eizh mil daou c'hant pemp
@@ -8311,7 +8311,7 @@
 8219 = eizh mil daou c'hant naontek
 8220 = eizh mil daou c'hant ugent
 8221 = eizh mil daou c'hant unan warn-ugent
-8222 = eizh mil daou c'hant daou warn-ugent
+8222 = eizh mil daou c'hant div warn-ugent
 8223 = eizh mil daou c'hant tri warn-ugent
 8224 = eizh mil daou c'hant pevar warn-ugent
 8225 = eizh mil daou c'hant pemp warn-ugent
@@ -8321,7 +8321,7 @@
 8229 = eizh mil daou c'hant nav warn-ugent
 8230 = eizh mil daou c'hant tregont
 8231 = eizh mil daou c'hant unan ha tregont
-8232 = eizh mil daou c'hant daou ha tregont
+8232 = eizh mil daou c'hant div ha tregont
 8233 = eizh mil daou c'hant tri ha tregont
 8234 = eizh mil daou c'hant pevar ha tregont
 8235 = eizh mil daou c'hant pemp ha tregont
@@ -8331,7 +8331,7 @@
 8239 = eizh mil daou c'hant nav ha tregont
 8240 = eizh mil daou c'hant daou-ugent
 8241 = eizh mil daou c'hant unan ha daou-ugent
-8242 = eizh mil daou c'hant daou ha daou-ugent
+8242 = eizh mil daou c'hant div ha daou-ugent
 8243 = eizh mil daou c'hant tri ha daou-ugent
 8244 = eizh mil daou c'hant pevar ha daou-ugent
 8245 = eizh mil daou c'hant pemp ha daou-ugent
@@ -8341,7 +8341,7 @@
 8249 = eizh mil daou c'hant nav ha daou-ugent
 8250 = eizh mil daou c'hant hanter-kant
 8251 = eizh mil daou c'hant unan hag hanter-kant
-8252 = eizh mil daou c'hant daou hag hanter-kant
+8252 = eizh mil daou c'hant div hag hanter-kant
 8253 = eizh mil daou c'hant tri hag hanter-kant
 8254 = eizh mil daou c'hant pevar hag hanter-kant
 8255 = eizh mil daou c'hant pemp hag hanter-kant
@@ -8351,7 +8351,7 @@
 8259 = eizh mil daou c'hant nav hag hanter-kant
 8260 = eizh mil daou c'hant tri-ugent
 8261 = eizh mil daou c'hant unan ha tri-ugent
-8262 = eizh mil daou c'hant daou ha tri-ugent
+8262 = eizh mil daou c'hant div ha tri-ugent
 8263 = eizh mil daou c'hant tri ha tri-ugent
 8264 = eizh mil daou c'hant pevar ha tri-ugent
 8265 = eizh mil daou c'hant pemp ha tri-ugent
@@ -8371,7 +8371,7 @@
 8279 = eizh mil daou c'hant naontek ha tri-ugent
 8280 = eizh mil daou c'hant pevar-ugent
 8281 = eizh mil daou c'hant unan ha pevar-ugent
-8282 = eizh mil daou c'hant daou ha pevar-ugent
+8282 = eizh mil daou c'hant div ha pevar-ugent
 8283 = eizh mil daou c'hant tri ha pevar-ugent
 8284 = eizh mil daou c'hant pevar ha pevar-ugent
 8285 = eizh mil daou c'hant pemp ha pevar-ugent
@@ -8392,7 +8392,7 @@
 
 8300 = eizh mil tri c'hant 
 8301 = eizh mil tri c'hant unan
-8302 = eizh mil tri c'hant daou
+8302 = eizh mil tri c'hant div
 8303 = eizh mil tri c'hant tri
 8304 = eizh mil tri c'hant pevar
 8305 = eizh mil tri c'hant pemp
@@ -8412,7 +8412,7 @@
 8319 = eizh mil tri c'hant naontek
 8320 = eizh mil tri c'hant ugent
 8321 = eizh mil tri c'hant unan warn-ugent
-8322 = eizh mil tri c'hant daou warn-ugent
+8322 = eizh mil tri c'hant div warn-ugent
 8323 = eizh mil tri c'hant tri warn-ugent
 8324 = eizh mil tri c'hant pevar warn-ugent
 8325 = eizh mil tri c'hant pemp warn-ugent
@@ -8422,7 +8422,7 @@
 8329 = eizh mil tri c'hant nav warn-ugent
 8330 = eizh mil tri c'hant tregont
 8331 = eizh mil tri c'hant unan ha tregont
-8332 = eizh mil tri c'hant daou ha tregont
+8332 = eizh mil tri c'hant div ha tregont
 8333 = eizh mil tri c'hant tri ha tregont
 8334 = eizh mil tri c'hant pevar ha tregont
 8335 = eizh mil tri c'hant pemp ha tregont
@@ -8432,7 +8432,7 @@
 8339 = eizh mil tri c'hant nav ha tregont
 8340 = eizh mil tri c'hant daou-ugent
 8341 = eizh mil tri c'hant unan ha daou-ugent
-8342 = eizh mil tri c'hant daou ha daou-ugent
+8342 = eizh mil tri c'hant div ha daou-ugent
 8343 = eizh mil tri c'hant tri ha daou-ugent
 8344 = eizh mil tri c'hant pevar ha daou-ugent
 8345 = eizh mil tri c'hant pemp ha daou-ugent
@@ -8442,7 +8442,7 @@
 8349 = eizh mil tri c'hant nav ha daou-ugent
 8350 = eizh mil tri c'hant hanter-kant
 8351 = eizh mil tri c'hant unan hag hanter-kant
-8352 = eizh mil tri c'hant daou hag hanter-kant
+8352 = eizh mil tri c'hant div hag hanter-kant
 8353 = eizh mil tri c'hant tri hag hanter-kant
 8354 = eizh mil tri c'hant pevar hag hanter-kant
 8355 = eizh mil tri c'hant pemp hag hanter-kant
@@ -8452,7 +8452,7 @@
 8359 = eizh mil tri c'hant nav hag hanter-kant
 8360 = eizh mil tri c'hant tri-ugent
 8361 = eizh mil tri c'hant unan ha tri-ugent
-8362 = eizh mil tri c'hant daou ha tri-ugent
+8362 = eizh mil tri c'hant div ha tri-ugent
 8363 = eizh mil tri c'hant tri ha tri-ugent
 8364 = eizh mil tri c'hant pevar ha tri-ugent
 8365 = eizh mil tri c'hant pemp ha tri-ugent
@@ -8472,7 +8472,7 @@
 8379 = eizh mil tri c'hant naontek ha tri-ugent
 8380 = eizh mil tri c'hant pevar-ugent
 8381 = eizh mil tri c'hant unan ha pevar-ugent
-8382 = eizh mil tri c'hant daou ha pevar-ugent
+8382 = eizh mil tri c'hant div ha pevar-ugent
 8383 = eizh mil tri c'hant tri ha pevar-ugent
 8384 = eizh mil tri c'hant pevar ha pevar-ugent
 8385 = eizh mil tri c'hant pemp ha pevar-ugent
@@ -8493,7 +8493,7 @@
 
 8400 = eizh mil pevar c'hant 
 8401 = eizh mil pevar c'hant unan
-8402 = eizh mil pevar c'hant daou
+8402 = eizh mil pevar c'hant div
 8403 = eizh mil pevar c'hant tri
 8404 = eizh mil pevar c'hant pevar
 8405 = eizh mil pevar c'hant pemp
@@ -8513,7 +8513,7 @@
 8419 = eizh mil pevar c'hant naontek
 8420 = eizh mil pevar c'hant ugent
 8421 = eizh mil pevar c'hant unan warn-ugent
-8422 = eizh mil pevar c'hant daou warn-ugent
+8422 = eizh mil pevar c'hant div warn-ugent
 8423 = eizh mil pevar c'hant tri warn-ugent
 8424 = eizh mil pevar c'hant pevar warn-ugent
 8425 = eizh mil pevar c'hant pemp warn-ugent
@@ -8523,7 +8523,7 @@
 8429 = eizh mil pevar c'hant nav warn-ugent
 8430 = eizh mil pevar c'hant tregont
 8431 = eizh mil pevar c'hant unan ha tregont
-8432 = eizh mil pevar c'hant daou ha tregont
+8432 = eizh mil pevar c'hant div ha tregont
 8433 = eizh mil pevar c'hant tri ha tregont
 8434 = eizh mil pevar c'hant pevar ha tregont
 8435 = eizh mil pevar c'hant pemp ha tregont
@@ -8533,7 +8533,7 @@
 8439 = eizh mil pevar c'hant nav ha tregont
 8440 = eizh mil pevar c'hant daou-ugent
 8441 = eizh mil pevar c'hant unan ha daou-ugent
-8442 = eizh mil pevar c'hant daou ha daou-ugent
+8442 = eizh mil pevar c'hant div ha daou-ugent
 8443 = eizh mil pevar c'hant tri ha daou-ugent
 8444 = eizh mil pevar c'hant pevar ha daou-ugent
 8445 = eizh mil pevar c'hant pemp ha daou-ugent
@@ -8543,7 +8543,7 @@
 8449 = eizh mil pevar c'hant nav ha daou-ugent
 8450 = eizh mil pevar c'hant hanter-kant
 8451 = eizh mil pevar c'hant unan hag hanter-kant
-8452 = eizh mil pevar c'hant daou hag hanter-kant
+8452 = eizh mil pevar c'hant div hag hanter-kant
 8453 = eizh mil pevar c'hant tri hag hanter-kant
 8454 = eizh mil pevar c'hant pevar hag hanter-kant
 8455 = eizh mil pevar c'hant pemp hag hanter-kant
@@ -8553,7 +8553,7 @@
 8459 = eizh mil pevar c'hant nav hag hanter-kant
 8460 = eizh mil pevar c'hant tri-ugent
 8461 = eizh mil pevar c'hant unan ha tri-ugent
-8462 = eizh mil pevar c'hant daou ha tri-ugent
+8462 = eizh mil pevar c'hant div ha tri-ugent
 8463 = eizh mil pevar c'hant tri ha tri-ugent
 8464 = eizh mil pevar c'hant pevar ha tri-ugent
 8465 = eizh mil pevar c'hant pemp ha tri-ugent
@@ -8573,7 +8573,7 @@
 8479 = eizh mil pevar c'hant naontek ha tri-ugent
 8480 = eizh mil pevar c'hant pevar-ugent
 8481 = eizh mil pevar c'hant unan ha pevar-ugent
-8482 = eizh mil pevar c'hant daou ha pevar-ugent
+8482 = eizh mil pevar c'hant div ha pevar-ugent
 8483 = eizh mil pevar c'hant tri ha pevar-ugent
 8484 = eizh mil pevar c'hant pevar ha pevar-ugent
 8485 = eizh mil pevar c'hant pemp ha pevar-ugent
@@ -8594,7 +8594,7 @@
 
 8500 = eizh mil pemp kant 
 8501 = eizh mil pemp kant unan
-8502 = eizh mil pemp kant daou
+8502 = eizh mil pemp kant div
 8503 = eizh mil pemp kant tri
 8504 = eizh mil pemp kant pevar
 8505 = eizh mil pemp kant pemp
@@ -8614,7 +8614,7 @@
 8519 = eizh mil pemp kant naontek
 8520 = eizh mil pemp kant ugent
 8521 = eizh mil pemp kant unan warn-ugent
-8522 = eizh mil pemp kant daou warn-ugent
+8522 = eizh mil pemp kant div warn-ugent
 8523 = eizh mil pemp kant tri warn-ugent
 8524 = eizh mil pemp kant pevar warn-ugent
 8525 = eizh mil pemp kant pemp warn-ugent
@@ -8624,7 +8624,7 @@
 8529 = eizh mil pemp kant nav warn-ugent
 8530 = eizh mil pemp kant tregont
 8531 = eizh mil pemp kant unan ha tregont
-8532 = eizh mil pemp kant daou ha tregont
+8532 = eizh mil pemp kant div ha tregont
 8533 = eizh mil pemp kant tri ha tregont
 8534 = eizh mil pemp kant pevar ha tregont
 8535 = eizh mil pemp kant pemp ha tregont
@@ -8634,7 +8634,7 @@
 8539 = eizh mil pemp kant nav ha tregont
 8540 = eizh mil pemp kant daou-ugent
 8541 = eizh mil pemp kant unan ha daou-ugent
-8542 = eizh mil pemp kant daou ha daou-ugent
+8542 = eizh mil pemp kant div ha daou-ugent
 8543 = eizh mil pemp kant tri ha daou-ugent
 8544 = eizh mil pemp kant pevar ha daou-ugent
 8545 = eizh mil pemp kant pemp ha daou-ugent
@@ -8644,7 +8644,7 @@
 8549 = eizh mil pemp kant nav ha daou-ugent
 8550 = eizh mil pemp kant hanter-kant
 8551 = eizh mil pemp kant unan hag hanter-kant
-8552 = eizh mil pemp kant daou hag hanter-kant
+8552 = eizh mil pemp kant div hag hanter-kant
 8553 = eizh mil pemp kant tri hag hanter-kant
 8554 = eizh mil pemp kant pevar hag hanter-kant
 8555 = eizh mil pemp kant pemp hag hanter-kant
@@ -8654,7 +8654,7 @@
 8559 = eizh mil pemp kant nav hag hanter-kant
 8560 = eizh mil pemp kant tri-ugent
 8561 = eizh mil pemp kant unan ha tri-ugent
-8562 = eizh mil pemp kant daou ha tri-ugent
+8562 = eizh mil pemp kant div ha tri-ugent
 8563 = eizh mil pemp kant tri ha tri-ugent
 8564 = eizh mil pemp kant pevar ha tri-ugent
 8565 = eizh mil pemp kant pemp ha tri-ugent
@@ -8674,7 +8674,7 @@
 8579 = eizh mil pemp kant naontek ha tri-ugent
 8580 = eizh mil pemp kant pevar-ugent
 8581 = eizh mil pemp kant unan ha pevar-ugent
-8582 = eizh mil pemp kant daou ha pevar-ugent
+8582 = eizh mil pemp kant div ha pevar-ugent
 8583 = eizh mil pemp kant tri ha pevar-ugent
 8584 = eizh mil pemp kant pevar ha pevar-ugent
 8585 = eizh mil pemp kant pemp ha pevar-ugent
@@ -8695,7 +8695,7 @@
 
 8600 = eizh mil c'hwec'h kant 
 8601 = eizh mil c'hwec'h kant unan
-8602 = eizh mil c'hwec'h kant daou
+8602 = eizh mil c'hwec'h kant div
 8603 = eizh mil c'hwec'h kant tri
 8604 = eizh mil c'hwec'h kant pevar
 8605 = eizh mil c'hwec'h kant pemp
@@ -8715,7 +8715,7 @@
 8619 = eizh mil c'hwec'h kant naontek
 8620 = eizh mil c'hwec'h kant ugent
 8621 = eizh mil c'hwec'h kant unan warn-ugent
-8622 = eizh mil c'hwec'h kant daou warn-ugent
+8622 = eizh mil c'hwec'h kant div warn-ugent
 8623 = eizh mil c'hwec'h kant tri warn-ugent
 8624 = eizh mil c'hwec'h kant pevar warn-ugent
 8625 = eizh mil c'hwec'h kant pemp warn-ugent
@@ -8725,7 +8725,7 @@
 8629 = eizh mil c'hwec'h kant nav warn-ugent
 8630 = eizh mil c'hwec'h kant tregont
 8631 = eizh mil c'hwec'h kant unan ha tregont
-8632 = eizh mil c'hwec'h kant daou ha tregont
+8632 = eizh mil c'hwec'h kant div ha tregont
 8633 = eizh mil c'hwec'h kant tri ha tregont
 8634 = eizh mil c'hwec'h kant pevar ha tregont
 8635 = eizh mil c'hwec'h kant pemp ha tregont
@@ -8735,7 +8735,7 @@
 8639 = eizh mil c'hwec'h kant nav ha tregont
 8640 = eizh mil c'hwec'h kant daou-ugent
 8641 = eizh mil c'hwec'h kant unan ha daou-ugent
-8642 = eizh mil c'hwec'h kant daou ha daou-ugent
+8642 = eizh mil c'hwec'h kant div ha daou-ugent
 8643 = eizh mil c'hwec'h kant tri ha daou-ugent
 8644 = eizh mil c'hwec'h kant pevar ha daou-ugent
 8645 = eizh mil c'hwec'h kant pemp ha daou-ugent
@@ -8745,7 +8745,7 @@
 8649 = eizh mil c'hwec'h kant nav ha daou-ugent
 8650 = eizh mil c'hwec'h kant hanter-kant
 8651 = eizh mil c'hwec'h kant unan hag hanter-kant
-8652 = eizh mil c'hwec'h kant daou hag hanter-kant
+8652 = eizh mil c'hwec'h kant div hag hanter-kant
 8653 = eizh mil c'hwec'h kant tri hag hanter-kant
 8654 = eizh mil c'hwec'h kant pevar hag hanter-kant
 8655 = eizh mil c'hwec'h kant pemp hag hanter-kant
@@ -8755,7 +8755,7 @@
 8659 = eizh mil c'hwec'h kant nav hag hanter-kant
 8660 = eizh mil c'hwec'h kant tri-ugent
 8661 = eizh mil c'hwec'h kant unan ha tri-ugent
-8662 = eizh mil c'hwec'h kant daou ha tri-ugent
+8662 = eizh mil c'hwec'h kant div ha tri-ugent
 8663 = eizh mil c'hwec'h kant tri ha tri-ugent
 8664 = eizh mil c'hwec'h kant pevar ha tri-ugent
 8665 = eizh mil c'hwec'h kant pemp ha tri-ugent
@@ -8775,7 +8775,7 @@
 8679 = eizh mil c'hwec'h kant naontek ha tri-ugent
 8680 = eizh mil c'hwec'h kant pevar-ugent
 8681 = eizh mil c'hwec'h kant unan ha pevar-ugent
-8682 = eizh mil c'hwec'h kant daou ha pevar-ugent
+8682 = eizh mil c'hwec'h kant div ha pevar-ugent
 8683 = eizh mil c'hwec'h kant tri ha pevar-ugent
 8684 = eizh mil c'hwec'h kant pevar ha pevar-ugent
 8685 = eizh mil c'hwec'h kant pemp ha pevar-ugent
@@ -8796,7 +8796,7 @@
 
 8700 = eizh mil seizh kant 
 8701 = eizh mil seizh kant unan
-8702 = eizh mil seizh kant daou
+8702 = eizh mil seizh kant div
 8703 = eizh mil seizh kant tri
 8704 = eizh mil seizh kant pevar
 8705 = eizh mil seizh kant pemp
@@ -8816,7 +8816,7 @@
 8719 = eizh mil seizh kant naontek
 8720 = eizh mil seizh kant ugent
 8721 = eizh mil seizh kant unan warn-ugent
-8722 = eizh mil seizh kant daou warn-ugent
+8722 = eizh mil seizh kant div warn-ugent
 8723 = eizh mil seizh kant tri warn-ugent
 8724 = eizh mil seizh kant pevar warn-ugent
 8725 = eizh mil seizh kant pemp warn-ugent
@@ -8826,7 +8826,7 @@
 8729 = eizh mil seizh kant nav warn-ugent
 8730 = eizh mil seizh kant tregont
 8731 = eizh mil seizh kant unan ha tregont
-8732 = eizh mil seizh kant daou ha tregont
+8732 = eizh mil seizh kant div ha tregont
 8733 = eizh mil seizh kant tri ha tregont
 8734 = eizh mil seizh kant pevar ha tregont
 8735 = eizh mil seizh kant pemp ha tregont
@@ -8836,7 +8836,7 @@
 8739 = eizh mil seizh kant nav ha tregont
 8740 = eizh mil seizh kant daou-ugent
 8741 = eizh mil seizh kant unan ha daou-ugent
-8742 = eizh mil seizh kant daou ha daou-ugent
+8742 = eizh mil seizh kant div ha daou-ugent
 8743 = eizh mil seizh kant tri ha daou-ugent
 8744 = eizh mil seizh kant pevar ha daou-ugent
 8745 = eizh mil seizh kant pemp ha daou-ugent
@@ -8846,7 +8846,7 @@
 8749 = eizh mil seizh kant nav ha daou-ugent
 8750 = eizh mil seizh kant hanter-kant
 8751 = eizh mil seizh kant unan hag hanter-kant
-8752 = eizh mil seizh kant daou hag hanter-kant
+8752 = eizh mil seizh kant div hag hanter-kant
 8753 = eizh mil seizh kant tri hag hanter-kant
 8754 = eizh mil seizh kant pevar hag hanter-kant
 8755 = eizh mil seizh kant pemp hag hanter-kant
@@ -8856,7 +8856,7 @@
 8759 = eizh mil seizh kant nav hag hanter-kant
 8760 = eizh mil seizh kant tri-ugent
 8761 = eizh mil seizh kant unan ha tri-ugent
-8762 = eizh mil seizh kant daou ha tri-ugent
+8762 = eizh mil seizh kant div ha tri-ugent
 8763 = eizh mil seizh kant tri ha tri-ugent
 8764 = eizh mil seizh kant pevar ha tri-ugent
 8765 = eizh mil seizh kant pemp ha tri-ugent
@@ -8876,7 +8876,7 @@
 8779 = eizh mil seizh kant naontek ha tri-ugent
 8780 = eizh mil seizh kant pevar-ugent
 8781 = eizh mil seizh kant unan ha pevar-ugent
-8782 = eizh mil seizh kant daou ha pevar-ugent
+8782 = eizh mil seizh kant div ha pevar-ugent
 8783 = eizh mil seizh kant tri ha pevar-ugent
 8784 = eizh mil seizh kant pevar ha pevar-ugent
 8785 = eizh mil seizh kant pemp ha pevar-ugent
@@ -8897,7 +8897,7 @@
 
 8800 = eizh mil eizh kant 
 8801 = eizh mil eizh kant unan
-8802 = eizh mil eizh kant daou
+8802 = eizh mil eizh kant div
 8803 = eizh mil eizh kant tri
 8804 = eizh mil eizh kant pevar
 8805 = eizh mil eizh kant pemp
@@ -8917,7 +8917,7 @@
 8819 = eizh mil eizh kant naontek
 8820 = eizh mil eizh kant ugent
 8821 = eizh mil eizh kant unan warn-ugent
-8822 = eizh mil eizh kant daou warn-ugent
+8822 = eizh mil eizh kant div warn-ugent
 8823 = eizh mil eizh kant tri warn-ugent
 8824 = eizh mil eizh kant pevar warn-ugent
 8825 = eizh mil eizh kant pemp warn-ugent
@@ -8927,7 +8927,7 @@
 8829 = eizh mil eizh kant nav warn-ugent
 8830 = eizh mil eizh kant tregont
 8831 = eizh mil eizh kant unan ha tregont
-8832 = eizh mil eizh kant daou ha tregont
+8832 = eizh mil eizh kant div ha tregont
 8833 = eizh mil eizh kant tri ha tregont
 8834 = eizh mil eizh kant pevar ha tregont
 8835 = eizh mil eizh kant pemp ha tregont
@@ -8937,7 +8937,7 @@
 8839 = eizh mil eizh kant nav ha tregont
 8840 = eizh mil eizh kant daou-ugent
 8841 = eizh mil eizh kant unan ha daou-ugent
-8842 = eizh mil eizh kant daou ha daou-ugent
+8842 = eizh mil eizh kant div ha daou-ugent
 8843 = eizh mil eizh kant tri ha daou-ugent
 8844 = eizh mil eizh kant pevar ha daou-ugent
 8845 = eizh mil eizh kant pemp ha daou-ugent
@@ -8947,7 +8947,7 @@
 8849 = eizh mil eizh kant nav ha daou-ugent
 8850 = eizh mil eizh kant hanter-kant
 8851 = eizh mil eizh kant unan hag hanter-kant
-8852 = eizh mil eizh kant daou hag hanter-kant
+8852 = eizh mil eizh kant div hag hanter-kant
 8853 = eizh mil eizh kant tri hag hanter-kant
 8854 = eizh mil eizh kant pevar hag hanter-kant
 8855 = eizh mil eizh kant pemp hag hanter-kant
@@ -8957,7 +8957,7 @@
 8859 = eizh mil eizh kant nav hag hanter-kant
 8860 = eizh mil eizh kant tri-ugent
 8861 = eizh mil eizh kant unan ha tri-ugent
-8862 = eizh mil eizh kant daou ha tri-ugent
+8862 = eizh mil eizh kant div ha tri-ugent
 8863 = eizh mil eizh kant tri ha tri-ugent
 8864 = eizh mil eizh kant pevar ha tri-ugent
 8865 = eizh mil eizh kant pemp ha tri-ugent
@@ -8977,7 +8977,7 @@
 8879 = eizh mil eizh kant naontek ha tri-ugent
 8880 = eizh mil eizh kant pevar-ugent
 8881 = eizh mil eizh kant unan ha pevar-ugent
-8882 = eizh mil eizh kant daou ha pevar-ugent
+8882 = eizh mil eizh kant div ha pevar-ugent
 8883 = eizh mil eizh kant tri ha pevar-ugent
 8884 = eizh mil eizh kant pevar ha pevar-ugent
 8885 = eizh mil eizh kant pemp ha pevar-ugent
@@ -8998,7 +8998,7 @@
 
 8900 = eizh mil nav c'hant 
 8901 = eizh mil nav c'hant unan
-8902 = eizh mil nav c'hant daou
+8902 = eizh mil nav c'hant div
 8903 = eizh mil nav c'hant tri
 8904 = eizh mil nav c'hant pevar
 8905 = eizh mil nav c'hant pemp
@@ -9018,7 +9018,7 @@
 8919 = eizh mil nav c'hant naontek
 8920 = eizh mil nav c'hant ugent
 8921 = eizh mil nav c'hant unan warn-ugent
-8922 = eizh mil nav c'hant daou warn-ugent
+8922 = eizh mil nav c'hant div warn-ugent
 8923 = eizh mil nav c'hant tri warn-ugent
 8924 = eizh mil nav c'hant pevar warn-ugent
 8925 = eizh mil nav c'hant pemp warn-ugent
@@ -9028,7 +9028,7 @@
 8929 = eizh mil nav c'hant nav warn-ugent
 8930 = eizh mil nav c'hant tregont
 8931 = eizh mil nav c'hant unan ha tregont
-8932 = eizh mil nav c'hant daou ha tregont
+8932 = eizh mil nav c'hant div ha tregont
 8933 = eizh mil nav c'hant tri ha tregont
 8934 = eizh mil nav c'hant pevar ha tregont
 8935 = eizh mil nav c'hant pemp ha tregont
@@ -9038,7 +9038,7 @@
 8939 = eizh mil nav c'hant nav ha tregont
 8940 = eizh mil nav c'hant daou-ugent
 8941 = eizh mil nav c'hant unan ha daou-ugent
-8942 = eizh mil nav c'hant daou ha daou-ugent
+8942 = eizh mil nav c'hant div ha daou-ugent
 8943 = eizh mil nav c'hant tri ha daou-ugent
 8944 = eizh mil nav c'hant pevar ha daou-ugent
 8945 = eizh mil nav c'hant pemp ha daou-ugent
@@ -9048,7 +9048,7 @@
 8949 = eizh mil nav c'hant nav ha daou-ugent
 8950 = eizh mil nav c'hant hanter-kant
 8951 = eizh mil nav c'hant unan hag hanter-kant
-8952 = eizh mil nav c'hant daou hag hanter-kant
+8952 = eizh mil nav c'hant div hag hanter-kant
 8953 = eizh mil nav c'hant tri hag hanter-kant
 8954 = eizh mil nav c'hant pevar hag hanter-kant
 8955 = eizh mil nav c'hant pemp hag hanter-kant
@@ -9058,7 +9058,7 @@
 8959 = eizh mil nav c'hant nav hag hanter-kant
 8960 = eizh mil nav c'hant tri-ugent
 8961 = eizh mil nav c'hant unan ha tri-ugent
-8962 = eizh mil nav c'hant daou ha tri-ugent
+8962 = eizh mil nav c'hant div ha tri-ugent
 8963 = eizh mil nav c'hant tri ha tri-ugent
 8964 = eizh mil nav c'hant pevar ha tri-ugent
 8965 = eizh mil nav c'hant pemp ha tri-ugent
@@ -9078,7 +9078,7 @@
 8979 = eizh mil nav c'hant naontek ha tri-ugent
 8980 = eizh mil nav c'hant pevar-ugent
 8981 = eizh mil nav c'hant unan ha pevar-ugent
-8982 = eizh mil nav c'hant daou ha pevar-ugent
+8982 = eizh mil nav c'hant div ha pevar-ugent
 8983 = eizh mil nav c'hant tri ha pevar-ugent
 8984 = eizh mil nav c'hant pevar ha pevar-ugent
 8985 = eizh mil nav c'hant pemp ha pevar-ugent
@@ -9099,7 +9099,7 @@
 
 9000 = nav mil 
 9001 = nav mil unan
-9002 = nav mil daou
+9002 = nav mil div
 9003 = nav mil tri
 9004 = nav mil pevar
 9005 = nav mil pemp
@@ -9119,7 +9119,7 @@
 9019 = nav mil naontek
 9020 = nav mil ugent
 9021 = nav mil unan warn-ugent
-9022 = nav mil daou warn-ugent
+9022 = nav mil div warn-ugent
 9023 = nav mil tri warn-ugent
 9024 = nav mil pevar warn-ugent
 9025 = nav mil pemp warn-ugent
@@ -9129,7 +9129,7 @@
 9029 = nav mil nav warn-ugent
 9030 = nav mil tregont
 9031 = nav mil unan ha tregont
-9032 = nav mil daou ha tregont
+9032 = nav mil div ha tregont
 9033 = nav mil tri ha tregont
 9034 = nav mil pevar ha tregont
 9035 = nav mil pemp ha tregont
@@ -9139,7 +9139,7 @@
 9039 = nav mil nav ha tregont
 9040 = nav mil daou-ugent
 9041 = nav mil unan ha daou-ugent
-9042 = nav mil daou ha daou-ugent
+9042 = nav mil div ha daou-ugent
 9043 = nav mil tri ha daou-ugent
 9044 = nav mil pevar ha daou-ugent
 9045 = nav mil pemp ha daou-ugent
@@ -9149,7 +9149,7 @@
 9049 = nav mil nav ha daou-ugent
 9050 = nav mil hanter-kant
 9051 = nav mil unan hag hanter-kant
-9052 = nav mil daou hag hanter-kant
+9052 = nav mil div hag hanter-kant
 9053 = nav mil tri hag hanter-kant
 9054 = nav mil pevar hag hanter-kant
 9055 = nav mil pemp hag hanter-kant
@@ -9159,7 +9159,7 @@
 9059 = nav mil nav hag hanter-kant
 9060 = nav mil tri-ugent
 9061 = nav mil unan ha tri-ugent
-9062 = nav mil daou ha tri-ugent
+9062 = nav mil div ha tri-ugent
 9063 = nav mil tri ha tri-ugent
 9064 = nav mil pevar ha tri-ugent
 9065 = nav mil pemp ha tri-ugent
@@ -9179,7 +9179,7 @@
 9079 = nav mil naontek ha tri-ugent
 9080 = nav mil pevar-ugent
 9081 = nav mil unan ha pevar-ugent
-9082 = nav mil daou ha pevar-ugent
+9082 = nav mil div ha pevar-ugent
 9083 = nav mil tri ha pevar-ugent
 9084 = nav mil pevar ha pevar-ugent
 9085 = nav mil pemp ha pevar-ugent
@@ -9200,7 +9200,7 @@
 
 9100 = nav mil kant
 9101 = nav mil kant unan
-9102 = nav mil kant daou
+9102 = nav mil kant div
 9103 = nav mil kant tri
 9104 = nav mil kant pevar
 9105 = nav mil kant pemp
@@ -9220,7 +9220,7 @@
 9119 = nav mil kant naontek
 9120 = nav mil kant ugent
 9121 = nav mil kant unan warn-ugent
-9122 = nav mil kant daou warn-ugent
+9122 = nav mil kant div warn-ugent
 9123 = nav mil kant tri warn-ugent
 9124 = nav mil kant pevar warn-ugent
 9125 = nav mil kant pemp warn-ugent
@@ -9230,7 +9230,7 @@
 9129 = nav mil kant nav warn-ugent
 9130 = nav mil kant tregont
 9131 = nav mil kant unan ha tregont
-9132 = nav mil kant daou ha tregont
+9132 = nav mil kant div ha tregont
 9133 = nav mil kant tri ha tregont
 9134 = nav mil kant pevar ha tregont
 9135 = nav mil kant pemp ha tregont
@@ -9240,7 +9240,7 @@
 9139 = nav mil kant nav ha tregont
 9140 = nav mil kant daou-ugent
 9141 = nav mil kant unan ha daou-ugent
-9142 = nav mil kant daou ha daou-ugent
+9142 = nav mil kant div ha daou-ugent
 9143 = nav mil kant tri ha daou-ugent
 9144 = nav mil kant pevar ha daou-ugent
 9145 = nav mil kant pemp ha daou-ugent
@@ -9250,7 +9250,7 @@
 9149 = nav mil kant nav ha daou-ugent
 9150 = nav mil kant hanter-kant
 9151 = nav mil kant unan hag hanter-kant
-9152 = nav mil kant daou hag hanter-kant
+9152 = nav mil kant div hag hanter-kant
 9153 = nav mil kant tri hag hanter-kant
 9154 = nav mil kant pevar hag hanter-kant
 9155 = nav mil kant pemp hag hanter-kant
@@ -9260,7 +9260,7 @@
 9159 = nav mil kant nav hag hanter-kant
 9160 = nav mil kant tri-ugent
 9161 = nav mil kant unan ha tri-ugent
-9162 = nav mil kant daou ha tri-ugent
+9162 = nav mil kant div ha tri-ugent
 9163 = nav mil kant tri ha tri-ugent
 9164 = nav mil kant pevar ha tri-ugent
 9165 = nav mil kant pemp ha tri-ugent
@@ -9280,7 +9280,7 @@
 9179 = nav mil kant naontek ha tri-ugent
 9180 = nav mil kant pevar-ugent
 9181 = nav mil kant unan ha pevar-ugent
-9182 = nav mil kant daou ha pevar-ugent
+9182 = nav mil kant div ha pevar-ugent
 9183 = nav mil kant tri ha pevar-ugent
 9184 = nav mil kant pevar ha pevar-ugent
 9185 = nav mil kant pemp ha pevar-ugent
@@ -9301,7 +9301,7 @@
 
 9200 = nav mil daou c'hant
 9201 = nav mil daou c'hant unan
-9202 = nav mil daou c'hant daou
+9202 = nav mil daou c'hant div
 9203 = nav mil daou c'hant tri
 9204 = nav mil daou c'hant pevar
 9205 = nav mil daou c'hant pemp
@@ -9321,7 +9321,7 @@
 9219 = nav mil daou c'hant naontek
 9220 = nav mil daou c'hant ugent
 9221 = nav mil daou c'hant unan warn-ugent
-9222 = nav mil daou c'hant daou warn-ugent
+9222 = nav mil daou c'hant div warn-ugent
 9223 = nav mil daou c'hant tri warn-ugent
 9224 = nav mil daou c'hant pevar warn-ugent
 9225 = nav mil daou c'hant pemp warn-ugent
@@ -9331,7 +9331,7 @@
 9229 = nav mil daou c'hant nav warn-ugent
 9230 = nav mil daou c'hant tregont
 9231 = nav mil daou c'hant unan ha tregont
-9232 = nav mil daou c'hant daou ha tregont
+9232 = nav mil daou c'hant div ha tregont
 9233 = nav mil daou c'hant tri ha tregont
 9234 = nav mil daou c'hant pevar ha tregont
 9235 = nav mil daou c'hant pemp ha tregont
@@ -9341,7 +9341,7 @@
 9239 = nav mil daou c'hant nav ha tregont
 9240 = nav mil daou c'hant daou-ugent
 9241 = nav mil daou c'hant unan ha daou-ugent
-9242 = nav mil daou c'hant daou ha daou-ugent
+9242 = nav mil daou c'hant div ha daou-ugent
 9243 = nav mil daou c'hant tri ha daou-ugent
 9244 = nav mil daou c'hant pevar ha daou-ugent
 9245 = nav mil daou c'hant pemp ha daou-ugent
@@ -9351,7 +9351,7 @@
 9249 = nav mil daou c'hant nav ha daou-ugent
 9250 = nav mil daou c'hant hanter-kant
 9251 = nav mil daou c'hant unan hag hanter-kant
-9252 = nav mil daou c'hant daou hag hanter-kant
+9252 = nav mil daou c'hant div hag hanter-kant
 9253 = nav mil daou c'hant tri hag hanter-kant
 9254 = nav mil daou c'hant pevar hag hanter-kant
 9255 = nav mil daou c'hant pemp hag hanter-kant
@@ -9361,7 +9361,7 @@
 9259 = nav mil daou c'hant nav hag hanter-kant
 9260 = nav mil daou c'hant tri-ugent
 9261 = nav mil daou c'hant unan ha tri-ugent
-9262 = nav mil daou c'hant daou ha tri-ugent
+9262 = nav mil daou c'hant div ha tri-ugent
 9263 = nav mil daou c'hant tri ha tri-ugent
 9264 = nav mil daou c'hant pevar ha tri-ugent
 9265 = nav mil daou c'hant pemp ha tri-ugent
@@ -9381,7 +9381,7 @@
 9279 = nav mil daou c'hant naontek ha tri-ugent
 9280 = nav mil daou c'hant pevar-ugent
 9281 = nav mil daou c'hant unan ha pevar-ugent
-9282 = nav mil daou c'hant daou ha pevar-ugent
+9282 = nav mil daou c'hant div ha pevar-ugent
 9283 = nav mil daou c'hant tri ha pevar-ugent
 9284 = nav mil daou c'hant pevar ha pevar-ugent
 9285 = nav mil daou c'hant pemp ha pevar-ugent
@@ -9402,7 +9402,7 @@
 
 9300 = nav mil tri c'hant
 9301 = nav mil tri c'hant unan
-9302 = nav mil tri c'hant daou
+9302 = nav mil tri c'hant div
 9303 = nav mil tri c'hant tri
 9304 = nav mil tri c'hant pevar
 9305 = nav mil tri c'hant pemp
@@ -9422,7 +9422,7 @@
 9319 = nav mil tri c'hant naontek
 9320 = nav mil tri c'hant ugent
 9321 = nav mil tri c'hant unan warn-ugent
-9322 = nav mil tri c'hant daou warn-ugent
+9322 = nav mil tri c'hant div warn-ugent
 9323 = nav mil tri c'hant tri warn-ugent
 9324 = nav mil tri c'hant pevar warn-ugent
 9325 = nav mil tri c'hant pemp warn-ugent
@@ -9432,7 +9432,7 @@
 9329 = nav mil tri c'hant nav warn-ugent
 9330 = nav mil tri c'hant tregont
 9331 = nav mil tri c'hant unan ha tregont
-9332 = nav mil tri c'hant daou ha tregont
+9332 = nav mil tri c'hant div ha tregont
 9333 = nav mil tri c'hant tri ha tregont
 9334 = nav mil tri c'hant pevar ha tregont
 9335 = nav mil tri c'hant pemp ha tregont
@@ -9442,7 +9442,7 @@
 9339 = nav mil tri c'hant nav ha tregont
 9340 = nav mil tri c'hant daou-ugent
 9341 = nav mil tri c'hant unan ha daou-ugent
-9342 = nav mil tri c'hant daou ha daou-ugent
+9342 = nav mil tri c'hant div ha daou-ugent
 9343 = nav mil tri c'hant tri ha daou-ugent
 9344 = nav mil tri c'hant pevar ha daou-ugent
 9345 = nav mil tri c'hant pemp ha daou-ugent
@@ -9452,7 +9452,7 @@
 9349 = nav mil tri c'hant nav ha daou-ugent
 9350 = nav mil tri c'hant hanter-kant
 9351 = nav mil tri c'hant unan hag hanter-kant
-9352 = nav mil tri c'hant daou hag hanter-kant
+9352 = nav mil tri c'hant div hag hanter-kant
 9353 = nav mil tri c'hant tri hag hanter-kant
 9354 = nav mil tri c'hant pevar hag hanter-kant
 9355 = nav mil tri c'hant pemp hag hanter-kant
@@ -9462,7 +9462,7 @@
 9359 = nav mil tri c'hant nav hag hanter-kant
 9360 = nav mil tri c'hant tri-ugent
 9361 = nav mil tri c'hant unan ha tri-ugent
-9362 = nav mil tri c'hant daou ha tri-ugent
+9362 = nav mil tri c'hant div ha tri-ugent
 9363 = nav mil tri c'hant tri ha tri-ugent
 9364 = nav mil tri c'hant pevar ha tri-ugent
 9365 = nav mil tri c'hant pemp ha tri-ugent
@@ -9482,7 +9482,7 @@
 9379 = nav mil tri c'hant naontek ha tri-ugent
 9380 = nav mil tri c'hant pevar-ugent
 9381 = nav mil tri c'hant unan ha pevar-ugent
-9382 = nav mil tri c'hant daou ha pevar-ugent
+9382 = nav mil tri c'hant div ha pevar-ugent
 9383 = nav mil tri c'hant tri ha pevar-ugent
 9384 = nav mil tri c'hant pevar ha pevar-ugent
 9385 = nav mil tri c'hant pemp ha pevar-ugent
@@ -9503,7 +9503,7 @@
 
 9400 = nav mil pevar c'hant
 9401 = nav mil pevar c'hant unan
-9402 = nav mil pevar c'hant daou
+9402 = nav mil pevar c'hant div
 9403 = nav mil pevar c'hant tri
 9404 = nav mil pevar c'hant pevar
 9405 = nav mil pevar c'hant pemp
@@ -9523,7 +9523,7 @@
 9419 = nav mil pevar c'hant naontek
 9420 = nav mil pevar c'hant ugent
 9421 = nav mil pevar c'hant unan warn-ugent
-9422 = nav mil pevar c'hant daou warn-ugent
+9422 = nav mil pevar c'hant div warn-ugent
 9423 = nav mil pevar c'hant tri warn-ugent
 9424 = nav mil pevar c'hant pevar warn-ugent
 9425 = nav mil pevar c'hant pemp warn-ugent
@@ -9533,7 +9533,7 @@
 9429 = nav mil pevar c'hant nav warn-ugent
 9430 = nav mil pevar c'hant tregont
 9431 = nav mil pevar c'hant unan ha tregont
-9432 = nav mil pevar c'hant daou ha tregont
+9432 = nav mil pevar c'hant div ha tregont
 9433 = nav mil pevar c'hant tri ha tregont
 9434 = nav mil pevar c'hant pevar ha tregont
 9435 = nav mil pevar c'hant pemp ha tregont
@@ -9543,7 +9543,7 @@
 9439 = nav mil pevar c'hant nav ha tregont
 9440 = nav mil pevar c'hant daou-ugent
 9441 = nav mil pevar c'hant unan ha daou-ugent
-9442 = nav mil pevar c'hant daou ha daou-ugent
+9442 = nav mil pevar c'hant div ha daou-ugent
 9443 = nav mil pevar c'hant tri ha daou-ugent
 9444 = nav mil pevar c'hant pevar ha daou-ugent
 9445 = nav mil pevar c'hant pemp ha daou-ugent
@@ -9553,7 +9553,7 @@
 9449 = nav mil pevar c'hant nav ha daou-ugent
 9450 = nav mil pevar c'hant hanter-kant
 9451 = nav mil pevar c'hant unan hag hanter-kant
-9452 = nav mil pevar c'hant daou hag hanter-kant
+9452 = nav mil pevar c'hant div hag hanter-kant
 9453 = nav mil pevar c'hant tri hag hanter-kant
 9454 = nav mil pevar c'hant pevar hag hanter-kant
 9455 = nav mil pevar c'hant pemp hag hanter-kant
@@ -9563,7 +9563,7 @@
 9459 = nav mil pevar c'hant nav hag hanter-kant
 9460 = nav mil pevar c'hant tri-ugent
 9461 = nav mil pevar c'hant unan ha tri-ugent
-9462 = nav mil pevar c'hant daou ha tri-ugent
+9462 = nav mil pevar c'hant div ha tri-ugent
 9463 = nav mil pevar c'hant tri ha tri-ugent
 9464 = nav mil pevar c'hant pevar ha tri-ugent
 9465 = nav mil pevar c'hant pemp ha tri-ugent
@@ -9583,7 +9583,7 @@
 9479 = nav mil pevar c'hant naontek ha tri-ugent
 9480 = nav mil pevar c'hant pevar-ugent
 9481 = nav mil pevar c'hant unan ha pevar-ugent
-9482 = nav mil pevar c'hant daou ha pevar-ugent
+9482 = nav mil pevar c'hant div ha pevar-ugent
 9483 = nav mil pevar c'hant tri ha pevar-ugent
 9484 = nav mil pevar c'hant pevar ha pevar-ugent
 9485 = nav mil pevar c'hant pemp ha pevar-ugent
@@ -9604,7 +9604,7 @@
 
 9500 = nav mil pemp kant
 9501 = nav mil pemp kant unan
-9502 = nav mil pemp kant daou
+9502 = nav mil pemp kant div
 9503 = nav mil pemp kant tri
 9504 = nav mil pemp kant pevar
 9505 = nav mil pemp kant pemp
@@ -9624,7 +9624,7 @@
 9519 = nav mil pemp kant naontek
 9520 = nav mil pemp kant ugent
 9521 = nav mil pemp kant unan warn-ugent
-9522 = nav mil pemp kant daou warn-ugent
+9522 = nav mil pemp kant div warn-ugent
 9523 = nav mil pemp kant tri warn-ugent
 9524 = nav mil pemp kant pevar warn-ugent
 9525 = nav mil pemp kant pemp warn-ugent
@@ -9634,7 +9634,7 @@
 9529 = nav mil pemp kant nav warn-ugent
 9530 = nav mil pemp kant tregont
 9531 = nav mil pemp kant unan ha tregont
-9532 = nav mil pemp kant daou ha tregont
+9532 = nav mil pemp kant div ha tregont
 9533 = nav mil pemp kant tri ha tregont
 9534 = nav mil pemp kant pevar ha tregont
 9535 = nav mil pemp kant pemp ha tregont
@@ -9644,7 +9644,7 @@
 9539 = nav mil pemp kant nav ha tregont
 9540 = nav mil pemp kant daou-ugent
 9541 = nav mil pemp kant unan ha daou-ugent
-9542 = nav mil pemp kant daou ha daou-ugent
+9542 = nav mil pemp kant div ha daou-ugent
 9543 = nav mil pemp kant tri ha daou-ugent
 9544 = nav mil pemp kant pevar ha daou-ugent
 9545 = nav mil pemp kant pemp ha daou-ugent
@@ -9654,7 +9654,7 @@
 9549 = nav mil pemp kant nav ha daou-ugent
 9550 = nav mil pemp kant hanter-kant
 9551 = nav mil pemp kant unan hag hanter-kant
-9552 = nav mil pemp kant daou hag hanter-kant
+9552 = nav mil pemp kant div hag hanter-kant
 9553 = nav mil pemp kant tri hag hanter-kant
 9554 = nav mil pemp kant pevar hag hanter-kant
 9555 = nav mil pemp kant pemp hag hanter-kant
@@ -9664,7 +9664,7 @@
 9559 = nav mil pemp kant nav hag hanter-kant
 9560 = nav mil pemp kant tri-ugent
 9561 = nav mil pemp kant unan ha tri-ugent
-9562 = nav mil pemp kant daou ha tri-ugent
+9562 = nav mil pemp kant div ha tri-ugent
 9563 = nav mil pemp kant tri ha tri-ugent
 9564 = nav mil pemp kant pevar ha tri-ugent
 9565 = nav mil pemp kant pemp ha tri-ugent
@@ -9684,7 +9684,7 @@
 9579 = nav mil pemp kant naontek ha tri-ugent
 9580 = nav mil pemp kant pevar-ugent
 9581 = nav mil pemp kant unan ha pevar-ugent
-9582 = nav mil pemp kant daou ha pevar-ugent
+9582 = nav mil pemp kant div ha pevar-ugent
 9583 = nav mil pemp kant tri ha pevar-ugent
 9584 = nav mil pemp kant pevar ha pevar-ugent
 9585 = nav mil pemp kant pemp ha pevar-ugent
@@ -9705,7 +9705,7 @@
 
 9600 = nav mil c'hwec'h kant 
 9601 = nav mil c'hwec'h kant unan
-9602 = nav mil c'hwec'h kant daou
+9602 = nav mil c'hwec'h kant div
 9603 = nav mil c'hwec'h kant tri
 9604 = nav mil c'hwec'h kant pevar
 9605 = nav mil c'hwec'h kant pemp
@@ -9725,7 +9725,7 @@
 9619 = nav mil c'hwec'h kant naontek
 9620 = nav mil c'hwec'h kant ugent
 9621 = nav mil c'hwec'h kant unan warn-ugent
-9622 = nav mil c'hwec'h kant daou warn-ugent
+9622 = nav mil c'hwec'h kant div warn-ugent
 9623 = nav mil c'hwec'h kant tri warn-ugent
 9624 = nav mil c'hwec'h kant pevar warn-ugent
 9625 = nav mil c'hwec'h kant pemp warn-ugent
@@ -9735,7 +9735,7 @@
 9629 = nav mil c'hwec'h kant nav warn-ugent
 9630 = nav mil c'hwec'h kant tregont
 9631 = nav mil c'hwec'h kant unan ha tregont
-9632 = nav mil c'hwec'h kant daou ha tregont
+9632 = nav mil c'hwec'h kant div ha tregont
 9633 = nav mil c'hwec'h kant tri ha tregont
 9634 = nav mil c'hwec'h kant pevar ha tregont
 9635 = nav mil c'hwec'h kant pemp ha tregont
@@ -9745,7 +9745,7 @@
 9639 = nav mil c'hwec'h kant nav ha tregont
 9640 = nav mil c'hwec'h kant daou-ugent
 9641 = nav mil c'hwec'h kant unan ha daou-ugent
-9642 = nav mil c'hwec'h kant daou ha daou-ugent
+9642 = nav mil c'hwec'h kant div ha daou-ugent
 9643 = nav mil c'hwec'h kant tri ha daou-ugent
 9644 = nav mil c'hwec'h kant pevar ha daou-ugent
 9645 = nav mil c'hwec'h kant pemp ha daou-ugent
@@ -9755,7 +9755,7 @@
 9649 = nav mil c'hwec'h kant nav ha daou-ugent
 9650 = nav mil c'hwec'h kant hanter-kant
 9651 = nav mil c'hwec'h kant unan hag hanter-kant
-9652 = nav mil c'hwec'h kant daou hag hanter-kant
+9652 = nav mil c'hwec'h kant div hag hanter-kant
 9653 = nav mil c'hwec'h kant tri hag hanter-kant
 9654 = nav mil c'hwec'h kant pevar hag hanter-kant
 9655 = nav mil c'hwec'h kant pemp hag hanter-kant
@@ -9765,7 +9765,7 @@
 9659 = nav mil c'hwec'h kant nav hag hanter-kant
 9660 = nav mil c'hwec'h kant tri-ugent
 9661 = nav mil c'hwec'h kant unan ha tri-ugent
-9662 = nav mil c'hwec'h kant daou ha tri-ugent
+9662 = nav mil c'hwec'h kant div ha tri-ugent
 9663 = nav mil c'hwec'h kant tri ha tri-ugent
 9664 = nav mil c'hwec'h kant pevar ha tri-ugent
 9665 = nav mil c'hwec'h kant pemp ha tri-ugent
@@ -9785,7 +9785,7 @@
 9679 = nav mil c'hwec'h kant naontek ha tri-ugent
 9680 = nav mil c'hwec'h kant pevar-ugent
 9681 = nav mil c'hwec'h kant unan ha pevar-ugent
-9682 = nav mil c'hwec'h kant daou ha pevar-ugent
+9682 = nav mil c'hwec'h kant div ha pevar-ugent
 9683 = nav mil c'hwec'h kant tri ha pevar-ugent
 9684 = nav mil c'hwec'h kant pevar ha pevar-ugent
 9685 = nav mil c'hwec'h kant pemp ha pevar-ugent
@@ -9806,7 +9806,7 @@
 
 9700 = nav mil seizh kant 
 9701 = nav mil seizh kant unan
-9702 = nav mil seizh kant daou
+9702 = nav mil seizh kant div
 9703 = nav mil seizh kant tri
 9704 = nav mil seizh kant pevar
 9705 = nav mil seizh kant pemp
@@ -9826,7 +9826,7 @@
 9719 = nav mil seizh kant naontek
 9720 = nav mil seizh kant ugent
 9721 = nav mil seizh kant unan warn-ugent
-9722 = nav mil seizh kant daou warn-ugent
+9722 = nav mil seizh kant div warn-ugent
 9723 = nav mil seizh kant tri warn-ugent
 9724 = nav mil seizh kant pevar warn-ugent
 9725 = nav mil seizh kant pemp warn-ugent
@@ -9836,7 +9836,7 @@
 9729 = nav mil seizh kant nav warn-ugent
 9730 = nav mil seizh kant tregont
 9731 = nav mil seizh kant unan ha tregont
-9732 = nav mil seizh kant daou ha tregont
+9732 = nav mil seizh kant div ha tregont
 9733 = nav mil seizh kant tri ha tregont
 9734 = nav mil seizh kant pevar ha tregont
 9735 = nav mil seizh kant pemp ha tregont
@@ -9846,7 +9846,7 @@
 9739 = nav mil seizh kant nav ha tregont
 9740 = nav mil seizh kant daou-ugent
 9741 = nav mil seizh kant unan ha daou-ugent
-9742 = nav mil seizh kant daou ha daou-ugent
+9742 = nav mil seizh kant div ha daou-ugent
 9743 = nav mil seizh kant tri ha daou-ugent
 9744 = nav mil seizh kant pevar ha daou-ugent
 9745 = nav mil seizh kant pemp ha daou-ugent
@@ -9856,7 +9856,7 @@
 9749 = nav mil seizh kant nav ha daou-ugent
 9750 = nav mil seizh kant hanter-kant
 9751 = nav mil seizh kant unan hag hanter-kant
-9752 = nav mil seizh kant daou hag hanter-kant
+9752 = nav mil seizh kant div hag hanter-kant
 9753 = nav mil seizh kant tri hag hanter-kant
 9754 = nav mil seizh kant pevar hag hanter-kant
 9755 = nav mil seizh kant pemp hag hanter-kant
@@ -9866,7 +9866,7 @@
 9759 = nav mil seizh kant nav hag hanter-kant
 9760 = nav mil seizh kant tri-ugent
 9761 = nav mil seizh kant unan ha tri-ugent
-9762 = nav mil seizh kant daou ha tri-ugent
+9762 = nav mil seizh kant div ha tri-ugent
 9763 = nav mil seizh kant tri ha tri-ugent
 9764 = nav mil seizh kant pevar ha tri-ugent
 9765 = nav mil seizh kant pemp ha tri-ugent
@@ -9886,7 +9886,7 @@
 9779 = nav mil seizh kant naontek ha tri-ugent
 9780 = nav mil seizh kant pevar-ugent
 9781 = nav mil seizh kant unan ha pevar-ugent
-9782 = nav mil seizh kant daou ha pevar-ugent
+9782 = nav mil seizh kant div ha pevar-ugent
 9783 = nav mil seizh kant tri ha pevar-ugent
 9784 = nav mil seizh kant pevar ha pevar-ugent
 9785 = nav mil seizh kant pemp ha pevar-ugent
@@ -9907,7 +9907,7 @@
 
 9800 = nav mil eizh kant 
 9801 = nav mil eizh kant unan
-9802 = nav mil eizh kant daou
+9802 = nav mil eizh kant div
 9803 = nav mil eizh kant tri
 9804 = nav mil eizh kant pevar
 9805 = nav mil eizh kant pemp
@@ -9927,7 +9927,7 @@
 9819 = nav mil eizh kant naontek
 9820 = nav mil eizh kant ugent
 9821 = nav mil eizh kant unan warn-ugent
-9822 = nav mil eizh kant daou warn-ugent
+9822 = nav mil eizh kant div warn-ugent
 9823 = nav mil eizh kant tri warn-ugent
 9824 = nav mil eizh kant pevar warn-ugent
 9825 = nav mil eizh kant pemp warn-ugent
@@ -9937,7 +9937,7 @@
 9829 = nav mil eizh kant nav warn-ugent
 9830 = nav mil eizh kant tregont
 9831 = nav mil eizh kant unan ha tregont
-9832 = nav mil eizh kant daou ha tregont
+9832 = nav mil eizh kant div ha tregont
 9833 = nav mil eizh kant tri ha tregont
 9834 = nav mil eizh kant pevar ha tregont
 9835 = nav mil eizh kant pemp ha tregont
@@ -9947,7 +9947,7 @@
 9839 = nav mil eizh kant nav ha tregont
 9840 = nav mil eizh kant daou-ugent
 9841 = nav mil eizh kant unan ha daou-ugent
-9842 = nav mil eizh kant daou ha daou-ugent
+9842 = nav mil eizh kant div ha daou-ugent
 9843 = nav mil eizh kant tri ha daou-ugent
 9844 = nav mil eizh kant pevar ha daou-ugent
 9845 = nav mil eizh kant pemp ha daou-ugent
@@ -9957,7 +9957,7 @@
 9849 = nav mil eizh kant nav ha daou-ugent
 9850 = nav mil eizh kant hanter-kant
 9851 = nav mil eizh kant unan hag hanter-kant
-9852 = nav mil eizh kant daou hag hanter-kant
+9852 = nav mil eizh kant div hag hanter-kant
 9853 = nav mil eizh kant tri hag hanter-kant
 9854 = nav mil eizh kant pevar hag hanter-kant
 9855 = nav mil eizh kant pemp hag hanter-kant
@@ -9967,7 +9967,7 @@
 9859 = nav mil eizh kant nav hag hanter-kant
 9860 = nav mil eizh kant tri-ugent
 9861 = nav mil eizh kant unan ha tri-ugent
-9862 = nav mil eizh kant daou ha tri-ugent
+9862 = nav mil eizh kant div ha tri-ugent
 9863 = nav mil eizh kant tri ha tri-ugent
 9864 = nav mil eizh kant pevar ha tri-ugent
 9865 = nav mil eizh kant pemp ha tri-ugent
@@ -9987,7 +9987,7 @@
 9879 = nav mil eizh kant naontek ha tri-ugent
 9880 = nav mil eizh kant pevar-ugent
 9881 = nav mil eizh kant unan ha pevar-ugent
-9882 = nav mil eizh kant daou ha pevar-ugent
+9882 = nav mil eizh kant div ha pevar-ugent
 9883 = nav mil eizh kant tri ha pevar-ugent
 9884 = nav mil eizh kant pevar ha pevar-ugent
 9885 = nav mil eizh kant pemp ha pevar-ugent
@@ -10008,7 +10008,7 @@
 
 9900 = nav mil nav c'hant 
 9901 = nav mil nav c'hant unan
-9902 = nav mil nav c'hant daou
+9902 = nav mil nav c'hant div
 9903 = nav mil nav c'hant tri
 9904 = nav mil nav c'hant pevar
 9905 = nav mil nav c'hant pemp
@@ -10028,7 +10028,7 @@
 9919 = nav mil nav c'hant naontek
 9920 = nav mil nav c'hant ugent
 9921 = nav mil nav c'hant unan warn-ugent
-9922 = nav mil nav c'hant daou warn-ugent
+9922 = nav mil nav c'hant div warn-ugent
 9923 = nav mil nav c'hant tri warn-ugent
 9924 = nav mil nav c'hant pevar warn-ugent
 9925 = nav mil nav c'hant pemp warn-ugent
@@ -10038,7 +10038,7 @@
 9929 = nav mil nav c'hant nav warn-ugent
 9930 = nav mil nav c'hant tregont
 9931 = nav mil nav c'hant unan ha tregont
-9932 = nav mil nav c'hant daou ha tregont
+9932 = nav mil nav c'hant div ha tregont
 9933 = nav mil nav c'hant tri ha tregont
 9934 = nav mil nav c'hant pevar ha tregont
 9935 = nav mil nav c'hant pemp ha tregont
@@ -10048,7 +10048,7 @@
 9939 = nav mil nav c'hant nav ha tregont
 9940 = nav mil nav c'hant daou-ugent
 9941 = nav mil nav c'hant unan ha daou-ugent
-9942 = nav mil nav c'hant daou ha daou-ugent
+9942 = nav mil nav c'hant div ha daou-ugent
 9943 = nav mil nav c'hant tri ha daou-ugent
 9944 = nav mil nav c'hant pevar ha daou-ugent
 9945 = nav mil nav c'hant pemp ha daou-ugent
@@ -10058,7 +10058,7 @@
 9949 = nav mil nav c'hant nav ha daou-ugent
 9950 = nav mil nav c'hant hanter-kant
 9951 = nav mil nav c'hant unan hag hanter-kant
-9952 = nav mil nav c'hant daou hag hanter-kant
+9952 = nav mil nav c'hant div hag hanter-kant
 9953 = nav mil nav c'hant tri hag hanter-kant
 9954 = nav mil nav c'hant pevar hag hanter-kant
 9955 = nav mil nav c'hant pemp hag hanter-kant
@@ -10068,7 +10068,7 @@
 9959 = nav mil nav c'hant nav hag hanter-kant
 9960 = nav mil nav c'hant tri-ugent
 9961 = nav mil nav c'hant unan ha tri-ugent
-9962 = nav mil nav c'hant daou ha tri-ugent
+9962 = nav mil nav c'hant div ha tri-ugent
 9963 = nav mil nav c'hant tri ha tri-ugent
 9964 = nav mil nav c'hant pevar ha tri-ugent
 9965 = nav mil nav c'hant pemp ha tri-ugent
@@ -10088,7 +10088,7 @@
 9979 = nav mil nav c'hant naontek ha tri-ugent
 9980 = nav mil nav c'hant pevar-ugent
 9981 = nav mil nav c'hant unan ha pevar-ugent
-9982 = nav mil nav c'hant daou ha pevar-ugent
+9982 = nav mil nav c'hant div ha pevar-ugent
 9983 = nav mil nav c'hant tri ha pevar-ugent
 9984 = nav mil nav c'hant pevar ha pevar-ugent
 9985 = nav mil nav c'hant pemp ha pevar-ugent
