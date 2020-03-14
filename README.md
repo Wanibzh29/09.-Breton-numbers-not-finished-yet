@@ -10,8 +10,10 @@ II. How the project is organized?
 - Each title of each file have in it letters as "A. 01. .., A. 02. ...". 
   If the filename containts "A." in it, it means that the forms contained in it are "classical ones to count in breton" so they will be most used.
   If the filename containts "B." in it, it means that it is rare forms.
-  And if filename containts "C." in it, it means that it is the neologism forms to count into breton.
+  And if filename containts "Ch." in it, it means that it is the neologism forms to count into breton.
+  If the filename containts "C'h" in it, it means that they are for particular case.
   In the future the some dialectical forms will be added and will have the as letter to distinguish them "D." in their filenames.
+ 
 
 - The feminin forms to count in breton does have in their names after the letter the odd numbers, and the masculines evens numbers.
   I.e: 
@@ -20,7 +22,16 @@ II. How the project is organized?
 
 III. Files in this project with a link and a short description of each file:
 
-
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 IV. Some idea to reuse this project:
