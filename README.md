@@ -65,4 +65,4 @@ IV. Some idea to reuse this project:
 
 - Could be very interesant to have a website which propose this kind of stuff in breton: https://leconjugueur.lefigaro.fr/frnombre.php
 
-- The website: https://geriafurch.bzh/fr/nb propose this kind of stuff already.
+- The website: https://geriafurch.bzh/fr/nb propose this kind of stuff already. Once this project will be corrected and completed the website "Geriafurch" will normally use it for better proposal.
