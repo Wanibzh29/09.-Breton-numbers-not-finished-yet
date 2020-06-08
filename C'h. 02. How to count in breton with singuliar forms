@@ -42,7 +42,7 @@ https://community.languagetool.org/rule/show/AR_TSAR?lang=br&subId=1
 28 "X" = eizh "X" warn-ugent
 29 "X" = nav "X" warn-ugent
 
-30 "X" = tregont
+30 "X" = tregont "X"
 31 "X" = un/ur/ul "X" ha tregont
 32 "X" = daou "X" ha tregont
 33 "X" = tri "X" ha tregont
@@ -64,7 +64,7 @@ https://community.languagetool.org/rule/show/AR_TSAR?lang=br&subId=1
 48 "X" = eizh "X" ha daou-ugent
 49 "X" = nav "X" ha daou-ugent
 
-50 "X" = hanter-kant
+50 "X" = hanter-kant "X"
 51 "X" = un/ur/ul "X" hag hanter-kant
 52 "X" = daou "X" hag hanter-kant
 53 "X" = tri "X" hag hanter-kant
