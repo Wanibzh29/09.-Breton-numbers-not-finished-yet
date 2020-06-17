@@ -1,0 +1,1024 @@
+{
+	The hours: {%hours}
+		{
+			01:00:00
+				{
+				"ShortestFormIs"={un eur} ;
+				"ShortForm1Is"={un eur noz} ;
+				"ShortForm2Is"={un eur vintin} ;
+				"ShortForm3Is"={un eur beure} ;
+				"LongerFormIs"={un eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={un eur goude-hanternoz} ;
+				"LongestForm2Is"={un eur [deus/diouzh] ar mintin} ;
+				"LongestForm3Is"={un eur [deus/diouzh] ar beure} ;
+				}
+			02:00:00
+				{
+				"ShortestFormIs"={div eur} ;
+				"ShortForm1Is"={div eur noz} ;
+				"ShortForm2Is"={div eur vintin} ;
+				"ShortForm3Is"={div eur beure} ;
+				"LongerFormIs"={div eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={div eur goude-hanternoz} ;
+				"LongestForm2Is"={div eur [deus/diouzh] ar mintin} ;
+				"LongestForm3Is"={div eur [deus/diouzh] ar beure} ;
+				}
+			03:00:00
+				{
+				"ShortestFormIs"={teir eur} ;
+				"ShortForm1Is"={teir eur noz} ;
+				"ShortForm2Is"={teir eur vintin} ;
+				"ShortForm3Is"={teir eur beure} ;
+				"LongerFormIs"={teir eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={teir eur goude-hanternoz} ;
+				"LongestForm2Is"={teir eur [deus/diouzh] ar mintin} ;
+				"LongestForm3Is"={teir eur [deus/diouzh] ar beure} ;
+				}
+			04:00:00
+				{
+				"ShortestFormIs"={peder eur} ;
+				"ShortForm1Is"={peder eur noz} ;
+				"ShortForm2Is"={peder eur vintin} ;
+				"ShortForm3Is"={peder eur beure} ;
+				"LongerFormIs"={peder eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={peder eur goude-hanternoz} ;
+				"LongestForm2Is"={peder eur [deus/diouzh] ar mintin} ;
+				"LongestForm3Is"={peder eur [deus/diouzh] ar beure} ;
+				}
+			05:00:00
+				{
+				"ShortestFormIs"={pemp eur} ;
+				"ShortForm1Is"={pemp eur vintin} ;
+				"ShortForm2Is"={pemp eur beure} ;
+				"LongFormIs"={pemp eur ar beure} ;
+				"LongerFormIs"={pemp eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={pemp eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={pemp eur [deus/diouzh] ar beure} ;
+				}
+			06:00:00
+				{
+				"ShortestFormIs"={c'hwec'h eur} ;
+				"ShortForm1Is"={c'hwec'h eur vintin} ;
+				"ShortForm2Is"={c'hwec'h eur beure} ;
+				"LongFormIs"={c'hwec'h eur ar beure} ;
+				"LongerFormIs"={c'hwec'h eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={c'hwec'h eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={c'hwec'h eur [deus/diouzh] ar beure} ;
+				}
+			07:00:00
+				{
+				"ShortestFormIs"={seizh eur} ;
+				"ShortForm1Is"={seizh eur vintin} ;
+				"ShortForm2Is"={seizh eur beure} ;
+				"LongFormIs"={seizh eur ar beure} ;
+				"LongerFormIs"={seizh eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={seizh eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={seizh eur [deus/diouzh] ar beure} ;
+				}
+			08:00:00
+				{
+				"ShortestFormIs"={eizh eur} ;
+				"ShortForm1Is"={eizh eur vintin} ;
+				"ShortForm2Is"={eizh eur beure} ;
+				"LongFormIs"={eizh eur ar beure} ;
+				"LongerFormIs"={eizh eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={eizh eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={eizh eur [deus/diouzh] ar beure} ;
+				}
+			09:00:00
+				{
+				"ShortestFormIs"={nav eur} ;
+				"ShortForm1Is"={nav eur vintin} ;
+				"ShortForm2Is"={nav eur beure} ;
+				"LongFormIs"={nav eur ar beure} ;
+				"LongerFormIs"={nav eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={nav eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={nav eur [deus/diouzh] ar beure} ;
+				}
+			10:00:00
+				{
+				"ShortestFormIs"={dek eur} ;
+				"ShortForm1Is"={dek eur vintin} ;
+				"ShortForm2Is"={dek eur beure} ;
+				"LongFormIs"={dek eur ar beure} ;
+				"LongerFormIs"={dek eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={dek eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={dek eur [deus/diouzh] ar beure} ;
+				}
+			11:00:00
+				{
+				"ShortestFormIs"={unnek eur} ;
+				"ShortForm1Is"={unnek eur vintin} ;
+				"ShortForm2Is"={unnek eur beure} ;
+				"LongFormIs"={unnek eur ar beure} ;
+				"LongerFormIs"={unnek eur [ag/eus] ar mintin} ;
+				"LongestForm1Is"={unnek eur [deus/diouzh] ar mintin} ;
+				"LongestForm2Is"={unnek eur [deus/diouzh] ar beure} ;
+				}
+			12:00:00
+				{
+				"OnlyFormIs"={kreisteiz} ;
+				}
+			13:00:00
+				{
+				"ShortestFormIs"={un eur} ;
+				"ShortFormIs"={un eur enderv} ;
+				"LongForm1Is"={un eur goude-lein} ;
+				"LongForm2Is"={un eur goude-merenn} ;
+				"LongestFormIs"={un eur goude-kreisteiz} ;
+				}
+			14:00:00
+				{
+				"ShortestFormIs"={div eur} ;
+				"ShortFormIs"={div eur enderv} ;
+				"LongForm1Is"={div eur goude-lein} ;
+				"LongForm2Is"={div eur goude-merenn} ;
+				"LongestFormIs"={div eur goude-kreisteiz} ;
+				}
+			15:00:00
+				{
+				"ShortestFormIs"={teir eur} ;
+				"ShortFormIs"={teir eur enderv} ;
+				"LongForm1Is"={teir eur goude-lein} ;
+				"LongForm2Is"={teir eur goude-merenn} ;
+				"LongestFormIs"={teir eur goude-kreisteiz} ;
+				}
+			16:00:00
+				{
+				"ShortestFormIs"={peder eur} ;
+				"ShortFormIs"={peder eur enderv} ;
+				"LongForm1Is"={peder eur goude-lein} ;
+				"LongForm2Is"={peder eur goude-merenn} ;
+				"LongestFormIs"={peder eur goude-kreisteiz} ;
+				}
+			17:00:00
+				{
+				"ShortestFormIs"={pemp eur} ;
+				"ShortFormIs"={pemp eur noz} ;
+				"LongForm1Is"={pemp eur enderv} ;
+				"LongForm2Is"={pemp eur enderv-noz} ;
+				"LongestFormIs"={pemp eur goude-kreisteiz} ;
+				}
+			18:00:00
+				{
+				"ShortestFormIs"={c'hwec'h eur} ;
+				"ShortFormIs"={c'hwec'h eur noz} ;
+				"LongForm1Is"={c'hwec'h eur enderv} ;
+				"LongForm2Is"={c'hwec'h eur enderv-noz} ;
+				"LongForm3Is"={c'hwec'h eur [deus/diouzh] an noz} ;
+				"LongestFormIs"={c'hwec'h eur goude-kreisteiz} ;
+				}
+			19:00:00
+				{
+				"ShortestFormIs"={seizh eur} ;
+				"Longer1FormIs"={seizh eur noz} ;
+				"Longer2FormIs"={seizh eur abardaez} ;
+				"Longest1FormIs"={seizh eur [deus/diouzh] an noz} ;
+				"Longest2FormIs"={seizh eur [deus/diouzh] an abardaez} ;
+				}
+			20:00:00
+				{
+				"ShortestFormIs"={eizh eur} ;
+				"ShortFormIs"={eizh eur noz} ;
+				"LongFormIs"={eizh eur noz} ;
+				"LongerFormIs"={eizh eur noz} ;
+				"LongestForm1Is"={eizh eur goude-koan} ;
+				"LongestForm2Is"={eizh eur abardaez-noz} ;
+				"LongestForm3Is"={eizh eur abardaez-noz} ;
+				"LongestForm3Is"={eizh eur [deus/diouzh] an noz} ;
+				"LongestForm4Is"={eizh eur [deus/diouzh] an abardaez-noz} ;
+				}
+			21:00:00
+				{
+				"ShortestFormIs"={nav eur} ;
+				"ShortFormIs"={nav eur noz} ;
+				"LongestForm1Is"={nav eur goude-koan} ;
+				"LongestForm2Is"={nav eur [deus/diouzh] an noz} ;
+				}
+			22:00:00
+				{
+				"ShortestFormIs"={dek eur} ;
+				"ShortFormIs"={dek eur noz} ;
+				"LongFormIs"={dek eur noz} ;
+				"LongestForm1Is"={dek eur goude-koan} ;
+				"LongestForm2Is"={dek eur [deus/diouzh] an noz} ;
+				}
+			23:00:00
+				{
+				"ShortestFormIs"={unnek eur} ;
+				"ShortFormIs"={unnek eur noz} ;
+				"LongFormIs"={unnek eur noz} ;
+				"LongestForm1Is"={unnek eur goude-koan} ;
+				"LongestForm2Is"={unnek eur [deus/diouzh] an noz} ;
+				}
+			00:00:00
+				{
+				"ShortestFormIs"={kreiznoz} ;
+				"LongestFormIs"={hanternoz} ;
+				}
+		}
+	The minuts: {%minuts}
+		{
+			00:01:00
+				{
+				"ShortestForm1Is"= {%hour} un ;
+				"ShortestForm2Is"= {%hour} unan ;
+				"ShortFormMasculinIs"= {%hour} ur munut ;
+				"ShortFormFemininIs"= {%hour} ur vunutenn ;
+				"LongFormMasculinIs"= {%hour} hag ur munut ;
+				"LongFormFemininIs"= {%hour} hag ur vunutenn ;
+				}
+			00:02:00
+				{
+				"ShortestFormIs"= {%hour} daou ;
+				"ShortFormMasculinIs"= {%hour} daou vunut ;
+				"ShortFormFemininIs"= {%hour} div vunutenn ;
+				"LongFormMasculinIs"= {%hour} ha daou vunut ;
+				"LongFormFemininIs"= {%hour} ha div vunutenn ;
+				}
+			00:03:00
+				{
+				"ShortestFormIs"= {%hour} tri ;
+				"ShortFormMasculinIs"= {%hour} tri munut ;
+				"ShortFormFemininIs"= {%hour} teir munutenn ;
+				"LongFormMasculinIs"= {%hour} ha tri munut ;
+				"LongFormFemininIs"= {%hour} ha teir munutenn ;
+				}
+			00:04:00
+				{
+				"ShortestFormIs"= {%hour} pevar ;
+				"ShortFormMasculinIs"= {%hour} pevar munut ;
+				"ShortFormFemininIs"= {%hour} peder munutenn ;
+				"LongFormMasculinIs"= {%hour} ha pevar munut ;
+				"LongFormFemininIs"= {%hour} ha peder munutenn ;
+				}
+			00:05:00
+				{
+				"ShortestFormIs"= {%hour} pemp ;
+				"ShortFormMasculinIs"= {%hour} pemp munut ;
+				"ShortFormFemininIs"= {%hour} pemp munutenn ;
+				"LongFormMasculinIs"= {%hour} ha pemp munut ;
+				"LongFormFemininIs"= {%hour} ha pemp munutenn ;
+				}
+			00:06:00
+				{
+				"ShortestFormIs"= {%hour} c'hwec'h ;
+				"ShortFormMasculinIs"= {%hour} c'hwec'h munut ;
+				"ShortFormFemininIs"= {%hour} c'hwec'h munutenn ;
+				"LongFormMasculinIs"= {%hour} ha c'hwec'h munut ;
+				"LongFormFemininIs"= {%hour} ha c'hwec'h munutenn ;
+				}
+			00:07:00
+				{
+				"ShortestFormIs"= {%hour} seizh ;
+				"ShortFormMasculinIs"= {%hour} seizh munut ;
+				"ShortFormFemininIs"= {%hour} seizh munutenn ;
+				"LongFormMasculinIs"= {%hour} ha seizh munut ;
+				"LongFormFemininIs"= {%hour} ha seizh munutenn ;
+				}
+			00:08:00
+				{
+				"ShortestFormIs"= {%hour} eizh ;
+				"ShortFormMasculinIs"= {%hour} eizh munut ;
+				"ShortFormFemininIs"= {%hour} eizh munutenn ;
+				"LongFormMasculinIs"= {%hour} hag eizh munut ;
+				"LongFormFemininIs"= {%hour} hag eizh munutenn ;
+				}
+			00:09:00
+				{
+				"ShortestFormIs"= {%hour} nav ;
+				"ShortFormMasculinIs"= {%hour} nav munut ;
+				"ShortFormFemininIs"= {%hour} nav munutenn ;
+				"LongFormMasculinIs"= {%hour} ha nav munut ;
+				"LongFormFemininIs"= {%hour} ha nav munutenn ;
+				}
+			00:10:00
+				{
+				"ShortestFormIs"= {%hour} dek ;
+				"ShortFormMasculinIs"= {%hour} dek munut ;
+				"ShortFormFemininIs"= {%hour} dek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha dek munut ;
+				"LongFormFemininIs"= {%hour} ha dek munutenn ;
+				}
+			00:11:00
+				{
+				"ShortestFormIs"= {%hour} unnek ;
+				"ShortFormMasculinIs"= {%hour} unnek munut ;
+				"ShortFormFemininIs"= {%hour} unnek munutenn ;
+				"LongFormMasculinIs"= {%hour} hag unnek munut ;
+				"LongFormFemininIs"= {%hour} hag unnek munutenn ;
+				}
+			00:12:00
+				{
+				"ShortestFormIs"= {%hour} daouzek ;
+				"ShortFormMasculinIs"= {%hour} daouzek munut ;
+				"ShortFormFemininIs"= {%hour} daouzek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha daouzek munut ;
+				"LongFormFemininIs"= {%hour} ha daouzek munutenn ;
+				}
+			00:13:00
+				{
+				"ShortestFormIs"= {%hour} trizek ;
+				"ShortFormMasculinIs"= {%hour} trizek munut ;
+				"ShortFormFemininIs"= {%hour} trizek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha trizek munut ;
+				"LongFormFemininIs"= {%hour} ha trizek munutenn ;
+				}
+			00:14:00
+				{
+				"ShortestFormIs"= {%hour} pevarzek ;
+				"ShortFormMasculinIs"= {%hour} pevarzek munut ;
+				"ShortFormFemininIs"= {%hour} pevarzek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha pevarzek munut ;
+				"LongFormFemininIs"= {%hour} ha pevarzek munutenn ;
+				}
+			00:15:00
+				{
+				"ShortestForm1Is"= {%hour} ha kard ;
+				"ShortestForm2Is"= {%hour} pempzek ;
+				"ShortFormMasculinIs"= {%hour} pempzek munut ;
+				"ShortFormFemininIs"= {%hour} pempzek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha pempzek munut ;
+				"LongFormFemininIs"= {%hour} ha pempzek munutenn ;
+				}
+			00:16:00
+				{
+				"ShortestFormIs"= {%hour} c'hwezek ;
+				"ShortFormMasculinIs"= {%hour} c'hwezek munut ;
+				"ShortFormFemininIs"= {%hour} c'hwezek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha c'hwezek munut ;
+				"LongFormFemininIs"= {%hour} ha c'hwezek munutenn ;
+				}
+			00:17:00
+				{
+				"ShortestFormIs"= {%hour} seitek ;
+				"ShortFormMasculinIs"= {%hour} seitek munut ;
+				"ShortFormFemininIs"= {%hour} seitek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha seitek munut ;
+				"LongFormFemininIs"= {%hour} ha seitek munutenn ;
+				}
+			00:18:00
+				{
+				"ShortestFormIs"= {%hour} triwec'h ;
+				"ShortFormMasculinIs"= {%hour} triwec'h munut ;
+				"ShortFormFemininIs"= {%hour} triwec'h munutenn ;
+				"LongFormMasculinIs"= {%hour} ha triwec'h munut ;
+				"LongFormFemininIs"= {%hour} ha triwec'h munutenn ;
+				}
+			00:19:00
+				{
+				"ShortestFormIs"= {%hour} naontek ;
+				"ShortFormMasculinIs"= {%hour} naontek munut ;
+				"ShortFormFemininIs"= {%hour} naontek munutenn ;
+				"LongFormMasculinIs"= {%hour} ha naontek munut ;
+				"LongFormFemininIs"= {%hour} ha naontek munutenn ;
+				}
+
+			00:20:00
+				{
+				"ShortestFormIs"= {%hour} ugent ;
+				"ShortFormMasculinIs"= {%hour} ugent munut ;
+				"ShortFormFemininIs"= {%hour} ugent munutenn ;
+				"LongFormMasculinIs"= {%hour} hag ugent munut ;
+				"LongFormFemininIs"= {%hour} hag ugent munutenn ;
+				}
+			00:21:00
+				{
+				"ShortestForm1Is"= {%hour} un warn-ugent ;
+				"ShortestForm2Is"= {%hour} unan warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} ur munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} ur vunutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} hag ur munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} hag ur vunutenn warn-ugent ;
+				}
+			00:22:00
+				{
+				"ShortestFormIs"= {%hour} daou warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} daou vunut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} div vunutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha daou vunut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha div vunutenn warn-ugent ;
+				}
+			00:23:00
+				{
+				"ShortestFormIs"= {%hour} tri warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} tri munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} teir munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha tri munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha teir munutenn warn-ugent ;
+				}
+			00:24:00
+				{
+				"ShortestFormIs"= {%hour} pevar warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} pevar munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} peder munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha pevar munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha peder munutenn warn-ugent ;
+				}
+			00:25:00
+				{
+				"ShortestFormIs"= {%hour} pemp warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} pemp munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} pemp munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha pemp munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha pemp munutenn warn-ugent ;
+				}
+			00:26:00
+				{
+				"ShortestFormIs"= {%hour} c'hwec'h warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} c'hwec'h munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} c'hwec'h munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha c'hwec'h munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha c'hwec'h munutenn warn-ugent ;
+				}
+			00:27:00
+				{
+				"ShortestFormIs"= {%hour} seizh warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} seizh munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} seizh munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha seizh munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha seizh munutenn warn-ugent ;
+				}
+			00:28:00
+				{
+				"ShortestFormIs"= {%hour} eizh warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} eizh munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} eizh munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} hag eizh munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} hag eizh munutenn warn-ugent ;
+				}
+			00:29:00
+				{
+				"ShortestFormIs"= {%hour} nav warn-ugent ;
+				"ShortFormMasculinIs"= {%hour} nav munut warn-ugent ;
+				"ShortFormFemininIs"= {%hour} nav munutenn warn-ugent ;
+				"LongFormMasculinIs"= {%hour} ha nav munut warn-ugent ;
+				"LongFormFemininIs"= {%hour} ha nav munutenn warn-ugent ;
+				}
+
+			00:30:00
+				{
+				"ShortestForm1Is"= {%hour} hanter ;
+				"ShortestForm2Is"= {%hour} tregont ;
+				"ShortFormMasculinIs"= {%hour} tregont munut ;
+				"ShortFormFemininIs"= {%hour} tregont munutenn ;
+				"LongFormMasculinIs"= {%hour} ha tregont munut ;
+				"LongFormFemininIs"= {%hour} ha tregont munutenn ;
+				}
+			00:31:00
+				{
+				"ShortestForm1Is"= {%hour} un ha tregont ;
+				"ShortestForm2Is"= {%hour} unan ha tregont ;
+				"ShortFormMasculinIs"= {%hour} ur munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} ur vunutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} hag ur munut ha tregont ;
+				"LongFormFemininIs"= {%hour} hag ur vunutenn ha tregont ;
+				}
+			00:32:00
+				{
+				"ShortestFormIs"= {%hour} daou ha tregont ;
+				"ShortFormMasculinIs"= {%hour} daou vunut ha tregont ;
+				"ShortFormFemininIs"= {%hour} div vunutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha daou vunut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha div vunutenn ha tregont ;
+				}
+			00:33:00
+				{
+				"ShortestFormIs"= {%hour} tri ha tregont ;
+				"ShortFormMasculinIs"= {%hour} tri munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} teir munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha tri munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha teir munutenn ha tregont ;
+				}
+			00:34:00
+				{
+				"ShortestFormIs"= {%hour} pevar ha tregont ;
+				"ShortFormMasculinIs"= {%hour} pevar munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} peder munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha pevar munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha peder munutenn ha tregont ;
+				}
+			00:35:00
+				{
+				"ShortestFormIs"= {%hour} pemp ha tregont ;
+				"ShortFormMasculinIs"= {%hour} pemp munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} pemp munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha pemp munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha pemp munutenn ha tregont ;
+				}
+			00:36:00
+				{
+				"ShortestFormIs"= {%hour} c'hwec'h ha tregont ;
+				"ShortFormMasculinIs"= {%hour} c'hwec'h munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} c'hwec'h munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha c'hwec'h munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha c'hwec'h munutenn ha tregont ;
+				}
+			00:37:00
+				{
+				"ShortestFormIs"= {%hour} seizh ha tregont ;
+				"ShortFormMasculinIs"= {%hour} seizh munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} seizh munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha seizh munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha seizh munutenn ha tregont ;
+				}
+			00:38:00
+				{
+				"ShortestFormIs"= {%hour} eizh ha tregont ;
+				"ShortFormMasculinIs"= {%hour} eizh munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} eizh munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} hag eizh munut ha tregont ;
+				"LongFormFemininIs"= {%hour} hag eizh munutenn ha tregont ;
+				}
+			00:39:00
+				{
+				"ShortestFormIs"= {%hour} nav ha tregont ;
+				"ShortFormMasculinIs"= {%hour} nav munut ha tregont ;
+				"ShortFormFemininIs"= {%hour} nav munutenn ha tregont ;
+				"LongFormMasculinIs"= {%hour} ha nav munut ha tregont ;
+				"LongFormFemininIs"= {%hour} ha nav munutenn ha tregont ;
+				}
+
+			00:40:00
+				{
+				"ShortestFormIs"= {%hour} daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} daou-ugent munut ;
+				"ShortFormFemininIs"= {%hour} daou-ugent munutenn ;
+				"LongFormMasculinIs"= {%hour} ha daou-ugent munut ;
+				"LongFormFemininIs"= {%hour} ha daou-ugent munutenn ;
+				}
+			00:41:00
+				{
+				"ShortestForm1Is"= {%hour} un ha daou-ugent ;
+				"ShortestForm2Is"= {%hour} unan ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} ur munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} ur vunutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} hag ur munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} hag ur vunutenn ha daou-ugent ;
+				}
+			00:42:00
+				{
+				"ShortestFormIs"= {%hour} daou ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} daou vunut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} div vunutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha daou vunut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha div vunutenn ha daou-ugent ;
+				}
+			00:43:00
+				{
+				"ShortestFormIs"= {%hour} tri ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} tri munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} teir munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha tri munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha teir munutenn ha daou-ugent ;
+				}
+			00:44:00
+				{
+				"ShortestFormIs"= {%hour} pevar ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} pevar munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} peder munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha pevar munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha peder munutenn ha daou-ugent ;
+				}
+			00:45:00
+				{
+				"Shortest1FormIs"= {%hour} pemp ha daou-ugent ;
+				"Shortest2FormIs"= {%hour after} nemet kard ;
+				"ShortFormMasculinIs"= {%hour} pemp munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} pemp munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha pemp munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha pemp munutenn ha daou-ugent ;
+				}
+			00:46:00
+				{
+				"ShortestFormIs"= {%hour} c'hwec'h ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} c'hwec'h munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} c'hwec'h munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha c'hwec'h munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha c'hwec'h munutenn ha daou-ugent ;
+				}
+			00:47:00
+				{
+				"ShortestFormIs"= {%hour} seizh ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} seizh munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} seizh munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha seizh munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha seizh munutenn ha daou-ugent ;
+				}
+			00:48:00
+				{
+				"ShortestFormIs"= {%hour} eizh ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} eizh munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} eizh munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} hag eizh munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} hag eizh munutenn ha daou-ugent ;
+				}
+			00:49:00
+				{
+				"ShortestFormIs"= {%hour} nav ha daou-ugent ;
+				"ShortFormMasculinIs"= {%hour} nav munut ha daou-ugent ;
+				"ShortFormFemininIs"= {%hour} nav munutenn ha daou-ugent ;
+				"LongFormMasculinIs"= {%hour} ha nav munut ha daou-ugent ;
+				"LongFormFemininIs"= {%hour} ha nav munutenn ha daou-ugent ;
+				}
+
+			00:50:00
+				{
+				"Shortest1FormIs"= {%hour} hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet dek ;
+				"ShortFormMasculinIs"= {%hour} hanter-kant munut ;
+				"ShortFormFemininIs"= {%hour} hanter-kant munutenn ;
+				"LongFormMasculinIs"= {%hour} hag hanter-kant munut ;
+				"LongFormFemininIs"= {%hour} hag hanter-kant munutenn ;
+				}
+			00:51:00
+				{
+				"ShortestForm1Is"= {%hour} un hag hanter-kant ;
+				"ShortestForm2Is"= {%hour} unan hag hanter-kant ;
+				"ShortestForm3Is"= {%hour after} nemet nav ;
+				"ShortFormMasculinIs"= {%hour} ur munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} ur vunutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} hag ur munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} hag ur vunutenn hag hanter-kant ;
+				}
+			00:52:00
+				{
+				"Shortest1FormIs"= {%hour} daou hag hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet eizh ;
+				"ShortFormMasculinIs"= {%hour} daou vunut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} div vunutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha daou vunut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha div vunutenn hag hanter-kant ;
+				}
+			00:53:00
+				{
+				"Shortest1FormIs"= {%hour} tri hag hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet seizh ;
+				"ShortFormMasculinIs"= {%hour} tri munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} teir munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha tri munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha teir munutenn hag hanter-kant ;
+				}
+			00:54:00
+				{
+				"Shortest1FormIs"= {%hour} pevar hag hanter-kant ;			
+				"Shortest2FormIs"= {%hour after} nemet c'hwec'h ;
+				"ShortFormMasculinIs"= {%hour} pevar munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} peder munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha pevar munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha peder munutenn hag hanter-kant ;
+				}
+			00:55:00
+				{
+				"Shortest1FormIs"= {%hour} pemp hag hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet pemp ;
+				"ShortFormMasculinIs"= {%hour} pemp munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} pemp munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha pemp munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha pemp munutenn hag hanter-kant ;
+				}
+			00:56:00
+				{
+				"Shortest1FormIs"= {%hour} c'hwec'h hag hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet pevar ;
+				"ShortFormMasculinIs"= {%hour} c'hwec'h munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} c'hwec'h munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha c'hwec'h munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha c'hwec'h munutenn hag hanter-kant ;
+				}
+			00:57:00
+				{
+				"Shortest1FormIs"= {%hour} seizh hag hanter-kant ;			
+				"Shortest2FormIs"= {%hour after} nemet tri ;
+				"ShortFormMasculinIs"= {%hour} seizh munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} seizh munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha seizh munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha seizh munutenn hag hanter-kant ;
+				}
+			00:58:00
+				{
+				"Shortest1FormIs"= {%hour} eizh hag hanter-kant ;			
+				"Shortest2FormIs"= {%hour after} nemet daou ;
+				"ShortFormMasculinIs"= {%hour} eizh munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} eizh munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} hag eizh munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} hag eizh munutenn hag hanter-kant ;
+				}
+			00:59:00
+				{
+				"Shortest1FormIs"= {%hour} nav hag hanter-kant ;
+				"Shortest2FormIs"= {%hour after} nemet unan ;
+				"ShortFormMasculinIs"= {%hour} nav munut hag hanter-kant ;
+				"ShortFormFemininIs"= {%hour} nav munutenn hag hanter-kant ;
+				"LongFormMasculinIs"= {%hour} ha nav munut hag hanter-kant ;
+				"LongFormFemininIs"= {%hour} ha nav munutenn hag hanter-kant ;
+				}
+		}
+	The seconds: {%seconds}
+		{
+			00:00:01
+				{
+				"ShortestFemininForm1Is"= un eilenn ;
+				"ShortestFemininForm2Is"= ur segondenn ;
+				"ShortestMasculinFormIs"= ur segond ;
+				}
+			00:00:02 
+				{
+				"ShortestFemininFormIs"= div {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= daou segond ;
+				}
+			00:00:03 
+				{
+				"ShortestFemininFormIs"= teir {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= tri segond ;
+				}
+			00:00:04 
+				{
+				"ShortestFemininFormIs"= peder {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= pevar segond ;
+				}
+			00:00:05 
+				{
+				"ShortestFemininFormIs"= pemp {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= pemp segond ;
+				}
+			00:00:06 
+				{
+				"ShortestFemininFormIs"= c'hwec'h {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= c'hwec'h segond ;
+				}
+			00:00:07 
+				{
+				"ShortestFemininFormIs"= seizh {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= seizh segond ;
+				}
+			00:00:08 
+				{
+				"ShortestFemininFormIs"= eizh {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= eizh segond ;
+				}
+			00:00:09 
+				{
+				"ShortestFemininFormIs"= nav {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= nav segond ;
+				}
+
+			00:00:10 
+				{
+				"ShortestFemininFormIs"= dek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= dek segond ;
+				}
+			00:00:11 
+				{
+				"ShortestFemininFormIs"= unnek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= unnek segond ;
+				}
+			00:00:12 
+				{
+				"ShortestFemininFormIs"= daouzek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= daouzek segond ;
+				}
+			00:00:13 
+				{
+				"ShortestFemininFormIs"= trizek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= trizek segond ;
+				}
+			00:00:14 
+				{
+				"ShortestFemininFormIs"= pevarzek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= pevarzek segond ;
+				}
+			00:00:15 
+				"ShortestFemininFormIs"= pempzek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= pempzek segond ;
+				}
+			00:00:16 
+				{
+				"ShortestFemininFormIs"= c'hwezek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= c'hwezek segond ;
+				}
+			00:00:17 
+				{
+				"ShortestFemininFormIs"= seitek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= seitek segond ;
+				}
+			00:00:18 
+				{
+				"ShortestFemininFormIs"= triwec'h {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= triwec'h segond ;
+				}
+			00:00:19 
+				{
+				"ShortestFemininFormIs"= naontek {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= naontek segond ;
+				}
+
+			00:00:20 
+				{
+				"ShortestFemininFormIs"= ugent {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= ugent segond ;
+				}
+			00:00:21 
+				{
+				"ShortestFemininForm1Is"= un eilenn warn-ugent ;
+				"ShortestFemininForm2Is"= ur segondenn warn-ugent ;
+				"ShortestMasculinFormIs"= ur segond warn-ugent ;
+				}
+			00:00:22 
+				{
+				"ShortestFemininFormIs"= div {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= daou segond warn-ugent ;
+				}
+			00:00:23 
+				{
+				"ShortestFemininFormIs"= teir {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= tri segond warn-ugent ;
+				}
+			00:00:24 
+				{
+				"ShortestFemininFormIs"= peder {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= pevar segond warn-ugent ;
+				}
+			00:00:25 
+				{
+				"ShortestFemininFormIs"= pemp {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= pemp segond warn-ugent ;
+				}
+			00:00:26 
+				{
+				"ShortestFemininFormIs"= c'hwec'h {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= c'hwec'h segond warn-ugent ;
+				}
+			00:00:27 
+				{
+				"ShortestFemininFormIs"= seizh {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= seizh segond warn-ugent ;
+				}
+			00:00:28 
+				{
+				"ShortestFemininFormIs"= eizh {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= eizh segond warn-ugent ;
+				}
+			00:00:29 
+				{
+				"ShortestFemininFormIs"= nav {eilenn/segondenn} warn-ugent ;
+				"ShortestMasculinFormIs"= nav segond warn-ugent ;
+				}
+			00:00:30 
+				{
+				"ShortestFemininFormIs"= tregont {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= tregont segond ;
+				}
+			00:00:31 
+				{
+				"ShortestFemininForm1Is"= un eilenn ha tregont ;
+				"ShortestFemininForm2Is"= ur segondenn ha tregont ;
+				"ShortestMasculinFormIs"= ur segond ha tregont ;
+				}
+			00:00:32 
+				{
+				"ShortestFemininFormIs"= div {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= daou segond ha tregont ;
+				}
+			00:00:33 
+				{
+				"ShortestFemininFormIs"= teir {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= tri segond ha tregont ;
+				}
+			00:00:34 
+				{
+				"ShortestFemininFormIs"= peder {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= pevar segond ha tregont ;
+				}
+			00:00:35 
+				{
+				"ShortestFemininFormIs"= pemp {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= pemp segond ha tregont ;
+				}
+			00:00:36 
+				{
+				"ShortestFemininFormIs"= c'hwec'h {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= c'hwec'h segond ha tregont ;
+				}
+			00:00:37 
+				{
+				"ShortestFemininFormIs"= seizh {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= seizh segond ha tregont ;
+				}
+			00:00:38 
+				{
+				"ShortestFemininFormIs"= eizh {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= eizh segond ha tregont ;
+				}
+			00:00:39 
+				{
+				"ShortestFemininFormIs"= nav {eilenn/segondenn} ha tregont ;
+				"ShortestMasculinFormIs"= nav segond ha tregont ;
+				}
+
+			00:00:40 
+				{
+				"ShortestFemininFormIs"= daou-ugent {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= daou-ugent segond ;
+				}
+			00:00:41 
+				{
+				"ShortestFemininForm1Is"= un eilenn ha daou-ugent ;
+				"ShortestFemininForm2Is"= ur segondenn ha daou-ugent ;
+				"ShortestMasculinFormIs"= ur segond ha daou-ugent ;
+				}
+			00:00:42 
+				{
+				"ShortestFemininFormIs"= div {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= daou segond ha daou-ugent ;
+				}
+			00:00:43 
+				{
+				"ShortestFemininFormIs"= teir {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= tri segond ha daou-ugent ;
+				}
+			00:00:44 
+				{
+				"ShortestFemininFormIs"= peder {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= pevar segond ha daou-ugent ;
+				}
+			00:00:45 
+				{
+				"ShortestFemininFormIs"= pemp {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= pemp segond ha daou-ugent ;
+				}
+			00:00:46 
+				{
+				"ShortestFemininFormIs"= c'hwec'h {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= c'hwec'h segond ha daou-ugent ;
+				}
+			00:00:47 
+				{
+				"ShortestFemininFormIs"= seizh {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= seizh segond ha daou-ugent ;
+				}
+			00:00:48 
+				{
+				"ShortestFemininFormIs"= eizh {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= eizh segond ha daou-ugent ;
+				}
+			00:00:49 
+				{
+				"ShortestFemininFormIs"= nav {eilenn/segondenn} ha daou-ugent ;
+				"ShortestMasculinFormIs"= nav segond ha daou-ugent ;
+				}
+
+			00:00:50 
+				{
+				"ShortestFemininFormIs"= hanter-kant {eilenn/segondenn} ;
+				"ShortestMasculinFormIs"= hanter-kant segond ;
+				}
+			00:00:51 
+				{
+				"ShortestFemininForm1Is"= un eilenn hag hanter-kant ;
+				"ShortestFemininForm2Is"= ur segondenn hag hanter-kant ;
+				"ShortestMasculinFormIs"= ur segond hag hanter-kant ;
+				}
+			00:00:52 
+				{
+				"ShortestFemininFormIs"= div {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= daou segond hag hanter-kant ;
+				}
+			00:00:53 
+				{
+				"ShortestFemininFormIs"= teir {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= tri segond hag hanter-kant ;
+				}
+			00:00:54 
+				{
+				"ShortestFemininFormIs"= peder {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= pevar segond hag hanter-kant ;
+				}
+			00:00:55 
+				{
+				"ShortestFemininFormIs"= pemp {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= pemp segond hag hanter-kant ;
+				}
+			00:00:56 
+				{
+				"ShortestFemininFormIs"= c'hwec'h {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= c'hwec'h segond hag hanter-kant ;
+				}
+			00:00:57 
+				{
+				"ShortestFemininFormIs"= seizh {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= seizh segond hag hanter-kant ;
+				}
+			00:00:58 
+				{
+				"ShortestFemininFormIs"= eizh {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= eizh segond hag hanter-kant ;
+				}
+			00:00:59 
+				{
+				"ShortestFemininFormIs"= nav {eilenn/segondenn} hag hanter-kant ;
+				"ShortestMasculinFormIs"= nav segond hag hanter-kant ;
+				}
+		}
+Add "eo" (it is) at the end.
+}
