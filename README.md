@@ -29,9 +29,7 @@ III. Files in this project with a link and a short description of each file:
 - A. 02. Classical way to count in breton masculin forms:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the masculin.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2002.%20Classical%20way%20to%20count%20in%20breton%20masculin%20forms
-- A. 03. Negatives breton numbers incorr.:
-    - Description: you will find a database from "0" to "-2000000000" to count in breton in the classical negative form.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2003.%20Negatives%20breton%20numbers%20incorr.
+
   
 - B. 01. Rare forms to count in breton in letters feminin:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the feminin with rare forms. For exemple 99 = kant nemet unan (a hundred minus one).
@@ -42,41 +40,26 @@ III. Files in this project with a link and a short description of each file:
 - B. 03. Counting by twenty forms in letters incorr.:
     - Description: you will find a database from "0" to "2000000000" to count in breton with a rarely used system by twenty after a hundred.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2003.%20Counting%20by%20twenty%20forms%20in%20letters%20incorr.
-- B. 04. Negatives rare forms in letters incorr.
-    - Description: you will find a database from "0" to "-2000000000" to count in breton with negative numbers forms with a rare form. For exemple -99 = nemet kant nemet unan (-a hundred minus one).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2004.%20Negatives%20rare%20forms%20in%20letters%20incorr.
-- B. 05. Counting by twenty forms negative in letters incorr.:
-    - Description: you will find a database from "0" to "-2000000000" to count in breton with the negative of the rarely used system by twenty after a hundred.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2005.%20Counting%20by%20twenty%20forms%20negative%20in%20letters%20incorr.
 
 - C'h. 01. Names of the huge numbers in breton:
-    - Description: you will find a database to know how to generate new names for very huge numbers into breton..
+    - Description: you will find a database to know how to generate new names for very huge numbers into breton.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2001.%20Names%20of%20the%20huge%20numbers%20in%20breton
 - C'h. 02. How to count in breton with singuliar forms:
-    - Description: you will find a database to know how to count in breton with singuliar forms..
+    - Description: you will find a database to know how to count in breton with singuliar forms.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2002.%20How%20to%20count%20in%20breton%20with%20singuliar%20forms
 - C'h. 03. How to count in breton with plurial forms:
-    - Description: you will find a database to know how to count in breton with plurials forms..
+    - Description: you will find a database to know how to count in breton with plurials forms.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2003.%20How%20to%20count%20in%20breton%20with%20plurial%20forms
-- C'h. 04. How to count in breton with singuliar negative forms incorr.:
-    - Description: you will find a database to know how to count in breton with negatives numbers in singuliar forms..
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2004.%20How%20to%20count%20in%20breton%20with%20singuliar%20negative%20forms%20incorr.
-- C'h. 05. How to count in breton with plurial forms negativ incorr.:
-    - Description: you will find a database to know how to count in breton with negatives numbers in plurials forms..
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2005.%20How%20to%20count%20in%20breton%20with%20plurial%20forms%20negativ%20incorr.
-- C'h. 06. Breton-percentage:
+- C'h. 04. Breton-percentages:
     - Description: you will find a database to know how to count the pourcentage in breton.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2006.%20Breton-percentage
-- C'h.07. How to read the clock in Breton.
+- C'h.05. How to read the clock in Breton.
     - Description in this file you will find one of the most complete ways to know how to read the clock in Breton..
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.07.%20How%20to%20read%20the%20clock%20in%20Breton
 
 - Ch. 01. New way to count in letters incorr.:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the new way thougt to be more easy to learn in schools for francophone people but they are not recommanded to use because they are considered as difficult to understood.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
-- Ch. 02. Negative new way to count in letters incorr.:
-    - Description: same description as "Ch. 01. New way to count in letters incorr.", execpt this project is for knowing how to count in the negative form.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/Ch.%2002.%20Negative%20new%20way%20to%20count%20in%20letters%20incorr.
 
 
 IV. Coming soon:
