@@ -1,0 +1,21 @@
+"Comment":
+{
+"1stCommentInEnglishIs"={We just have to put the suffix "-vet" at the end unit of the masculins forms. When there is a "-v" at the end of the original number we generally merged it with the one in the "-vet" suffix, but some doesn't.}
+"2ndCommentInEnglishIs"={If:"kant navet milvet ha pevar-ugent", could means: "One hundred and ninth millennium and eighty" or "One hundred and ninth thousandth and eighty".}
+}
+"Beginning":
+2{-vet} = eilvet
+5{-vet} = pempvet
+6{-vet} = c'hwec'hvet
+7{-vet} = seizhvet
+8{-vet} = eizhvet
+9{-vet} = navvet ; navet
+10{-vet} = dekvet
+...
+50{-vet} = hanter-kantved; hanterkantvet
+51{-vet} = unanvet hag hanter-kant
+...
+189000{-vet} = kant nav milvet ha pevar-ugent
+...
+200226{-vet} = daou c'hant mil daou c'hant c'hwec'hvet warn-ugent
+...
