@@ -24,13 +24,18 @@ II. How the project is organized?
 III. Files in this project with a link and a short description of each file:
 
 - A. 01. Classical way to count in breton femnin forms:
-    - Description: you will find a database from "2" to "1184" to show the parten to count in breton in the feminin. If you want to count more than that in breton you can reuse the patern and put it in the file "A. 02. Classical way to count in breton masculin fomrs".
+    - Description: you will find a database from "2" to "1184" to show the parten to count in breton in the feminin. If you want to count more than that in breton you can reuse the patern and put it in the file "A. 02. Classical way to count in breton masculin forms".
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms
 - A. 02. Classical way to count in breton masculin forms:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the masculin.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2002.%20Classical%20way%20to%20count%20in%20breton%20masculin%20forms
+- A. 03. Irregular Breton Ordinals numbers:
+    - Description: You will find the only Irregulars Breton Ordinals Numbers, but there are not rare.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2003.%20Irregular%20Breton%20Ordinals%20numbers
+- A. 04. Regular Breton Ordinals numbers:
+    - Description: You will find a short explanations how to generate Regular Breton Ordinals numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2004.%20Regular%20Breton%20Ordinals%20numbers
 
-  
 - B. 01. Rare forms to count in breton in letters:
     - Description: This file shows how to count every number contening "99" in a particular way. For exemple 99 = kant nemet unan (a hundred minus one).
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2001.%20Rare%20forms%20to%20count%20in%20breton%20in%20letters
@@ -40,9 +45,10 @@ III. Files in this project with a link and a short description of each file:
 - B. 03. Counting by hundreds in letters: 
     - Description: you will find a little pattern from "1100" to "1901" to know how to count by "hundreds" in Breton. This system is used a lot for counting centurys.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2003.%20Counting%20by%20hundreds%20in%20letters
-- B. 04. Breton Ordinals numbers:
-    - Description: 
-    - Link to this file: 
+
+- B. 04. Rare Irregular Breton Ordinals Numbers:
+    - Description: You will find the Rare Irregulars Breton Ordinals Numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/B.%2004.%20Rare%20Irregular%20Breton%20Ordinals%20Numbers
 
 - C'h. 01. Names of the huge numbers in breton:
     - Description: you will find a database to know how to generate understable new names for very huge numbers into breton.
