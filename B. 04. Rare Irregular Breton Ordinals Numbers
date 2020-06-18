@@ -3,7 +3,6 @@
 		-vet = {
 				divet (f) ;
 				daouvet (m) ;
-				eilvet ;
 				}
 	}
 3
