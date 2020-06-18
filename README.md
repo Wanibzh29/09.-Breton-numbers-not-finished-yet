@@ -57,8 +57,8 @@ III. Files in this project with a link and a short description of each file:
     - Description in this file you will find one of the most complete ways to know how to read the clock in Breton..
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.07.%20How%20to%20read%20the%20clock%20in%20Breton
 
-- Ch. 01. New way to count in letters incorr.:
-    - Description: you will find a database from "0" to "2000000000" to count in breton in the new way thougt to be more easy to learn in schools for francophone people but they are not recommanded to use because they are considered as difficult to understood.
+- Ch. 01. New way to count in letters:
+    - Description: you will find a database from "0" to "2000000000" to count in breton in the new way thougt to be more easy to learn in schools for francophone people but they are not recommanded to use because they are considered as difficult to understood by britophone native speakers.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
 
 
