@@ -35,6 +35,18 @@ III. Files in this project with a link and a short description of each file:
 - A. 04. Regular Breton Ordinals numbers:
     - Description: You will find a short explanations how to generate Regular Breton Ordinals numbers.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2004.%20Regular%20Breton%20Ordinals%20numbers
+- A. 05. Breton Fractional Numbers:
+    - Description: You will find a short explanations how to generate Breton Fractionnal Numbers, e.g. "un eizhvedenn eus an dartezenn" = "an eighth of the pie".
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2005.%20Breton%20Fractional%20Numbers
+- A. 06. Breton Duration Numbers:
+    - Description: You will find a short explanations how to generate Breton Duration Numbers, e.g. "ur c'hantved" = "a century".
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2006.%20Breton%20Duration%20Numbers
+- A. 07. Breton Annual Duration Numbers:
+    - Description: You will find a short explanations how to generate Breton Annual Duration Numbers, e.g. "ur c'hantvloavezh" = "a century".
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2007.%20Breton%20Annual%20Duration%20Numbers
+- A. 08. Breton Daily Duration Numbers:
+    - Description: You will find a short explanations how to generate Breton Daily Duration Numbers, e.g. "pemzektevezh" = "fifteen days".
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2008.%20Breton%20Daily%20Duration%20Numbers
 
 - B. 01. Rare forms to count in breton in letters:
     - Description: This file shows how to count every number contening "99" in a particular way. For exemple 99 = kant nemet unan (a hundred minus one).
