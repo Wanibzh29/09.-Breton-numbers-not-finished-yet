@@ -66,7 +66,7 @@ III. Files in this project with a link and a short description of each file:
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2005.%20How%20to%20count%20in%20breton%20with%20plurial%20forms%20negativ%20incorr.
 - C'h. 06. Breton-percentage:
     - Description: you will find a database to know how to count the pourcentage in breton.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2006.%20Breton-percentage-correct
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2006.%20Breton-percentage
 - C'h.07. How to read the clock in Breton.
     - Description in this file you will find one of the most complete ways to know how to read the clock in Breton..
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.07.%20How%20to%20read%20the%20clock%20in%20Breton
