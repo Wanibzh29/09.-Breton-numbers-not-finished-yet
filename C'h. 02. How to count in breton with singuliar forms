@@ -1,14 +1,21 @@
 "Comment":
 {
-"CommentinBretonIs"={Amañ al lizherenn {X} a dalvezo evit un dra bennak en unander. Ma'z eo benel an traoù a gonter e rankit mont da welet an url-mañ da gompren peur e ranker lakaat "div, teir, peder" e-plas "daou, tri, pevar": [https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms].}
-"1stCommentinEnglishIs"={Here the letter {X} represent something in the singular but nothing special, it's only to show how something we count into breton. If we count a feminin thing go to see: [https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms] to know when we put "div, teir, peder" instead of "daou, tri, pevar".}
-"2ndCommentinEnglishIs"={How to choose if it is the number "one" is ending with an "n/r/l":}
+"1stCommentinBretonIs"={Amañ al lizherenn {X} a dalvezo evit un dra bennak en unander.}
+"1stCommentinEnglishIs"={Here the letter {X} represent something in the singular but nothing special, it's only to show how something we count into breton}.
+
+"2ndCommentinBretonIs"={Ma'z eo benel an traoù a gonter e rankit mont da welet an url-mañ da gompren peur e ranker lakaat "div, teir, peder" e-plas "daou, tri, pevar": [https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms].}
+"2ndCommentinEnglishIs"={If we count a feminin thing go to see: [https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms] to know when we put "div, teir, peder" instead of "daou, tri, pevar".}
+
+"3rdCommentinBretonIs"}={URLioù ar reolennoù evit gouzout peseurt lizherenn a vo e fin an niver "un", "n", "r" pe "l":}
+"3rdCommentinEnglishIs"={The URLs rules to know how which letters will be at the end of the number "un" (one), an "n", an "r" or an "l":}
+{"URLs":
 "1stRuleURLIs"={https://community.languagetool.org/rule/show/AL?lang=br&subId=1}
 "2ndRuleURLIs"={https://community.languagetool.org/rule/show/AN?lang=br&subId=1}
 "3rdRuleURLIs"={https://community.languagetool.org/rule/show/AR?lang=br&subId=1}
 "4thRuleURLIs"={https://community.languagetool.org/rule/show/AR?lang=br&subId=2}
 "5thRuleURLIs"={https://community.languagetool.org/rule/show/AR_OUI?lang=br&subId=1}
 "6thRuleURLIs"={https://community.languagetool.org/rule/show/AR_TSAR?lang=br&subId=1}
+}
 }
 "Begining":
 {
