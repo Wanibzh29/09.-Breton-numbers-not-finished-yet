@@ -3,18 +3,21 @@
 "1stCommentInEnglishIs"={We just have to put the suffix "-devezh/-tevezh/-zevezh" at the end unit of the masculins forms. But the "better" way to count days is like this "X devezh"}
 }
 "Beginning":
-1{-devezh} = undevezh
-2{-zevezh} = daouzevezh
-3{-devezh} = tridevezh
-5{-tevezh} = pemptevezh
-6{-tevezh} = c'hwec'htevezh
-7{-tevezh} = seizhtevezh
-8{-tevezh} = eizhtevezh
-9{-devezh} = navdevezh ; navdevezh
-10{-tevezh} = dektevezh
+{
+1{-devezh} = undevezh ; un devezh
+2{-zevezh} = daouzevezh ; daou zevezh
+3{-devezh} = tridevezh ; tri devezh
+4{-devezh} = pevardevezh ; pevar devezh
+5{-tevezh} = pemptevezh ; pemp devezh
+6{-tevezh} = c'hwec'htevezh ; c'hwec'h devezh
+7{-tevezh} = seizhtevezh ; seizh devezh
+8{-tevezh} = eizhtevezh ; eizh devezh
+9{-devezh} = navdevezh ; nav devezh
+10{-tevezh} = dektevezh ; dek devezh
 ...
-50{-devezh} = hanter-kanttevezh ; hanterkanttevezh
-51{-devezh} = unandevezh hag hanter-kant
+50{-devezh} = hanter-kanttevezh ; hanterkanttevezh ; hanter-kant devezh
+51{-devezh} = undevezh hag hanter-kant ; un devezh hag hanter-kant
 ...
-100{-devezh} = kanttevezh
+100{-devezh} = kanttevezh ; kant devezh
 ...
+}
