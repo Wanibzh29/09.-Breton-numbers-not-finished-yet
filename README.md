@@ -1,5 +1,6 @@
 # Breton-numbers
-I. Description
+
+# I. Description
 - Copyright (c) 2001-2020 Korvigelloù An Drouizig
 drouizig@drouizig.org - http://www.drouizig.org.
 - Copyright (c) Bed niverel: Poellgor “Bed niverel” — #brezhoneg & teknologiezhioù ar c'helaouiñ hag ar c'hehentiñ — Langue bretonne & #TIC (#NTIC) - #breton language and ICT.
@@ -9,7 +10,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 - The project contains variant form to count in Breton, from the traditionnal form and most used, to the unusual one,
   to the newest form as thought to be more easy to learn in schools for "francophone people" but they are not recommanded to use because they are considered as difficult to understood for most of the bretons speakers.
   
-II. How the project is organized?
+# II. How the project is organized?
 - The project is organized like this:
     - Each title of each file have in it letters as "A. 01. .., A. 02. ...".
     - If the filename contains "A." in it, it means that the forms contained in it are "classical ones to count in breton" so they will be most used.
@@ -21,7 +22,7 @@ II. How the project is organized?
     
 - When the filename contains "incorr." the correction work isn't done.
 
-III. Files in this project with a link and a short description of each file:
+# III. Files in this project with a link and a short description of each file:
 
 - A. 01. Classical way to count in breton femnin forms:
     - Description: you will find a database from "2" to "1184" to show the parten to count in breton in the feminin. If you want to count more than that in breton you can reuse the patern and put it in the file "A. 02. Classical way to count in breton masculin forms".
@@ -83,7 +84,7 @@ III. Files in this project with a link and a short description of each file:
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
 
 
-IV. Coming soon:
+# IV. Coming soon:
 
 - D. 01. GO
     - Description: Counting in Goelo's dialectal country.
@@ -108,7 +109,7 @@ IV. Coming soon:
     - Description: 
     - Link to this file: 
 
-V. The "Bretons numbers Project" is reused by:
+# V. The "Bretons numbers Project" is reused by:
 
 - The Open Celtic Dictionary project:
     - Description: (from their description) The goal of the project is to be able to provide speakers of Celtic languages a dictionary API with all words, conjugations, some mutations, translations, and other useful information.
@@ -118,7 +119,7 @@ V. The "Bretons numbers Project" is reused by:
     - Link: https://discord.com/oauth2/authorize?client_id=695552413066854502&permissions=388160&scope=bot
 
 
-VI. Some idea to reuse this project:
+# VI. Some idea to reuse this project:
 
 - Here you will find a data-base for a Breton numbers macro, as these one: https://extensions.openoffice.org/fr/project/chiffres-en-lettres?SetFreedomCookie
 
