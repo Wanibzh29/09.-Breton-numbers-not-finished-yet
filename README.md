@@ -1,12 +1,14 @@
 # Breton-numbers
 
-# I. Description
+## I. Copyrights
 - Copyright (c) 2001-2020 Korvigelloù An Drouizig
 drouizig@drouizig.org - http://www.drouizig.org.
 - Copyright (c) Bed niverel: Poellgor “Bed niverel” — #brezhoneg & teknologiezhioù ar c'helaouiñ hag ar c'hehentiñ — Langue bretonne & #TIC (#NTIC) - #breton language and ICT.
 poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 - Contact of the project owner: per.morvan.bzh29@gmail.com.
+
+# II. Description
 - The project contains variant form to count in Breton, from the traditionnal form and most used, to the unusual one,
   to the newest form as thought to be more easy to learn in schools for "francophone people" but they are not recommanded to use because they are considered as difficult to understood for most of the bretons speakers.
   
