@@ -70,7 +70,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2001.%20Names%20of%20the%20huge%20numbers%20in%20breton
 - C'h. 02. How to count in breton with singuliar forms:
     - Description: you will find a database to know how to count in breton with singuliar forms.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2002.%20How%20to%20count%20in%20breton%20with%20singuliar%20forms
+    - Link to this file: 
 - C'h. 03. How to count in breton with plurial forms:
     - Description: you will find a database to know how to count in breton with plurials forms.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2003.%20How%20to%20count%20in%20breton%20with%20plurial%20forms
@@ -115,7 +115,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/a4adc03b25ade14ced5caaa55dc1293064b87d28
 - E. 01. C'h. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (4/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%20C'h.%20From%20Roman%20numerals%20to%20Breton%20numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/a4adc03b25ade14ced5caaa55dc1293064b87d28
 - E. 01. D. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (5/5).
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/f7bcaf496f15835e294a613f6915ba07b84f3376
