@@ -26,7 +26,8 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 ## IV. Files in this project with a link and a short description of each file
 
-### A. Classical
+### A. Classicals forms
+
 - A. 01. Classical way to count in breton femnin forms:
     - Description: you will find a database from "2" to "1184" to show the parten to count in breton in the feminin. If you want to count more than that in breton you can reuse the patern and put it in the file "A. 02. Classical way to count in breton masculin forms".
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-01.-Classical-way-to-count-in-breton-femnin-forms
@@ -52,7 +53,8 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description: You will find a short explanations how to generate Breton Daily Duration Numbers, e.g. "pemzektevezh" = "fifteen days".
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-08.-Breton-Daily-Duration-Numbers
 
-### Rare forms
+### B. Rare forms
+
 - B. 01. Rare forms to count in breton in letters:
     - Description: This file shows how to count every number contening "99" in a particular way. For exemple 99 = kant nemet unan (a hundred minus one).
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/B.-01.-Rare-forms-to-count-in-breton-in-letters
@@ -67,6 +69,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/B.-04.-Rare-Irregular-Breton-Ordinals-Numbers
 
 ### C'h. Particular cases
+
 - C'h. 01. Names of the huge numbers in breton:
     - Description: you will find a database to know how to generate understable new names for very huge numbers into breton.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/C'h.-01.-Names-of-the-huge-numbers-in-breton
@@ -83,13 +86,16 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description in this file you will find one of the most complete ways to know how to read the clock in Breton.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/C'h.-05.-How-to-read-the-clock-in-Breton
 
-### Ch. Neologism forms
+### Ch. Neologisms forms
+
 - Ch. 01. New way to count in letters:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the new way thougt to be more easy to learn in schools for francophone people but they are difficult to understood by britophone native speakers.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/Ch.-01.-New-Breton-to-count-in-letters
 
 
-## V. Coming soon
+## V. Still working on and Coming soon
+
+### D. Dialectals forms (Coming soon)
 
 - D. 01. GO
     - Description: Counting in Goelo's dialectal country.
@@ -107,6 +113,9 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description: Counting in Treger's dialectal country.
     - Link to this file:
 
+### E. Breton numbers, Latin, Mathematics and others
+
+#### Latin
 - E. 01. I. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (1/5).
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-I.-From-Roman-numerals-to-Breton-numbers
@@ -122,6 +131,8 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 - E. 01. V. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (5/5).
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-V.-From-Roman-numerals-to-Breton-numbers
+
+#### Mathematics
 
 - E. 02. Names of the basics elements in matematics in Breton.
     - Description: 
