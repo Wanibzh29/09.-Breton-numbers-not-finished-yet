@@ -104,9 +104,22 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description: Counting in Treger's dialectal country.
     - Link to this file:
 
-- E. 01. From Roman numerals to Breton numbers.
-    - Description: 
-    - Link to this file:
+- E. 01. A. From Roman numerals to Breton numbers.
+    - Description: you will find here a database to know how to convert from the Latin numbers to Breton (1/5).
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%2001.%20From%20Roman%20numerals%20to%20Breton%20numbers
+- E. 01. B. From Roman numerals to Breton numbers.
+    - Description: you will find here a database to know how to convert from the Latin numbers to Breton (2/5).
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%20B.%20From%20Roman%20numerals%20to%20Breton%20numbers
+- E. 01. Ch. From Roman numerals to Breton numbers.
+    - Description: you will find here a database to know how to convert from the Latin numbers to Breton (3/5).
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/a4adc03b25ade14ced5caaa55dc1293064b87d28
+- E. 01. C'h. From Roman numerals to Breton numbers.
+    - Description: you will find here a database to know how to convert from the Latin numbers to Breton (4/5).
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%20C'h.%20From%20Roman%20numerals%20to%20Breton%20numbers
+- E. 01. D. From Roman numerals to Breton numbers.
+    - Description: you will find here a database to know how to convert from the Latin numbers to Breton (5/5).
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/f7bcaf496f15835e294a613f6915ba07b84f3376
+
 - E. 02. Names of the basics elements in matematics in Breton.
     - Description: 
     - Link to this file: 
