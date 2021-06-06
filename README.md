@@ -73,17 +73,17 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Link to this file: 
 - C'h. 03. How to count in breton with plurial forms:
     - Description: you will find a database to know how to count in breton with plurials forms.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2003.%20How%20to%20count%20in%20breton%20with%20plurial%20forms
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/C'h.%2003.%20How%20to%20count%20in%20breton%20with%20plurial%20forms
 - C'h. 04. Breton-percentages:
     - Description: you will find a database to know how to count the pourcentage in breton.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.%2006.%20Breton-percentage
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/C'h.%2006.%20Breton-percentage
 - C'h.05. How to read the clock in Breton.
     - Description in this file you will find one of the most complete ways to know how to read the clock in Breton.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/C'h.07.%20How%20to%20read%20the%20clock%20in%20Breton
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/C'h.07.%20How%20to%20read%20the%20clock%20in%20Breton
 
 - Ch. 01. New way to count in letters:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the new way thougt to be more easy to learn in schools for francophone people but they are not recommanded to use because they are considered as difficult to understood by britophone native speakers.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet-/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/Ch.%2001.%20New-way-to-count-in-letters-correct
 
 
 ## V. Coming soon
