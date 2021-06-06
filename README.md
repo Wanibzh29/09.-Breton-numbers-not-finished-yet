@@ -17,7 +17,7 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Each title of each file have in it letters as "A. 01. .., A. 02. ...".
     - If the filename contains "A." in it, it means that the forms contained in it are "classical ones to count in breton" so they will be most used.
     - If the filename contains "B." in it, it means that it is rare forms.
-    - If the filename contains "C'h" in it, it means that they are for particular case.
+    - If the filename contains "C'h." in it, it means that they are for particular case.
     - And if filename contains "Ch." in it, it means that it is the neologism forms to count into breton.
     - In the future some (standardized) dialectical forms will be added and will have as letter to distinguish them "D." (for Dialect) in their filenames.
     - In the future all the files contening "E." will be files contening others stuff linked with Breton and Mathematics and counting that could not be contained in the categories above.
@@ -104,21 +104,21 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description: Counting in Treger's dialectal country.
     - Link to this file:
 
-- E. 01. A. From Roman numerals to Breton numbers.
+- E. 01. I. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (1/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%2001.%20From%20Roman%20numerals%20to%20Breton%20numbers
-- E. 01. B. From Roman numerals to Breton numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-I.-From-Roman-numerals-to-Breton-numbers
+- E. 01. II. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (2/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.%2001.%20B.%20From%20Roman%20numerals%20to%20Breton%20numbers
-- E. 01. Ch. From Roman numerals to Breton numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-II.-From-Roman-numerals-to-Breton-numbers
+- E. 01. III. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (3/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/a4adc03b25ade14ced5caaa55dc1293064b87d28
-- E. 01. C'h. From Roman numerals to Breton numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-III.-From-Roman-numerals-to-Breton-numbers
+- E. 01. IV. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (4/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/a4adc03b25ade14ced5caaa55dc1293064b87d28
-- E. 01. D. From Roman numerals to Breton numbers.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-IV.-From-Roman-numerals-to-Breton-numbers
+- E. 01. V. From Roman numerals to Breton numbers.
     - Description: you will find here a database to know how to convert from the Latin numbers to Breton (5/5).
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/commit/f7bcaf496f15835e294a613f6915ba07b84f3376
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/E.-01.-V.-From-Roman-numerals-to-Breton-numbers
 
 - E. 02. Names of the basics elements in matematics in Breton.
     - Description: 
