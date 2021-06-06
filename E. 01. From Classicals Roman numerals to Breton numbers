@@ -1,0 +1,4048 @@
+0 = = zero ; mann
+1 = I = unan
+2 = II = daou
+3 = III = tri
+4 = IV = pevar
+5 = V = pemp
+6 = VI = c'hwec'h
+7 = VII = seizh
+8 = VIII = eizh
+9 = IX = nav
+
+10 = X = dek
+11 = XI = unnek
+12 = XII = daouzek
+13 = XIII = trizek
+14 = XIV = pevarzek
+15 = XV = pemzek
+16 = XVI = c'hwezek
+17 = XVII = seitek
+18 = XVIII = triwec'h
+19 = XIX = naontek
+
+20 = XX = ugent
+21 = XXI = unan warn-ugent
+22 = XXII = daou warn-ugent
+23 = XXIII = tri warn-ugent
+24 = XXIV = pevar warn-ugent
+25 = XXV = pemp warn-ugent
+26 = XXVI = c'hwec'h warn-ugent
+27 = XXVII = seizh warn-ugent
+28 = XXVIII = eizh warn-ugent
+29 = XXIX = nav warn-ugent
+
+30 = XXX = tregont
+31 = XXXI = unan ha tregont
+32 = XXXII = daou ha tregont
+33 = XXXIII = tri ha tregont
+34 = XXXIV = pevar ha tregont
+35 = XXXV = pemp ha tregont
+36 = XXXVI = c'hwec'h ha tregont
+37 = XXXVII = seizh ha tregont
+38 = XXXVIII = eizh ha tregont
+39 = XXXIX = nav ha tregont
+
+40 = XL = daou-ugent
+41 = XLI = unan ha daou-ugent
+42 = XLII = daou ha daou-ugent
+43 = XLIII = tri ha daou-ugent
+44 = XLIV = pevar ha daou-ugent
+45 = XLV = pemp ha daou-ugent
+46 = XLVI = c'hwec'h ha daou-ugent
+47 = XLVII = seizh ha daou-ugent
+48 = XLVIII = eizh ha daou-ugent
+49 = XLIX = nav ha daou-ugent
+
+50 = L = hanter-kant
+51 = LI = unan hag hanter-kant
+52 = LII = daou hag hanter-kant
+53 = LIII = tri hag hanter-kant
+54 = LIV = pevar hag hanter-kant
+55 = LV = pemp hag hanter-kant
+56 = LVI = c'hwec'h hag hanter-kant
+57 = LVII = seizh hag hanter-kant
+58 = LVIII = eizh hag hanter-kant
+59 = LIX = nav hag hanter-kant
+
+60 = LX = tri-ugent
+61 = LXI = unan ha tri-ugent
+62 = LXII = daou ha tri-ugent
+63 = LXIII = tri ha tri-ugent
+64 = LXIV = pevar ha tri-ugent
+65 = LXV = pemp ha tri-ugent
+66 = LXVI = c'hwec'h ha tri-ugent
+67 = LXVII = seizh ha tri-ugent
+68 = LXVIII = eizh ha tri-ugent
+69 = LXIX = nav ha tri-ugent
+
+70 = LXX = dek ha tri-ugent
+71 = LXXI = unnek ha tri-ugent
+72 = LXXII = daouzek ha tri-ugent
+73 = LXXIII = trizek ha tri-ugent
+74 = LXXIV = pevarzek ha tri-ugent
+75 = LXXV = pemzek ha tri-ugent
+76 = LXXVI = c'hwezek ha tri-ugent
+77 = LXXVII = seitek ha tri-ugent
+78 = LXXVIII = triwec'h ha tri-ugent
+79 = LXXIX = naontek ha tri-ugent
+
+80 = LXXX = pevar-ugent
+81 = LXXXI = unan ha pevar-ugent
+82 = LXXXII = daou ha pevar-ugent
+83 = LXXXIII = tri ha pevar-ugent
+84 = LXXXIV = pevar ha pevar-ugent
+85 = LXXXV = pemp ha pevar-ugent
+86 = LXXXVI = c'hwec'h ha pevar-ugent
+87 = LXXXVII = seizh ha pevar-ugent
+88 = LXXXVIII = eizh ha pevar-ugent
+89 = LXXXIX = nav ha pevar-ugent
+
+90 = XC = dek ha pevar-ugent
+91 = XCI = unnek ha pevar-ugent
+92 = XCII = daouzek ha pevar-ugent
+93 = XCIII = trizek ha pevar-ugent
+94 = XCIV = pevarzek ha pevar-ugent
+95 = XCV = pemzek ha pevar-ugent
+96 = XCVI = c'hwezek ha pevar-ugent
+97 = XCVII = seitek ha pevar-ugent
+98 = XCVIII = triwec'h ha pevar-ugent
+99 = XCIX = naontek ha pevar-ugent
+
+100 = C = kant
+101 = CI = kant unan
+102 = CII = kant daou
+103 = CIII = kant tri
+104 = CIV = kant pevar
+105 = CV = kant pemp
+106 = CVI = kant c'hwec'h
+107 = CVII = kant seizh
+108 = CVIII = kant eizh
+109 = CIX = kant nav
+110 = CX = kant dek
+111 = CXI = kant unnek
+112 = CXII = kant daouzek
+113 = CXIII = kant trizek
+114 = CXIV = kant pevarzek
+115 = CXV = kant pemzek
+116 = CXVI = kant c'hwezek
+117 = CXVII = kant seitek
+118 = CXVIII = kant triwec'h
+119 = CXIX = kant naontek
+120 = CXX = kant ugent
+121 = CXXI = kant unan warn-ugent
+122 = CXXII = kant daou warn-ugent
+123 = CXXIII = kant tri warn-ugent
+124 = CXXIV = kant pevar warn-ugent
+125 = CXXV = kant pemp warn-ugent
+126 = CXXVI = kant c'hwec'h warn-ugent
+127 = CXXVII = kant seizh warn-ugent
+128 = CXXVIII = kant eizh warn-ugent
+129 = CXXIX = kant nav warn-ugent
+130 = CXXX = kant tregont
+131 = CXXXI = kant unan ha tregont
+132 = CXXXII = kant daou ha tregont
+133 = CXXXIII = kant tri ha tregont
+134 = CXXXIV = kant pevar ha tregont
+135 = CXXXV = kant pemp ha tregont
+136 = CXXXVI = kant c'hwec'h ha tregont
+137 = CXXXVII = kant seizh ha tregont
+138 = CXXXVIII = kant eizh ha tregont
+139 = CXXXIX = kant nav ha tregont
+140 = CXL = kant daou-ugent
+141 = CXLI = kant unan ha daou-ugent
+142 = CXLII = kant daou ha daou-ugent
+143 = CXLIII = kant tri ha daou-ugent
+144 = CXLIV = kant pevar ha daou-ugent
+145 = CXLV = kant pemp ha daou-ugent
+146 = CXLVI = kant c'hwec'h ha daou-ugent
+147 = CXLVII = kant seizh ha daou-ugent
+148 = CXLVIII = kant eizh ha daou-ugent
+149 = CXLIX = kant nav ha daou-ugent
+150 = CL = kant hanter-kant
+151 = CLI = kant unan hag hanter-kant
+152 = CLII = kant daou hag hanter-kant
+153 = CLIII = kant tri hag hanter-kant
+154 = CLIV = kant pevar hag hanter-kant
+155 = CLV = kant pemp hag hanter-kant
+156 = CLVI = kant c'hwec'h hag hanter-kant
+157 = CLVII = kant seizh hag hanter-kant
+158 = CLVIII = kant eizh hag hanter-kant
+159 = CLIX = kant nav hag hanter-kant
+160 = CLX = kant tri-ugent
+161 = CLXI = kant unan ha tri-ugent
+162 = CLXII = kant daou ha tri-ugent
+163 = CLXIII = kant tri ha tri-ugent
+164 = CLXIV = kant pevar ha tri-ugent
+165 = CLXV = kant pemp ha tri-ugent
+166 = CLXVI = kant c'hwec'h ha tri-ugent
+167 = CLXVII = kant seizh ha tri-ugent
+168 = CLXVIII = kant eizh ha tri-ugent
+169 = CLXIX = kant nav ha tri-ugent
+170 = CLXX = kant dek ha tri-ugent
+171 = CLXXI = kant unnek ha tri-ugent
+172 = CLXXII = kant daouzek ha tri-ugent
+173 = CLXXIII = kant trizek ha tri-ugent
+174 = CLXXIV = kant pevarzek ha tri-ugent
+175 = CLXXV = kant pemzek ha tri-ugent
+176 = CLXXVI = kant c'hwezek ha tri-ugent
+177 = CLXXVII = kant seitek ha tri-ugent
+178 = CLXXVIII = kant triwec'h ha tri-ugent
+179 = CLXXIX = kant naontek ha tri-ugent
+180 = CLXXX = kant pevar-ugent
+181 = CLXXXI = kant unan ha pevar-ugent
+182 = CLXXXII = kant daou ha pevar-ugent
+183 = CLXXXIII = kant tri ha pevar-ugent
+184 = CLXXXIV = kant pevar ha pevar-ugent
+185 = CLXXXV = kant pemp ha pevar-ugent
+186 = CLXXXVI = kant c'hwec'h ha pevar-ugent
+187 = CLXXXVII = kant seizh ha pevar-ugent
+188 = CLXXXVIII = kant eizh ha pevar-ugent
+189 = CLXXXIX = kant nav ha pevar-ugent
+190 = CXC = kant dek ha pevar-ugent
+191 = CXCI = kant unnek ha pevar-ugent
+192 = CXCII = kant daouzek ha pevar-ugent
+193 = CXCIII = kant trizek ha pevar-ugent
+194 = CXCIV = kant pevarzek ha pevar-ugent
+195 = CXCV = kant pemzek ha pevar-ugent
+196 = CXCVI = kant c'hwezek ha pevar-ugent
+197 = CXCVII = kant seitek ha pevar-ugent
+198 = CXCVIII = kant triwec'h ha pevar-ugent
+199 = CXCIX = kant naontek ha pevar-ugent
+
+200 = CC = daou c'hant 
+201 = CCI = daou c'hant unan
+202 = CCII = daou c'hant daou
+203 = CCIII = daou c'hant tri
+204 = CCIV = daou c'hant pevar
+205 = CCV = daou c'hant pemp
+206 = CCVI = daou c'hant c'hwec'h
+207 = CCVII = daou c'hant seizh
+208 = CCVIII = daou c'hant eizh
+209 = CCIX = daou c'hant nav
+210 = CCX = daou c'hant dek
+211 = CCXI = daou c'hant unnek
+212 = CCXII = daou c'hant daouzek
+213 = CCXIII = daou c'hant trizek
+214 = CCXIV = daou c'hant pevarzek
+215 = CCXV = daou c'hant pemzek
+216 = CCXVI = daou c'hant c'hwezek
+217 = CCXVII = daou c'hant seitek
+218 = CCXVIII = daou c'hant triwec'h
+219 = CCXIX = daou c'hant naontek
+220 = CCXX = daou c'hant ugent
+221 = CCXXI = daou c'hant unan warn-ugent
+222 = CCXXII = daou c'hant daou warn-ugent
+223 = CCXXIII = daou c'hant tri warn-ugent
+224 = CCXXIV = daou c'hant pevar warn-ugent
+225 = CCXXV = daou c'hant pemp warn-ugent
+226 = CCXXVI = daou c'hant c'hwec'h warn-ugent
+227 = CCXXVII = daou c'hant seizh warn-ugent
+228 = CCXXVIII = daou c'hant eizh warn-ugent
+229 = CCXXIX = daou c'hant nav warn-ugent
+230 = CCXXX = daou c'hant tregont
+231 = CCXXXI = daou c'hant unan ha tregont
+232 = CCXXXII = daou c'hant daou ha tregont
+233 = CCXXXIII = daou c'hant tri ha tregont
+234 = CCXXXIV = daou c'hant pevar ha tregont
+235 = CCXXXV = daou c'hant pemp ha tregont
+236 = CCXXXVI = daou c'hant c'hwec'h ha tregont
+237 = CCXXXVII = daou c'hant seizh ha tregont
+238 = CCXXXVIII = daou c'hant eizh ha tregont
+239 = CCXXXIX = daou c'hant nav ha tregont
+240 = CCXL = daou c'hant daou-ugent
+241 = CCXLI = daou c'hant unan ha daou-ugent
+242 = CCXLII = daou c'hant daou ha daou-ugent
+243 = CCXLIII = daou c'hant tri ha daou-ugent
+244 = CCXLIV = daou c'hant pevar ha daou-ugent
+245 = CCXLV = daou c'hant pemp ha daou-ugent
+246 = CCXLVI = daou c'hant c'hwec'h ha daou-ugent
+247 = CCXLVII = daou c'hant seizh ha daou-ugent
+248 = CCXLVIII = daou c'hant eizh ha daou-ugent
+249 = CCXLIX = daou c'hant nav ha daou-ugent
+250 = CCL = daou c'hant hanter-kant
+251 = CCLI = daou c'hant unan hag hanter-kant
+252 = CCLII = daou c'hant daou hag hanter-kant
+253 = CCLIII = daou c'hant tri hag hanter-kant
+254 = CCLIV = daou c'hant pevar hag hanter-kant
+255 = CCLV = daou c'hant pemp hag hanter-kant
+256 = CCLVI = daou c'hant c'hwec'h hag hanter-kant
+257 = CCLVII = daou c'hant seizh hag hanter-kant
+258 = CCLVIII = daou c'hant eizh hag hanter-kant
+259 = CCLIX = daou c'hant nav hag hanter-kant
+260 = CCLX = daou c'hant tri-ugent
+261 = CCLXI = daou c'hant unan ha tri-ugent
+262 = CCLXII = daou c'hant daou ha tri-ugent
+263 = CCLXIII = daou c'hant tri ha tri-ugent
+264 = CCLXIV = daou c'hant pevar ha tri-ugent
+265 = CCLXV = daou c'hant pemp ha tri-ugent
+266 = CCLXVI = daou c'hant c'hwec'h ha tri-ugent
+267 = CCLXVII = daou c'hant seizh ha tri-ugent
+268 = CCLXVIII = daou c'hant eizh ha tri-ugent
+269 = CCLXIX = daou c'hant nav ha tri-ugent
+270 = CCLXX = daou c'hant dek ha tri-ugent
+271 = CCLXXI = daou c'hant unnek ha tri-ugent
+272 = CCLXXII = daou c'hant daouzek ha tri-ugent
+273 = CCLXXIII = daou c'hant trizek ha tri-ugent
+274 = CCLXXIV = daou c'hant pevarzek ha tri-ugent
+275 = CCLXXV = daou c'hant pemzek ha tri-ugent
+276 = CCLXXVI = daou c'hant c'hwezek ha tri-ugent
+277 = CCLXXVII = daou c'hant seitek ha tri-ugent
+278 = CCLXXVIII = daou c'hant triwec'h ha tri-ugent
+279 = CCLXXIX = daou c'hant naontek ha tri-ugent
+280 = CCLXXX = daou c'hant pevar-ugent
+281 = CCLXXXI = daou c'hant unan ha pevar-ugent
+282 = CCLXXXII = daou c'hant daou ha pevar-ugent
+283 = CCLXXXIII = daou c'hant tri ha pevar-ugent
+284 = CCLXXXIV = daou c'hant pevar ha pevar-ugent
+285 = CCLXXXV = daou c'hant pemp ha pevar-ugent
+286 = CCLXXXVI = daou c'hant c'hwec'h ha pevar-ugent
+287 = CCLXXXVII = daou c'hant seizh ha pevar-ugent
+288 = CCLXXXVIII = daou c'hant eizh ha pevar-ugent
+289 = CCLXXXIX = daou c'hant nav ha pevar-ugent
+290 = CCXC = daou c'hant dek ha pevar-ugent
+291 = CCXCI = daou c'hant unnek ha pevar-ugent
+292 = CCXCII = daou c'hant daouzek ha pevar-ugent
+293 = CCXCIII = daou c'hant trizek ha pevar-ugent
+294 = CCXCIV = daou c'hant pevarzek ha pevar-ugent
+295 = CCXCV = daou c'hant pemzek ha pevar-ugent
+296 = CCXCVI = daou c'hant c'hwezek ha pevar-ugent
+297 = CCXCVII = daou c'hant seitek ha pevar-ugent
+298 = CCXCVIII = daou c'hant triwec'h ha pevar-ugent
+299 = CCXCIX = daou c'hant naontek ha pevar-ugent
+
+300 = CCC = tri c'hant 
+301 = CCCI = tri c'hant unan
+302 = CCCII = tri c'hant daou
+303 = CCCIII = tri c'hant tri
+304 = CCCIV = tri c'hant pevar
+305 = CCCV = tri c'hant pemp
+306 = CCCVI = tri c'hant c'hwec'h
+307 = CCCVII = tri c'hant seizh
+308 = CCCVIII = tri c'hant eizh
+309 = CCCIX = tri c'hant nav
+310 = CCCX = tri c'hant dek
+311 = CCCXI = tri c'hant unnek
+312 = CCCXII = tri c'hant daouzek
+313 = CCCXIII = tri c'hant trizek
+314 = CCCXIV = tri c'hant pevarzek
+315 = CCCXV = tri c'hant pemzek
+316 = CCCXVI = tri c'hant c'hwezek
+317 = CCCXVII = tri c'hant seitek
+318 = CCCXVIII = tri c'hant triwec'h
+319 = CCCXIX = tri c'hant naontek
+320 = CCCXX = tri c'hant ugent
+321 = CCCXXI = tri c'hant unan warn-ugent
+322 = CCCXXII = tri c'hant daou warn-ugent
+323 = CCCXXIII = tri c'hant tri warn-ugent
+324 = CCCXXIV = tri c'hant pevar warn-ugent
+325 = CCCXXV = tri c'hant pemp warn-ugent
+326 = CCCXXVI = tri c'hant c'hwec'h warn-ugent
+327 = CCCXXVII = tri c'hant seizh warn-ugent
+328 = CCCXXVIII = tri c'hant eizh warn-ugent
+329 = CCCXXIX = tri c'hant nav warn-ugent
+330 = CCCXXX = tri c'hant tregont
+331 = CCCXXXI = tri c'hant unan ha tregont
+332 = CCCXXXII = tri c'hant daou ha tregont
+333 = CCCXXXIII = tri c'hant tri ha tregont
+334 = CCCXXXIV = tri c'hant pevar ha tregont
+335 = CCCXXXV = tri c'hant pemp ha tregont
+336 = CCCXXXVI = tri c'hant c'hwec'h ha tregont
+337 = CCCXXXVII = tri c'hant seizh ha tregont
+338 = CCCXXXVIII = tri c'hant eizh ha tregont
+339 = CCCXXXIX = tri c'hant nav ha tregont
+340 = CCCXL = tri c'hant daou-ugent
+341 = CCCXLI = tri c'hant unan ha daou-ugent
+342 = CCCXLII = tri c'hant daou ha daou-ugent
+343 = CCCXLIII = tri c'hant tri ha daou-ugent
+344 = CCCXLIV = tri c'hant pevar ha daou-ugent
+345 = CCCXLV = tri c'hant pemp ha daou-ugent
+346 = CCCXLVI = tri c'hant c'hwec'h ha daou-ugent
+347 = CCCXLVII = tri c'hant seizh ha daou-ugent
+348 = CCCXLVIII = tri c'hant eizh ha daou-ugent
+349 = CCCXLIX = tri c'hant nav ha daou-ugent
+350 = CCCL = tri c'hant hanter-kant
+351 = CCCLI = tri c'hant unan hag hanter-kant
+352 = CCCLII = tri c'hant daou hag hanter-kant
+353 = CCCLIII = tri c'hant tri hag hanter-kant
+354 = CCCLIV = tri c'hant pevar hag hanter-kant
+355 = CCCLV = tri c'hant pemp hag hanter-kant
+356 = CCCLVI = tri c'hant c'hwec'h hag hanter-kant
+357 = CCCLVII = tri c'hant seizh hag hanter-kant
+358 = CCCLVIII = tri c'hant eizh hag hanter-kant
+359 = CCCLIX = tri c'hant nav hag hanter-kant
+360 = CCCLX = tri c'hant tri-ugent
+361 = CCCLXI = tri c'hant unan ha tri-ugent
+362 = CCCLXII = tri c'hant daou ha tri-ugent
+363 = CCCLXIII = tri c'hant tri ha tri-ugent
+364 = CCCLXIV = tri c'hant pevar ha tri-ugent
+365 = CCCLXV = tri c'hant pemp ha tri-ugent
+366 = CCCLXVI = tri c'hant c'hwec'h ha tri-ugent
+367 = CCCLXVII = tri c'hant seizh ha tri-ugent
+368 = CCCLXVIII = tri c'hant eizh ha tri-ugent
+369 = CCCLXIX = tri c'hant nav ha tri-ugent
+370 = CCCLXX = tri c'hant dek ha tri-ugent
+371 = CCCLXXI = tri c'hant unnek ha tri-ugent
+372 = CCCLXXII = tri c'hant daouzek ha tri-ugent
+373 = CCCLXXIII = tri c'hant trizek ha tri-ugent
+374 = CCCLXXIV = tri c'hant pevarzek ha tri-ugent
+375 = CCCLXXV = tri c'hant pemzek ha tri-ugent
+376 = CCCLXXVI = tri c'hant c'hwezek ha tri-ugent
+377 = CCCLXXVII = tri c'hant seitek ha tri-ugent
+378 = CCCLXXVIII = tri c'hant triwec'h ha tri-ugent
+379 = CCCLXXIX = tri c'hant naontek ha tri-ugent
+380 = CCCLXXX = tri c'hant pevar-ugent
+381 = CCCLXXXI = tri c'hant unan ha pevar-ugent
+382 = CCCLXXXII = tri c'hant daou ha pevar-ugent
+383 = CCCLXXXIII = tri c'hant tri ha pevar-ugent
+384 = CCCLXXXIV = tri c'hant pevar ha pevar-ugent
+385 = CCCLXXXV = tri c'hant pemp ha pevar-ugent
+386 = CCCLXXXVI = tri c'hant c'hwec'h ha pevar-ugent
+387 = CCCLXXXVII = tri c'hant seizh ha pevar-ugent
+388 = CCCLXXXVIII = tri c'hant eizh ha pevar-ugent
+389 = CCCLXXXIX = tri c'hant nav ha pevar-ugent
+390 = CCCXC = tri c'hant dek ha pevar-ugent
+391 = CCCXCI = tri c'hant unnek ha pevar-ugent
+392 = CCCXCII = tri c'hant daouzek ha pevar-ugent
+393 = CCCXCIII = tri c'hant trizek ha pevar-ugent
+394 = CCCXCIV = tri c'hant pevarzek ha pevar-ugent
+395 = CCCXCV = tri c'hant pemzek ha pevar-ugent
+396 = CCCXCVI = tri c'hant c'hwezek ha pevar-ugent
+397 = CCCXCVII = tri c'hant seitek ha pevar-ugent
+398 = CCCXCVIII = tri c'hant triwec'h ha pevar-ugent
+399 = CCCXCIX = tri c'hant naontek ha pevar-ugent
+
+400 = CD = pevar c'hant 
+401 = CDI = pevar c'hant unan
+402 = CDII = pevar c'hant daou
+403 = CDIII = pevar c'hant tri
+404 = CDIV = pevar c'hant pevar
+405 = CDV = pevar c'hant pemp
+406 = CDVI = pevar c'hant c'hwec'h
+407 = CDVII = pevar c'hant seizh
+408 = CDVIII = pevar c'hant eizh
+409 = CDIX = pevar c'hant nav
+410 = CDX = pevar c'hant dek
+411 = CDXI = pevar c'hant unnek
+412 = CDXII = pevar c'hant daouzek
+413 = CDXIII = pevar c'hant trizek
+414 = CDXIV = pevar c'hant pevarzek
+415 = CDXV = pevar c'hant pemzek
+416 = CDXVI = pevar c'hant c'hwezek
+417 = CDXVII = pevar c'hant seitek
+418 = CDXVIII = pevar c'hant triwec'h
+419 = CDXIX = pevar c'hant naontek
+420 = CDXX = pevar c'hant ugent
+421 = CDXXI = pevar c'hant unan warn-ugent
+422 = CDXXII = pevar c'hant daou warn-ugent
+423 = CDXXIII = pevar c'hant tri warn-ugent
+424 = CDXXIV = pevar c'hant pevar warn-ugent
+425 = CDXXV = pevar c'hant pemp warn-ugent
+426 = CDXXVI = pevar c'hant c'hwec'h warn-ugent
+427 = CDXXVII = pevar c'hant seizh warn-ugent
+428 = CDXXVIII = pevar c'hant eizh warn-ugent
+429 = CDXXIX = pevar c'hant nav warn-ugent
+430 = CDXXX = pevar c'hant tregont
+431 = CDXXXI = pevar c'hant unan ha tregont
+432 = CDXXXII = pevar c'hant daou ha tregont
+433 = CDXXXIII = pevar c'hant tri ha tregont
+434 = CDXXXIV = pevar c'hant pevar ha tregont
+435 = CDXXXV = pevar c'hant pemp ha tregont
+436 = CDXXXVI = pevar c'hant c'hwec'h ha tregont
+437 = CDXXXVII = pevar c'hant seizh ha tregont
+438 = CDXXXVIII = pevar c'hant eizh ha tregont
+439 = CDXXXIX = pevar c'hant nav ha tregont
+440 = CDXL = pevar c'hant daou-ugent
+441 = CDXLI = pevar c'hant unan ha daou-ugent
+442 = CDXLII = pevar c'hant daou ha daou-ugent
+443 = CDXLIII = pevar c'hant tri ha daou-ugent
+444 = CDXLIV = pevar c'hant pevar ha daou-ugent
+445 = CDXLV = pevar c'hant pemp ha daou-ugent
+446 = CDXLVI = pevar c'hant c'hwec'h ha daou-ugent
+447 = CDXLVII = pevar c'hant seizh ha daou-ugent
+448 = CDXLVIII = pevar c'hant eizh ha daou-ugent
+449 = CDXLIX = pevar c'hant nav ha daou-ugent
+450 = CDL = pevar c'hant hanter-kant
+451 = CDLI = pevar c'hant unan hag hanter-kant
+452 = CDLII = pevar c'hant daou hag hanter-kant
+453 = CDLIII = pevar c'hant tri hag hanter-kant
+454 = CDLIV = pevar c'hant pevar hag hanter-kant
+455 = CDLV = pevar c'hant pemp hag hanter-kant
+456 = CDLVI = pevar c'hant c'hwec'h hag hanter-kant
+457 = CDLVII = pevar c'hant seizh hag hanter-kant
+458 = CDLVIII = pevar c'hant eizh hag hanter-kant
+459 = CDLIX = pevar c'hant nav hag hanter-kant
+460 = CDLX = pevar c'hant tri-ugent
+461 = CDLXI = pevar c'hant unan ha tri-ugent
+462 = CDLXII = pevar c'hant daou ha tri-ugent
+463 = CDLXIII = pevar c'hant tri ha tri-ugent
+464 = CDLXIV = pevar c'hant pevar ha tri-ugent
+465 = CDLXV = pevar c'hant pemp ha tri-ugent
+466 = CDLXVI = pevar c'hant c'hwec'h ha tri-ugent
+467 = CDLXVII = pevar c'hant seizh ha tri-ugent
+468 = CDLXVIII = pevar c'hant eizh ha tri-ugent
+469 = CDLXIX = pevar c'hant nav ha tri-ugent
+470 = CDLXX = pevar c'hant dek ha tri-ugent 
+471 = CDLXXI = pevar c'hant unnek ha tri-ugent
+472 = CDLXXII = pevar c'hant daouzek ha tri-ugent
+473 = CDLXXIII = pevar c'hant trizek ha tri-ugent
+474 = CDLXXIV = pevar c'hant pevarzek ha tri-ugent
+475 = CDLXXV = pevar c'hant pemzek ha tri-ugent
+476 = CDLXXVI = pevar c'hant c'hwezek ha tri-ugent
+477 = CDLXXVII = pevar c'hant seitek ha tri-ugent
+478 = CDLXXVIII = pevar c'hant triwec'h ha tri-ugent
+479 = CDLXXIX = pevar c'hant naontek ha tri-ugent
+480 = CDLXXX = pevar c'hant pevar-ugent
+481 = CDLXXXI = pevar c'hant unan ha pevar-ugent
+482 = CDLXXXII = pevar c'hant daou ha pevar-ugent
+483 = CDLXXXIII = pevar c'hant tri ha pevar-ugent
+484 = CDLXXXIV = pevar c'hant pevar ha pevar-ugent
+485 = CDLXXXV = pevar c'hant pemp ha pevar-ugent
+486 = CDLXXXVI = pevar c'hant c'hwec'h ha pevar-ugent
+487 = CDLXXXVII = pevar c'hant seizh ha pevar-ugent
+488 = CDLXXXVIII = pevar c'hant eizh ha pevar-ugent
+489 = CDLXXXIX = pevar c'hant nav ha pevar-ugent
+490 = CDXC = pevar c'hant dek ha pevar-ugent
+491 = CDXCI = pevar c'hant unnek ha pevar-ugent
+492 = CDXCII = pevar c'hant daouzek ha pevar-ugent
+493 = CDXCIII = pevar c'hant trizek ha pevar-ugent
+494 = CDXCIV = pevar c'hant pevarzek ha pevar-ugent
+495 = CDXCV = pevar c'hant pemzek ha pevar-ugent
+496 = CDXCVI = pevar c'hant c'hwezek ha pevar-ugent
+497 = CDXCVII = pevar c'hant seitek ha pevar-ugent
+498 = CDXCVIII = pevar c'hant triwec'h ha pevar-ugent
+499 = CDXCIX = pevar c'hant naontek ha pevar-ugent
+
+500 = D = pemp kant 
+501 = DI = pemp kant unan
+502 = DII = pemp kant daou
+503 = DIII = pemp kant tri
+504 = DIV = pemp kant pevar
+505 = DV = pemp kant pemp
+506 = DVI = pemp kant c'hwec'h
+507 = DVII = pemp kant seizh
+508 = DVIII = pemp kant eizh
+509 = DIX = pemp kant nav
+510 = DX = pemp kant dek
+511 = DXI = pemp kant unnek
+512 = DXII = pemp kant daouzek
+513 = DXIII = pemp kant trizek
+514 = DXIV = pemp kant pevarzek
+515 = DXV = pemp kant pemzek
+516 = DXVI = pemp kant c'hwezek
+517 = DXVII = pemp kant seitek
+518 = DXVIII = pemp kant triwec'h
+519 = DXIX = pemp kant naontek
+520 = DXX = pemp kant ugent
+521 = DXXI = pemp kant unan warn-ugent
+522 = DXXII = pemp kant daou warn-ugent
+523 = DXXIII = pemp kant tri warn-ugent
+524 = DXXIV = pemp kant pevar warn-ugent
+525 = DXXV = pemp kant pemp warn-ugent
+526 = DXXVI = pemp kant c'hwec'h warn-ugent
+527 = DXXVII = pemp kant seizh warn-ugent
+528 = DXXVIII = pemp kant eizh warn-ugent
+529 = DXXIX = pemp kant nav warn-ugent
+530 = DXXX = pemp kant tregont
+531 = DXXXI = pemp kant unan ha tregont
+532 = DXXXII = pemp kant daou ha tregont
+533 = DXXXIII = pemp kant tri ha tregont
+534 = DXXXIV = pemp kant pevar ha tregont
+535 = DXXXV = pemp kant pemp ha tregont
+536 = DXXXVI = pemp kant c'hwec'h ha tregont
+537 = DXXXVII = pemp kant seizh ha tregont
+538 = DXXXVIII = pemp kant eizh ha tregont
+539 = DXXXIX = pemp kant nav ha tregont
+540 = DXL = pemp kant daou-ugent
+541 = DXLI = pemp kant unan ha daou-ugent
+542 = DXLII = pemp kant daou ha daou-ugent
+543 = DXLIII = pemp kant tri ha daou-ugent
+544 = DXLIV = pemp kant pevar ha daou-ugent
+545 = DXLV = pemp kant pemp ha daou-ugent
+546 = DXLVI = pemp kant c'hwec'h ha daou-ugent
+547 = DXLVII = pemp kant seizh ha daou-ugent
+548 = DXLVIII = pemp kant eizh ha daou-ugent
+549 = DXLIX = pemp kant nav ha daou-ugent
+550 = DL = pemp kant hanter-kant
+551 = DLI = pemp kant unan hag hanter-kant
+552 = DLII = pemp kant daou hag hanter-kant
+553 = DLIII = pemp kant tri hag hanter-kant
+554 = DLIV = pemp kant pevar hag hanter-kant
+555 = DLV = pemp kant pemp hag hanter-kant
+556 = DLVI = pemp kant c'hwec'h hag hanter-kant
+557 = DLVII = pemp kant seizh hag hanter-kant
+558 = DLVIII = pemp kant eizh hag hanter-kant
+559 = DLIX = pemp kant nav hag hanter-kant
+560 = DLX = pemp kant tri-ugent
+561 = DLXI = pemp kant unan ha tri-ugent
+562 = DLXII = pemp kant daou ha tri-ugent
+563 = DLXIII = pemp kant tri ha tri-ugent
+564 = DLXIV = pemp kant pevar ha tri-ugent
+565 = DLXV = pemp kant pemp ha tri-ugent
+566 = DLXVI = pemp kant c'hwec'h ha tri-ugent
+567 = DLXVII = pemp kant seizh ha tri-ugent
+568 = DLXVIII = pemp kant eizh ha tri-ugent
+569 = DLXIX = pemp kant nav ha tri-ugent
+570 = DLXX = pemp kant dek ha tri-ugent
+571 = DLXXI = pemp kant unnek ha tri-ugent
+572 = DLXXII = pemp kant daouzek ha tri-ugent
+573 = DLXXIII = pemp kant trizek ha tri-ugent
+574 = DLXXIV = pemp kant pevarzek ha tri-ugent
+575 = DLXXV = pemp kant pemzek ha tri-ugent
+576 = DLXXVI = pemp kant c'hwezek ha tri-ugent
+577 = DLXXVII = pemp kant seitek ha tri-ugent
+578 = DLXXVIII = pemp kant triwec'h ha tri-ugent
+579 = DLXXIX = pemp kant naontek ha tri-ugent
+580 = DLXXX = pemp kant pevar-ugent
+581 = DLXXXI = pemp kant unan ha pevar-ugent
+582 = DLXXXII = pemp kant daou ha pevar-ugent
+583 = DLXXXIII = pemp kant tri ha pevar-ugent
+584 = DLXXXIV = pemp kant pevar ha pevar-ugent
+585 = DLXXXV = pemp kant pemp ha pevar-ugent
+586 = DLXXXVI = pemp kant c'hwec'h ha pevar-ugent
+587 = DLXXXVII = pemp kant seizh ha pevar-ugent
+588 = DLXXXVIII = pemp kant eizh ha pevar-ugent
+589 = DLXXXIX = pemp kant nav ha pevar-ugent
+590 = DXC = pemp kant dek ha pevar-ugent
+591 = DXCI = pemp kant unnek ha pevar-ugent
+592 = DXCII = pemp kant daouzek ha pevar-ugent
+593 = DXCIII = pemp kant trizek ha pevar-ugent
+594 = DXCIV = pemp kant pevarzek ha pevar-ugent
+595 = DXCV = pemp kant pemzek ha pevar-ugent
+596 = DXCVI = pemp kant c'hwezek ha pevar-ugent
+597 = DXCVII = pemp kant seitek ha pevar-ugent
+598 = DXCVIII = pemp kant triwec'h ha pevar-ugent
+599 = DXCIX = pemp kant naontek ha pevar-ugent
+
+600 = DC = c'hwec'h kant 
+601 = DCI = c'hwec'h kant unan
+602 = DCII = c'hwec'h kant daou
+603 = DCIII = c'hwec'h kant tri
+604 = DCIV = c'hwec'h kant pevar
+605 = DCV = c'hwec'h kant pemp
+606 = DCVI = c'hwec'h kant c'hwec'h
+607 = DCVII = c'hwec'h kant seizh
+608 = DCVIII = c'hwec'h kant eizh
+609 = DCIX = c'hwec'h kant nav
+610 = DCX = c'hwec'h kant dek
+611 = DCXI = c'hwec'h kant unnek
+612 = DCXII = c'hwec'h kant daouzek
+613 = DCXIII = c'hwec'h kant trizek
+614 = DCXIV = c'hwec'h kant pevarzek
+615 = DCXV = c'hwec'h kant pemzek
+616 = DCXVI = c'hwec'h kant c'hwezek
+617 = DCXVII = c'hwec'h kant seitek
+618 = DCXVIII = c'hwec'h kant triwec'h
+619 = DCXIX = c'hwec'h kant naontek
+620 = DCXX = c'hwec'h kant ugent
+621 = DCXXI = c'hwec'h kant unan warn-ugent
+622 = DCXXII = c'hwec'h kant daou warn-ugent
+623 = DCXXIII = c'hwec'h kant tri warn-ugent
+624 = DCXXIV = c'hwec'h kant pevar warn-ugent
+625 = DCXXV = c'hwec'h kant pemp warn-ugent
+626 = DCXXVI = c'hwec'h kant c'hwec'h warn-ugent
+627 = DCXXVII = c'hwec'h kant seizh warn-ugent
+628 = DCXXVIII = c'hwec'h kant eizh warn-ugent
+629 = DCXXIX = c'hwec'h kant nav warn-ugent
+630 = DCXXX = c'hwec'h kant tregont
+631 = DCXXXI = c'hwec'h kant unan ha tregont
+632 = DCXXXII = c'hwec'h kant daou ha tregont
+633 = DCXXXIII = c'hwec'h kant tri ha tregont
+634 = DCXXXIV = c'hwec'h kant pevar ha tregont
+635 = DCXXXV = c'hwec'h kant pemp ha tregont
+636 = DCXXXVI = c'hwec'h kant c'hwec'h ha tregont
+637 = DCXXXVII = c'hwec'h kant seizh ha tregont
+638 = DCXXXVIII = c'hwec'h kant eizh ha tregont
+639 = DCXXXIX = c'hwec'h kant nav ha tregont
+640 = DCXL = c'hwec'h kant daou-ugent
+641 = DCXLI = c'hwec'h kant unan ha daou-ugent
+642 = DCXLII = c'hwec'h kant daou ha daou-ugent
+643 = DCXLIII = c'hwec'h kant tri ha daou-ugent
+644 = DCXLIV = c'hwec'h kant pevar ha daou-ugent
+645 = DCXLV = c'hwec'h kant pemp ha daou-ugent
+646 = DCXLVI = c'hwec'h kant c'hwec'h ha daou-ugent
+647 = DCXLVII = c'hwec'h kant seizh ha daou-ugent
+648 = DCXLVIII = c'hwec'h kant eizh ha daou-ugent
+649 = DCXLIX = c'hwec'h kant nav ha daou-ugent
+650 = DCL = c'hwec'h kant hanter-kant
+651 = DCLI = c'hwec'h kant unan hag hanter-kant
+652 = DCLII = c'hwec'h kant daou hag hanter-kant
+653 = DCLIII = c'hwec'h kant tri hag hanter-kant
+654 = DCLIV = c'hwec'h kant pevar hag hanter-kant
+655 = DCLV = c'hwec'h kant pemp hag hanter-kant
+656 = DCLVI = c'hwec'h kant c'hwec'h hag hanter-kant
+657 = DCLVII = c'hwec'h kant seizh hag hanter-kant
+658 = DCLVIII = c'hwec'h kant eizh hag hanter-kant
+659 = DCLIX = c'hwec'h kant nav hag hanter-kant
+660 = DCLX = c'hwec'h kant tri-ugent
+661 = DCLXI = c'hwec'h kant unan ha tri-ugent
+662 = DCLXII = c'hwec'h kant daou ha tri-ugent
+663 = DCLXIII = c'hwec'h kant tri ha tri-ugent
+664 = DCLXIV = c'hwec'h kant pevar ha tri-ugent
+665 = DCLXV = c'hwec'h kant pemp ha tri-ugent
+666 = DCLXVI = c'hwec'h kant c'hwec'h ha tri-ugent
+667 = DCLXVII = c'hwec'h kant seizh ha tri-ugent
+668 = DCLXVIII = c'hwec'h kant eizh ha tri-ugent
+669 = DCLXIX = c'hwec'h kant nav ha tri-ugent
+670 = DCLXX = c'hwec'h kant dek ha tri-ugent
+671 = DCLXXI = c'hwec'h kant unnek ha tri-ugent
+672 = DCLXXII = c'hwec'h kant daouzek ha tri-ugent
+673 = DCLXXIII = c'hwec'h kant trizek ha tri-ugent
+674 = DCLXXIV = c'hwec'h kant pevarzek ha tri-ugent
+675 = DCLXXV = c'hwec'h kant pemzek ha tri-ugent
+676 = DCLXXVI = c'hwec'h kant c'hwezek ha tri-ugent
+677 = DCLXXVII = c'hwec'h kant seitek ha tri-ugent
+678 = DCLXXVIII = c'hwec'h kant triwec'h ha tri-ugent
+679 = DCLXXIX = c'hwec'h kant naontek ha tri-ugent
+680 = DCLXXX = c'hwec'h kant pevar-ugent
+681 = DCLXXXI = c'hwec'h kant unan ha pevar-ugent
+682 = DCLXXXII = c'hwec'h kant daou ha pevar-ugent
+683 = DCLXXXIII = c'hwec'h kant tri ha pevar-ugent
+684 = DCLXXXIV = c'hwec'h kant pevar ha pevar-ugent
+685 = DCLXXXV = c'hwec'h kant pemp ha pevar-ugent
+686 = DCLXXXVI = c'hwec'h kant c'hwec'h ha pevar-ugent
+687 = DCLXXXVII = c'hwec'h kant seizh ha pevar-ugent
+688 = DCLXXXVIII = c'hwec'h kant eizh ha pevar-ugent
+689 = DCLXXXIX = c'hwec'h kant nav ha pevar-ugent
+690 = DCXC = c'hwec'h kant dek ha pevar-ugent
+691 = DCXCI = c'hwec'h kant unnek ha pevar-ugent
+692 = DCXCII = c'hwec'h kant daouzek ha pevar-ugent
+693 = DCXCIII = c'hwec'h kant trizek ha pevar-ugent
+694 = DCXCIV = c'hwec'h kant pevarzek ha pevar-ugent
+695 = DCXCV = c'hwec'h kant pemzek ha pevar-ugent
+696 = DCXCVI = c'hwec'h kant c'hwezek ha pevar-ugent
+697 = DCXCVII = c'hwec'h kant seitek ha pevar-ugent
+698 = DCXCVIII = c'hwec'h kant triwec'h ha pevar-ugent
+699 = DCXCIX = c'hwec'h kant naontek ha pevar-ugent
+
+700 = DCC = seizh kant 
+701 = DCCI = seizh kant unan
+702 = DCCII = seizh kant daou
+703 = DCCIII = seizh kant tri
+704 = DCCIV = seizh kant pevar
+705 = DCCV = seizh kant pemp
+706 = DCCVI = seizh kant c'hwec'h
+707 = DCCVII = seizh kant seizh
+708 = DCCVIII = seizh kant eizh
+709 = DCCIX = seizh kant nav
+710 = DCCX = seizh kant dek
+711 = DCCXI = seizh kant unnek
+712 = DCCXII = seizh kant daouzek
+713 = DCCXIII = seizh kant trizek
+714 = DCCXIV = seizh kant pevarzek
+715 = DCCXV = seizh kant pemzek
+716 = DCCXVI = seizh kant c'hwezek
+717 = DCCXVII = seizh kant seitek
+718 = DCCXVIII = seizh kant triwec'h
+719 = DCCXIX = seizh kant naontek
+720 = DCCXX = seizh kant ugent
+721 = DCCXXI = seizh kant unan warn-ugent
+722 = DCCXXII = seizh kant daou warn-ugent
+723 = DCCXXIII = seizh kant tri warn-ugent
+724 = DCCXXIV = seizh kant pevar warn-ugent
+725 = DCCXXV = seizh kant pemp warn-ugent
+726 = DCCXXVI = seizh kant c'hwec'h warn-ugent
+727 = DCCXXVII = seizh kant seizh warn-ugent
+728 = DCCXXVIII = seizh kant eizh warn-ugent
+729 = DCCXXIX = seizh kant nav warn-ugent
+730 = DCCXXX = seizh kant tregont
+731 = DCCXXXI = seizh kant unan ha tregont
+732 = DCCXXXII = seizh kant daou ha tregont
+733 = DCCXXXIII = seizh kant tri ha tregont
+734 = DCCXXXIV = seizh kant pevar ha tregont
+735 = DCCXXXV = seizh kant pemp ha tregont
+736 = DCCXXXVI = seizh kant c'hwec'h ha tregont
+737 = DCCXXXVII = seizh kant seizh ha tregont
+738 = DCCXXXVIII = seizh kant eizh ha tregont
+739 = DCCXXXIX = seizh kant nav ha tregont
+740 = DCCXL = seizh kant daou-ugent
+741 = DCCXLI = seizh kant unan ha daou-ugent
+742 = DCCXLII = seizh kant daou ha daou-ugent
+743 = DCCXLIII = seizh kant tri ha daou-ugent
+744 = DCCXLIV = seizh kant pevar ha daou-ugent
+745 = DCCXLV = seizh kant pemp ha daou-ugent
+746 = DCCXLVI = seizh kant c'hwec'h ha daou-ugent
+747 = DCCXLVII = seizh kant seizh ha daou-ugent
+748 = DCCXLVIII = seizh kant eizh ha daou-ugent
+749 = DCCXLIX = seizh kant nav ha daou-ugent
+750 = DCCL = seizh kant hanter-kant
+751 = DCCLI = seizh kant unan hag hanter-kant
+752 = DCCLII = seizh kant daou hag hanter-kant
+753 = DCCLIII = seizh kant tri hag hanter-kant
+754 = DCCLIV = seizh kant pevar hag hanter-kant
+755 = DCCLV = seizh kant pemp hag hanter-kant
+756 = DCCLVI = seizh kant c'hwec'h hag hanter-kant
+757 = DCCLVII = seizh kant seizh hag hanter-kant
+758 = DCCLVIII = seizh kant eizh hag hanter-kant
+759 = DCCLIX = seizh kant nav hag hanter-kant
+760 = DCCLX = seizh kant tri-ugent
+761 = DCCLXI = seizh kant unan ha tri-ugent
+762 = DCCLXII = seizh kant daou ha tri-ugent
+763 = DCCLXIII = seizh kant tri ha tri-ugent
+764 = DCCLXIV = seizh kant pevar ha tri-ugent
+765 = DCCLXV = seizh kant pemp ha tri-ugent
+766 = DCCLXVI = seizh kant c'hwec'h ha tri-ugent
+767 = DCCLXVII = seizh kant seizh ha tri-ugent
+768 = DCCLXVIII = seizh kant eizh ha tri-ugent
+769 = DCCLXIX = seizh kant nav ha tri-ugent
+770 = DCCLXX = seizh kant dek ha tri-ugent
+771 = DCCLXXI = seizh kant unnek ha tri-ugent
+772 = DCCLXXII = seizh kant daouzek ha tri-ugent
+773 = DCCLXXIII = seizh kant trizek ha tri-ugent
+774 = DCCLXXIV = seizh kant pevarzek ha tri-ugent
+775 = DCCLXXV = seizh kant pemzek ha tri-ugent
+776 = DCCLXXVI = seizh kant c'hwezek ha tri-ugent
+777 = DCCLXXVII = seizh kant seitek ha tri-ugent
+778 = DCCLXXVIII = seizh kant triwec'h ha tri-ugent
+779 = DCCLXXIX = seizh kant naontek ha tri-ugent
+780 = DCCLXXX = seizh kant pevar-ugent
+781 = DCCLXXXI = seizh kant unan ha pevar-ugent
+782 = DCCLXXXII = seizh kant daou ha pevar-ugent
+783 = DCCLXXXIII = seizh kant tri ha pevar-ugent
+784 = DCCLXXXIV = seizh kant pevar ha pevar-ugent
+785 = DCCLXXXV = seizh kant pemp ha pevar-ugent
+786 = DCCLXXXVI = seizh kant c'hwec'h ha pevar-ugent
+787 = DCCLXXXVII = seizh kant seizh ha pevar-ugent
+788 = DCCLXXXVIII = seizh kant eizh ha pevar-ugent
+789 = DCCLXXXIX = seizh kant nav ha pevar-ugent
+790 = DCCXC = seizh kant dek ha pevar-ugent
+791 = DCCXCI = seizh kant unnek ha pevar-ugent
+792 = DCCXCII = seizh kant daouzek ha pevar-ugent
+793 = DCCXCIII = seizh kant trizek ha pevar-ugent
+794 = DCCXCIV = seizh kant pevarzek ha pevar-ugent
+795 = DCCXCV = seizh kant pemzek ha pevar-ugent
+796 = DCCXCVI = seizh kant c'hwezek ha pevar-ugent
+797 = DCCXCVII = seizh kant seitek ha pevar-ugent
+798 = DCCXCVIII = seizh kant triwec'h ha pevar-ugent
+799 = DCCXCIX = seizh kant naontek ha pevar-ugent
+
+800 = DCCC = eizh kant 
+801 = DCCCI = eizh kant unan
+802 = DCCCII = eizh kant daou
+803 = DCCCIII = eizh kant tri
+804 = DCCCIV = eizh kant pevar
+805 = DCCCV = eizh kant pemp
+806 = DCCCVI = eizh kant c'hwec'h
+807 = DCCCVII = eizh kant seizh
+808 = DCCCVIII = eizh kant eizh
+809 = DCCCIX = eizh kant nav
+810 = DCCCX = eizh kant dek
+811 = DCCCXI = eizh kant unnek
+812 = DCCCXII = eizh kant daouzek
+813 = DCCCXIII = eizh kant trizek
+814 = DCCCXIV = eizh kant pevarzek
+815 = DCCCXV = eizh kant pemzek
+816 = DCCCXVI = eizh kant c'hwezek
+817 = DCCCXVII = eizh kant seitek
+818 = DCCCXVIII = eizh kant triwec'h
+819 = DCCCXIX = eizh kant naontek
+820 = DCCCXX = eizh kant ugent
+821 = DCCCXXI = eizh kant unan warn-ugent
+822 = DCCCXXII = eizh kant daou warn-ugent
+823 = DCCCXXIII = eizh kant tri warn-ugent
+824 = DCCCXXIV = eizh kant pevar warn-ugent
+825 = DCCCXXV = eizh kant pemp warn-ugent
+826 = DCCCXXVI = eizh kant c'hwec'h warn-ugent
+827 = DCCCXXVII = eizh kant seizh warn-ugent
+828 = DCCCXXVIII = eizh kant eizh warn-ugent
+829 = DCCCXXIX = eizh kant nav warn-ugent
+830 = DCCCXXX = eizh kant tregont
+831 = DCCCXXXI = eizh kant unan ha tregont
+832 = DCCCXXXII = eizh kant daou ha tregont
+833 = DCCCXXXIII = eizh kant tri ha tregont
+834 = DCCCXXXIV = eizh kant pevar ha tregont
+835 = DCCCXXXV = eizh kant pemp ha tregont
+836 = DCCCXXXVI = eizh kant c'hwec'h ha tregont
+837 = DCCCXXXVII = eizh kant seizh ha tregont
+838 = DCCCXXXVIII = eizh kant eizh ha tregont
+839 = DCCCXXXIX = eizh kant nav ha tregont
+840 = DCCCXL = eizh kant daou-ugent
+841 = DCCCXLI = eizh kant unan ha daou-ugent
+842 = DCCCXLII = eizh kant daou ha daou-ugent
+843 = DCCCXLIII = eizh kant tri ha daou-ugent
+844 = DCCCXLIV = eizh kant pevar ha daou-ugent
+845 = DCCCXLV = eizh kant pemp ha daou-ugent
+846 = DCCCXLVI = eizh kant c'hwec'h ha daou-ugent
+847 = DCCCXLVII = eizh kant seizh ha daou-ugent
+848 = DCCCXLVIII = eizh kant eizh ha daou-ugent
+849 = DCCCXLIX = eizh kant nav ha daou-ugent
+850 = DCCCL = eizh kant hanter-kant
+851 = DCCCLI = eizh kant unan hag hanter-kant
+852 = DCCCLII = eizh kant daou hag hanter-kant
+853 = DCCCLIII = eizh kant tri hag hanter-kant
+854 = DCCCLIV = eizh kant pevar hag hanter-kant
+855 = DCCCLV = eizh kant pemp hag hanter-kant
+856 = DCCCLVI = eizh kant c'hwec'h hag hanter-kant
+857 = DCCCLVII = eizh kant seizh hag hanter-kant
+858 = DCCCLVIII = eizh kant eizh hag hanter-kant
+859 = DCCCLIX = eizh kant nav hag hanter-kant
+860 = DCCCLX = eizh kant tri-ugent
+861 = DCCCLXI = eizh kant unan ha tri-ugent
+862 = DCCCLXII = eizh kant daou ha tri-ugent
+863 = DCCCLXIII = eizh kant tri ha tri-ugent
+864 = DCCCLXIV = eizh kant pevar ha tri-ugent
+865 = DCCCLXV = eizh kant pemp ha tri-ugent
+866 = DCCCLXVI = eizh kant c'hwec'h ha tri-ugent
+867 = DCCCLXVII = eizh kant seizh ha tri-ugent
+868 = DCCCLXVIII = eizh kant eizh ha tri-ugent
+869 = DCCCLXIX = eizh kant nav ha tri-ugent
+870 = DCCCLXX = eizh kant dek ha tri-ugent
+871 = DCCCLXXI = eizh kant unnek ha tri-ugent
+872 = DCCCLXXII = eizh kant daouzek ha tri-ugent
+873 = DCCCLXXIII = eizh kant trizek ha tri-ugent
+874 = DCCCLXXIV = eizh kant pevarzek ha tri-ugent
+875 = DCCCLXXV = eizh kant pemzek ha tri-ugent
+876 = DCCCLXXVI = eizh kant c'hwezek ha tri-ugent
+877 = DCCCLXXVII = eizh kant seitek ha tri-ugent
+878 = DCCCLXXVIII = eizh kant triwec'h ha tri-ugent
+879 = DCCCLXXIX = eizh kant naontek ha tri-ugent
+880 = DCCCLXXX = eizh kant pevar-ugent
+881 = DCCCLXXXI = eizh kant unan ha pevar-ugent
+882 = DCCCLXXXII = eizh kant daou ha pevar-ugent
+883 = DCCCLXXXIII = eizh kant tri ha pevar-ugent
+884 = DCCCLXXXIV = eizh kant pevar ha pevar-ugent
+885 = DCCCLXXXV = eizh kant pemp ha pevar-ugent
+886 = DCCCLXXXVI = eizh kant c'hwec'h ha pevar-ugent
+887 = DCCCLXXXVII = eizh kant seizh ha pevar-ugent
+888 = DCCCLXXXVIII = eizh kant eizh ha pevar-ugent
+889 = DCCCLXXXIX = eizh kant nav ha pevar-ugent
+890 = DCCCXC = eizh kant dek ha pevar-ugent
+891 = DCCCXCI = eizh kant unnek ha pevar-ugent
+892 = DCCCXCII = eizh kant daouzek ha pevar-ugent
+893 = DCCCXCIII = eizh kant trizek ha pevar-ugent
+894 = DCCCXCIV = eizh kant pevarzek ha pevar-ugent
+895 = DCCCXCV = eizh kant pemzek ha pevar-ugent
+896 = DCCCXCVI = eizh kant c'hwezek ha pevar-ugent
+897 = DCCCXCVII = eizh kant seitek ha pevar-ugent
+898 = DCCCXCVIII = eizh kant triwec'h ha pevar-ugent
+899 = DCCCXCIX = eizh kant naontek ha pevar-ugent
+
+900 = CM = nav c'hant 
+901 = CMI = nav c'hant unan
+902 = CMII = nav c'hant daou
+903 = CMIII = nav c'hant tri
+904 = CMIV = nav c'hant pevar
+905 = CMV = nav c'hant pemp
+906 = CMVI = nav c'hant c'hwec'h
+907 = CMVII = nav c'hant seizh
+908 = CMVIII = nav c'hant eizh
+909 = CMIX = nav c'hant nav
+910 = CMX = nav c'hant dek
+911 = CMXI = nav c'hant unnek
+912 = CMXII = nav c'hant daouzek
+913 = CMXIII = nav c'hant trizek
+914 = CMXIV = nav c'hant pevarzek
+915 = CMXV = nav c'hant pemzek
+916 = CMXVI = nav c'hant c'hwezek
+917 = CMXVII = nav c'hant seitek
+918 = CMXVIII = nav c'hant triwec'h
+919 = CMXIX = nav c'hant naontek
+920 = CMXX = nav c'hant ugent
+921 = CMXXI = nav c'hant unan warn-ugent
+922 = CMXXII = nav c'hant daou warn-ugent
+923 = CMXXIII = nav c'hant tri warn-ugent
+924 = CMXXIV = nav c'hant pevar warn-ugent
+925 = CMXXV = nav c'hant pemp warn-ugent
+926 = CMXXVI = nav c'hant c'hwec'h warn-ugent
+927 = CMXXVII = nav c'hant seizh warn-ugent
+928 = CMXXVIII = nav c'hant eizh warn-ugent
+929 = CMXXIX = nav c'hant nav warn-ugent
+930 = CMXXX = nav c'hant tregont
+931 = CMXXXI = nav c'hant unan ha tregont
+932 = CMXXXII = nav c'hant daou ha tregont
+933 = CMXXXIII = nav c'hant tri ha tregont
+934 = CMXXXIV = nav c'hant pevar ha tregont
+935 = CMXXXV = nav c'hant pemp ha tregont
+936 = CMXXXVI = nav c'hant c'hwec'h ha tregont
+937 = CMXXXVII = nav c'hant seizh ha tregont
+938 = CMXXXVIII = nav c'hant eizh ha tregont
+939 = CMXXXIX = nav c'hant nav ha tregont
+940 = CMXL = nav c'hant daou-ugent
+941 = CMXLI = nav c'hant unan ha daou-ugent
+942 = CMXLII = nav c'hant daou ha daou-ugent
+943 = CMXLIII = nav c'hant tri ha daou-ugent
+944 = CMXLIV = nav c'hant pevar ha daou-ugent
+945 = CMXLV = nav c'hant pemp ha daou-ugent
+946 = CMXLVI = nav c'hant c'hwec'h ha daou-ugent
+947 = CMXLVII = nav c'hant seizh ha daou-ugent
+948 = CMXLVIII = nav c'hant eizh ha daou-ugent
+949 = CMXLIX = nav c'hant nav ha daou-ugent
+950 = CML = nav c'hant hanter-kant
+951 = CMLI = nav c'hant unan hag hanter-kant
+952 = CMLII = nav c'hant daou hag hanter-kant
+953 = CMLIII = nav c'hant tri hag hanter-kant
+954 = CMLIV = nav c'hant pevar hag hanter-kant
+955 = CMLV = nav c'hant pemp hag hanter-kant
+956 = CMLVI = nav c'hant c'hwec'h hag hanter-kant
+957 = CMLVII = nav c'hant seizh hag hanter-kant
+958 = CMLVIII = nav c'hant eizh hag hanter-kant
+959 = CMLIX = nav c'hant nav hag hanter-kant
+960 = CMLX = nav c'hant tri-ugent
+961 = CMLXI = nav c'hant unan ha tri-ugent
+962 = CMLXII = nav c'hant daou ha tri-ugent
+963 = CMLXIII = nav c'hant tri ha tri-ugent
+964 = CMLXIV = nav c'hant pevar ha tri-ugent
+965 = CMLXV = nav c'hant pemp ha tri-ugent
+966 = CMLXVI = nav c'hant c'hwec'h ha tri-ugent
+967 = CMLXVII = nav c'hant seizh ha tri-ugent
+968 = CMLXVIII = nav c'hant eizh ha tri-ugent
+969 = CMLXIX = nav c'hant nav ha tri-ugent
+970 = CMLXX = nav c'hant dek ha tri-ugent
+971 = CMLXXI = nav c'hant unnek ha tri-ugent
+972 = CMLXXII = nav c'hant daouzek ha tri-ugent
+973 = CMLXXIII = nav c'hant trizek ha tri-ugent
+974 = CMLXXIV = nav c'hant pevarzek ha tri-ugent
+975 = CMLXXV = nav c'hant pemzek ha tri-ugent
+976 = CMLXXVI = nav c'hant c'hwezek ha tri-ugent
+977 = CMLXXVII = nav c'hant seitek ha tri-ugent
+978 = CMLXXVIII = nav c'hant triwec'h ha tri-ugent
+979 = CMLXXIX = nav c'hant naontek ha tri-ugent
+980 = CMLXXX = nav c'hant pevar-ugent
+981 = CMLXXXI = nav c'hant unan ha pevar-ugent
+982 = CMLXXXII = nav c'hant daou ha pevar-ugent
+983 = CMLXXXIII = nav c'hant tri ha pevar-ugent
+984 = CMLXXXIV = nav c'hant pevar ha pevar-ugent
+985 = CMLXXXV = nav c'hant pemp ha pevar-ugent
+986 = CMLXXXVI = nav c'hant c'hwec'h ha pevar-ugent
+987 = CMLXXXVII = nav c'hant seizh ha pevar-ugent
+988 = CMLXXXVIII = nav c'hant eizh ha pevar-ugent
+989 = CMLXXXIX = nav c'hant nav ha pevar-ugent
+990 = CMXC = nav c'hant dek ha pevar-ugent
+991 = CMXCI = nav c'hant unnek ha pevar-ugent
+992 = CMXCII = nav c'hant daouzek ha pevar-ugent
+993 = CMXCIII = nav c'hant trizek ha pevar-ugent
+994 = CMXCIV = nav c'hant pevarzek ha pevar-ugent
+995 = CMXCV = nav c'hant pemzek ha pevar-ugent
+996 = CMXCVI = nav c'hant c'hwezek ha pevar-ugent
+997 = CMXCVII = nav c'hant seitek ha pevar-ugent
+998 = CMXCVIII = nav c'hant triwec'h ha pevar-ugent
+999 = CMXCIX = nav c'hant naontek ha pevar-ugent
+
+1000 = M = mil 
+1001 = MI = mil unan
+1002 = MII = mil daou
+1003 = MIII = mil tri
+1004 = MIV = mil pevar
+1005 = MV = mil pemp
+1006 = MVI = mil c'hwec'h
+1007 = MVII = mil seizh
+1008 = MVIII = mil eizh
+1009 = MIX = mil nav
+1010 = MX = mil dek
+1011 = MXI = mil unnek
+1012 = MXII = mil daouzek
+1013 = MXIII = mil trizek
+1014 = MXIV = mil pevarzek
+1015 = MXV = mil pemzek
+1016 = MXVI = mil c'hwezek
+1017 = MXVII = mil seitek
+1018 = MXVIII = mil triwec'h
+1019 = MXIX = mil naontek
+1020 = MXX = mil ugent
+1021 = MXXI = mil unan warn-ugent
+1022 = MXXII = mil daou warn-ugent
+1023 = MXXIII = mil tri warn-ugent
+1024 = MXXIV = mil pevar warn-ugent
+1025 = MXXV = mil pemp warn-ugent
+1026 = MXXVI = mil c'hwec'h warn-ugent
+1027 = MXXVII = mil seizh warn-ugent
+1028 = MXXVIII = mil eizh warn-ugent
+1029 = MXXIX = mil nav warn-ugent
+1030 = MXXX = mil tregont
+1031 = MXXXI = mil unan ha tregont
+1032 = MXXXII = mil daou ha tregont
+1033 = MXXXIII = mil tri ha tregont
+1034 = MXXXIV = mil pevar ha tregont
+1035 = MXXXV = mil pemp ha tregont
+1036 = MXXXVI = mil c'hwec'h ha tregont
+1037 = MXXXVII = mil seizh ha tregont
+1038 = MXXXVIII = mil eizh ha tregont
+1039 = MXXXIX = mil nav ha tregont
+1040 = MXL = mil daou-ugent
+1041 = MXLI = mil unan ha daou-ugent
+1042 = MXLII = mil daou ha daou-ugent
+1043 = MXLIII = mil tri ha daou-ugent
+1044 = MXLIV = mil pevar ha daou-ugent
+1045 = MXLV = mil pemp ha daou-ugent
+1046 = MXLVI = mil c'hwec'h ha daou-ugent
+1047 = MXLVII = mil seizh ha daou-ugent
+1048 = MXLVIII = mil eizh ha daou-ugent
+1049 = MXLIX = mil nav ha daou-ugent
+1050 = ML = mil hanter-kant
+1051 = MLI = mil unan hag hanter-kant
+1052 = MLII = mil daou hag hanter-kant
+1053 = MLIII = mil tri hag hanter-kant
+1054 = MLIV = mil pevar hag hanter-kant
+1055 = MLV = mil pemp hag hanter-kant
+1056 = MLVI = mil c'hwec'h hag hanter-kant
+1057 = MLVII = mil seizh hag hanter-kant
+1058 = MLVIII = mil eizh hag hanter-kant
+1059 = MLIX = mil nav hag hanter-kant
+1060 = MLX = mil tri-ugent
+1061 = MLXI = mil unan ha tri-ugent
+1062 = MLXII = mil daou ha tri-ugent
+1063 = MLXIII = mil tri ha tri-ugent
+1064 = MLXIV = mil pevar ha tri-ugent
+1065 = MLXV = mil pemp ha tri-ugent
+1066 = MLXVI = mil c'hwec'h ha tri-ugent
+1067 = MLXVII = mil seizh ha tri-ugent
+1068 = MLXVIII = mil eizh ha tri-ugent
+1069 = MLXIX = mil nav ha tri-ugent
+1070 = MLXX = mil dek ha tri-ugent
+1071 = MLXXI = mil unnek ha tri-ugent
+1072 = MLXXII = mil daouzek ha tri-ugent
+1073 = MLXXIII = mil trizek ha tri-ugent
+1074 = MLXXIV = mil pevarzek ha tri-ugent
+1075 = MLXXV = mil pemzek ha tri-ugent
+1076 = MLXXVI = mil c'hwezek ha tri-ugent
+1077 = MLXXVII = mil seitek ha tri-ugent
+1078 = MLXXVIII = mil triwec'h ha tri-ugent
+1079 = MLXXIX = mil naontek ha tri-ugent
+1080 = MLXXX = mil pevar-ugent
+1081 = MLXXXI = mil unan ha pevar-ugent
+1082 = MLXXXII = mil daou ha pevar-ugent
+1083 = MLXXXIII = mil tri ha pevar-ugent
+1084 = MLXXXIV = mil pevar ha pevar-ugent
+1085 = MLXXXV = mil pemp ha pevar-ugent
+1086 = MLXXXVI = mil c'hwec'h ha pevar-ugent
+1087 = MLXXXVII = mil seizh ha pevar-ugent
+1088 = MLXXXVIII = mil eizh ha pevar-ugent
+1089 = MLXXXIX = mil nav ha pevar-ugent
+1090 = MXC = mil dek ha pevar-ugent
+1091 = MXCI = mil unnek ha pevar-ugent
+1092 = MXCII = mil daouzek ha pevar-ugent
+1093 = MXCIII = mil trizek ha pevar-ugent
+1094 = MXCIV = mil pevarzek ha pevar-ugent
+1095 = MXCV = mil pemzek ha pevar-ugent
+1096 = MXCVI = mil c'hwezek ha pevar-ugent
+1097 = MXCVII = mil seitek ha pevar-ugent
+1098 = MXCVIII = mil triwec'h ha pevar-ugent
+1099 = MXCIX = mil naontek ha pevar-ugent
+
+1100 = MC = mil kant
+1101 = MCI = mil kant unan
+1102 = MCII = mil kant daou
+1103 = MCIII = mil kant tri
+1104 = MCIV = mil kant pevar
+1105 = MCV = mil kant pemp
+1106 = MCVI = mil kant c'hwec'h
+1107 = MCVII = mil kant seizh
+1108 = MCVIII = mil kant eizh
+1109 = MCIX = mil kant nav
+1110 = MCX = mil kant dek
+1111 = MCXI = mil kant unnek
+1112 = MCXII = mil kant daouzek
+1113 = MCXIII = mil kant trizek
+1114 = MCXIV = mil kant pevarzek
+1115 = MCXV = mil kant pemzek
+1116 = MCXVI = mil kant c'hwezek
+1117 = MCXVII = mil kant seitek
+1118 = MCXVIII = mil kant triwec'h
+1119 = MCXIX = mil kant naontek
+1120 = MCXX = mil kant ugent
+1121 = MCXXI = mil kant unan warn-ugent
+1122 = MCXXII = mil kant daou warn-ugent
+1123 = MCXXIII = mil kant tri warn-ugent
+1124 = MCXXIV = mil kant pevar warn-ugent
+1125 = MCXXV = mil kant pemp warn-ugent
+1126 = MCXXVI = mil kant c'hwec'h warn-ugent
+1127 = MCXXVII = mil kant seizh warn-ugent
+1128 = MCXXVIII = mil kant eizh warn-ugent
+1129 = MCXXIX = mil kant nav warn-ugent
+1130 = MCXXX = mil kant tregont
+1131 = MCXXXI = mil kant unan ha tregont
+1132 = MCXXXII = mil kant daou ha tregont
+1133 = MCXXXIII = mil kant tri ha tregont
+1134 = MCXXXIV = mil kant pevar ha tregont
+1135 = MCXXXV = mil kant pemp ha tregont
+1136 = MCXXXVI = mil kant c'hwec'h ha tregont
+1137 = MCXXXVII = mil kant seizh ha tregont
+1138 = MCXXXVIII = mil kant eizh ha tregont
+1139 = MCXXXIX = mil kant nav ha tregont
+1140 = MCXL = mil kant daou-ugent
+1141 = MCXLI = mil kant unan ha daou-ugent
+1142 = MCXLII = mil kant daou ha daou-ugent
+1143 = MCXLIII = mil kant tri ha daou-ugent
+1144 = MCXLIV = mil kant pevar ha daou-ugent
+1145 = MCXLV = mil kant pemp ha daou-ugent
+1146 = MCXLVI = mil kant c'hwec'h ha daou-ugent
+1147 = MCXLVII = mil kant seizh ha daou-ugent
+1148 = MCXLVIII = mil kant eizh ha daou-ugent
+1149 = MCXLIX = mil kant nav ha daou-ugent
+1150 = MCL = mil kant hanter-kant
+1151 = MCLI = mil kant unan hag hanter-kant
+1152 = MCLII = mil kant daou hag hanter-kant
+1153 = MCLIII = mil kant tri hag hanter-kant
+1154 = MCLIV = mil kant pevar hag hanter-kant
+1155 = MCLV = mil kant pemp hag hanter-kant
+1156 = MCLVI = mil kant c'hwec'h hag hanter-kant
+1157 = MCLVII = mil kant seizh hag hanter-kant
+1158 = MCLVIII = mil kant eizh hag hanter-kant
+1159 = MCLIX = mil kant nav hag hanter-kant
+1160 = MCLX = mil kant tri-ugent
+1161 = MCLXI = mil kant unan ha tri-ugent
+1162 = MCLXII = mil kant daou ha tri-ugent
+1163 = MCLXIII = mil kant tri ha tri-ugent
+1164 = MCLXIV = mil kant pevar ha tri-ugent
+1165 = MCLXV = mil kant pemp ha tri-ugent
+1166 = MCLXVI = mil kant c'hwec'h ha tri-ugent
+1167 = MCLXVII = mil kant seizh ha tri-ugent
+1168 = MCLXVIII = mil kant eizh ha tri-ugent
+1169 = MCLXIX = mil kant nav ha tri-ugent
+1170 = MCLXX = mil kant dek ha tri-ugent
+1171 = MCLXXI = mil kant unnek ha tri-ugent
+1172 = MCLXXII = mil kant daouzek ha tri-ugent
+1173 = MCLXXIII = mil kant trizek ha tri-ugent
+1174 = MCLXXIV = mil kant pevarzek ha tri-ugent
+1175 = MCLXXV = mil kant pemzek ha tri-ugent
+1176 = MCLXXVI = mil kant c'hwezek ha tri-ugent
+1177 = MCLXXVII = mil kant seitek ha tri-ugent
+1178 = MCLXXVIII = mil kant triwec'h ha tri-ugent
+1179 = MCLXXIX = mil kant naontek ha tri-ugent
+1180 = MCLXXX = mil kant pevar-ugent
+1181 = MCLXXXI = mil kant unan ha pevar-ugent
+1182 = MCLXXXII = mil kant daou ha pevar-ugent
+1183 = MCLXXXIII = mil kant tri ha pevar-ugent
+1184 = MCLXXXIV = mil kant pevar ha pevar-ugent
+1185 = MCLXXXV = mil kant pemp ha pevar-ugent
+1186 = MCLXXXVI = mil kant c'hwec'h ha pevar-ugent
+1187 = MCLXXXVII = mil kant seizh ha pevar-ugent
+1188 = MCLXXXVIII = mil kant eizh ha pevar-ugent
+1189 = MCLXXXIX = mil kant nav ha pevar-ugent
+1190 = MCXC = mil kant dek ha pevar-ugent
+1191 = MCXCI = mil kant unnek ha pevar-ugent
+1192 = MCXCII = mil kant daouzek ha pevar-ugent
+1193 = MCXCIII = mil kant trizek ha pevar-ugent
+1194 = MCXCIV = mil kant pevarzek ha pevar-ugent
+1195 = MCXCV = mil kant pemzek ha pevar-ugent
+1196 = MCXCVI = mil kant c'hwezek ha pevar-ugent
+1197 = MCXCVII = mil kant seitek ha pevar-ugent
+1198 = MCXCVIII = mil kant triwec'h ha pevar-ugent
+1199 = MCXCIX = mil kant naontek ha pevar-ugent
+
+1200 = MCC = mil daou c'hant 
+1201 = MCCI = mil daou c'hant unan
+1202 = MCCII = mil daou c'hant daou
+1203 = MCCIII = mil daou c'hant tri
+1204 = MCCIV = mil daou c'hant pevar
+1205 = MCCV = mil daou c'hant pemp
+1206 = MCCVI = mil daou c'hant c'hwec'h
+1207 = MCCVII = mil daou c'hant seizh
+1208 = MCCVIII = mil daou c'hant eizh
+1209 = MCCIX = mil daou c'hant nav
+1210 = MCCX = mil daou c'hant dek
+1211 = MCCXI = mil daou c'hant unnek
+1212 = MCCXII = mil daou c'hant daouzek
+1213 = MCCXIII = mil daou c'hant trizek
+1214 = MCCXIV = mil daou c'hant pevarzek
+1215 = MCCXV = mil daou c'hant pemzek
+1216 = MCCXVI = mil daou c'hant c'hwezek
+1217 = MCCXVII = mil daou c'hant seitek
+1218 = MCCXVIII = mil daou c'hant triwec'h
+1219 = MCCXIX = mil daou c'hant naontek
+1220 = MCCXX = mil daou c'hant ugent
+1221 = MCCXXI = mil daou c'hant unan warn-ugent
+1222 = MCCXXII = mil daou c'hant daou warn-ugent
+1223 = MCCXXIII = mil daou c'hant tri warn-ugent
+1224 = MCCXXIV = mil daou c'hant pevar warn-ugent
+1225 = MCCXXV = mil daou c'hant pemp warn-ugent
+1226 = MCCXXVI = mil daou c'hant c'hwec'h warn-ugent
+1227 = MCCXXVII = mil daou c'hant seizh warn-ugent
+1228 = MCCXXVIII = mil daou c'hant eizh warn-ugent
+1229 = MCCXXIX = mil daou c'hant nav warn-ugent
+1230 = MCCXXX = mil daou c'hant tregont
+1231 = MCCXXXI = mil daou c'hant unan ha tregont
+1232 = MCCXXXII = mil daou c'hant daou ha tregont
+1233 = MCCXXXIII = mil daou c'hant tri ha tregont
+1234 = MCCXXXIV = mil daou c'hant pevar ha tregont
+1235 = MCCXXXV = mil daou c'hant pemp ha tregont
+1236 = MCCXXXVI = mil daou c'hant c'hwec'h ha tregont
+1237 = MCCXXXVII = mil daou c'hant seizh ha tregont
+1238 = MCCXXXVIII = mil daou c'hant eizh ha tregont
+1239 = MCCXXXIX = mil daou c'hant nav ha tregont
+1240 = MCCXL = mil daou c'hant daou-ugent
+1241 = MCCXLI = mil daou c'hant unan ha daou-ugent
+1242 = MCCXLII = mil daou c'hant daou ha daou-ugent
+1243 = MCCXLIII = mil daou c'hant tri ha daou-ugent
+1244 = MCCXLIV = mil daou c'hant pevar ha daou-ugent
+1245 = MCCXLV = mil daou c'hant pemp ha daou-ugent
+1246 = MCCXLVI = mil daou c'hant c'hwec'h ha daou-ugent
+1247 = MCCXLVII = mil daou c'hant seizh ha daou-ugent
+1248 = MCCXLVIII = mil daou c'hant eizh ha daou-ugent
+1249 = MCCXLIX = mil daou c'hant nav ha daou-ugent
+1250 = MCCL = mil daou c'hant hanter-kant
+1251 = MCCLI = mil daou c'hant unan hag hanter-kant
+1252 = MCCLII = mil daou c'hant daou hag hanter-kant
+1253 = MCCLIII = mil daou c'hant tri hag hanter-kant
+1254 = MCCLIV = mil daou c'hant pevar hag hanter-kant
+1255 = MCCLV = mil daou c'hant pemp hag hanter-kant
+1256 = MCCLVI = mil daou c'hant c'hwec'h hag hanter-kant
+1257 = MCCLVII = mil daou c'hant seizh hag hanter-kant
+1258 = MCCLVIII = mil daou c'hant eizh hag hanter-kant
+1259 = MCCLIX = mil daou c'hant nav hag hanter-kant
+1260 = MCCLX = mil daou c'hant tri-ugent
+1261 = MCCLXI = mil daou c'hant unan ha tri-ugent
+1262 = MCCLXII = mil daou c'hant daou ha tri-ugent
+1263 = MCCLXIII = mil daou c'hant tri ha tri-ugent
+1264 = MCCLXIV = mil daou c'hant pevar ha tri-ugent
+1265 = MCCLXV = mil daou c'hant pemp ha tri-ugent
+1266 = MCCLXVI = mil daou c'hant c'hwec'h ha tri-ugent
+1267 = MCCLXVII = mil daou c'hant seizh ha tri-ugent
+1268 = MCCLXVIII = mil daou c'hant eizh ha tri-ugent
+1269 = MCCLXIX = mil daou c'hant nav ha tri-ugent
+1270 = MCCLXX = mil daou c'hant dek ha tri-ugent
+1271 = MCCLXXI = mil daou c'hant unnek ha tri-ugent
+1272 = MCCLXXII = mil daou c'hant daouzek ha tri-ugent
+1273 = MCCLXXIII = mil daou c'hant trizek ha tri-ugent
+1274 = MCCLXXIV = mil daou c'hant pevarzek ha tri-ugent
+1275 = MCCLXXV = mil daou c'hant pemzek ha tri-ugent
+1276 = MCCLXXVI = mil daou c'hant c'hwezek ha tri-ugent
+1277 = MCCLXXVII = mil daou c'hant seitek ha tri-ugent
+1278 = MCCLXXVIII = mil daou c'hant triwec'h ha tri-ugent
+1279 = MCCLXXIX = mil daou c'hant naontek ha tri-ugent
+1280 = MCCLXXX = mil daou c'hant pevar-ugent
+1281 = MCCLXXXI = mil daou c'hant unan ha pevar-ugent
+1282 = MCCLXXXII = mil daou c'hant daou ha pevar-ugent
+1283 = MCCLXXXIII = mil daou c'hant tri ha pevar-ugent
+1284 = MCCLXXXIV = mil daou c'hant pevar ha pevar-ugent
+1285 = MCCLXXXV = mil daou c'hant pemp ha pevar-ugent
+1286 = MCCLXXXVI = mil daou c'hant c'hwec'h ha pevar-ugent
+1287 = MCCLXXXVII = mil daou c'hant seizh ha pevar-ugent
+1288 = MCCLXXXVIII = mil daou c'hant eizh ha pevar-ugent
+1289 = MCCLXXXIX = mil daou c'hant nav ha pevar-ugent
+1290 = MCCXC = mil daou c'hant dek ha pevar-ugent
+1291 = MCCXCI = mil daou c'hant unnek ha pevar-ugent
+1292 = MCCXCII = mil daou c'hant daouzek ha pevar-ugent
+1293 = MCCXCIII = mil daou c'hant trizek ha pevar-ugent
+1294 = MCCXCIV = mil daou c'hant pevarzek ha pevar-ugent
+1295 = MCCXCV = mil daou c'hant pemzek ha pevar-ugent
+1296 = MCCXCVI = mil daou c'hant c'hwezek ha pevar-ugent
+1297 = MCCXCVII = mil daou c'hant seitek ha pevar-ugent
+1298 = MCCXCVIII = mil daou c'hant triwec'h ha pevar-ugent
+1299 = MCCXCIX = mil daou c'hant naontek ha pevar-ugent
+
+1300 = MCCC = mil tri c'hant 
+1301 = MCCCI = mil tri c'hant unan
+1302 = MCCCII = mil tri c'hant daou
+1303 = MCCCIII = mil tri c'hant tri
+1304 = MCCCIV = mil tri c'hant pevar
+1305 = MCCCV = mil tri c'hant pemp
+1306 = MCCCVI = mil tri c'hant c'hwec'h
+1307 = MCCCVII = mil tri c'hant seizh
+1308 = MCCCVIII = mil tri c'hant eizh
+1309 = MCCCIX = mil tri c'hant nav
+1310 = MCCCX = mil tri c'hant dek
+1311 = MCCCXI = mil tri c'hant unnek
+1312 = MCCCXII = mil tri c'hant daouzek
+1313 = MCCCXIII = mil tri c'hant trizek
+1314 = MCCCXIV = mil tri c'hant pevarzek
+1315 = MCCCXV = mil tri c'hant pemzek
+1316 = MCCCXVI = mil tri c'hant c'hwezek
+1317 = MCCCXVII = mil tri c'hant seitek
+1318 = MCCCXVIII = mil tri c'hant triwec'h
+1319 = MCCCXIX = mil tri c'hant naontek
+1320 = MCCCXX = mil tri c'hant ugent
+1321 = MCCCXXI = mil tri c'hant unan warn-ugent
+1322 = MCCCXXII = mil tri c'hant daou warn-ugent
+1323 = MCCCXXIII = mil tri c'hant tri warn-ugent
+1324 = MCCCXXIV = mil tri c'hant pevar warn-ugent
+1325 = MCCCXXV = mil tri c'hant pemp warn-ugent
+1326 = MCCCXXVI = mil tri c'hant c'hwec'h warn-ugent
+1327 = MCCCXXVII = mil tri c'hant seizh warn-ugent
+1328 = MCCCXXVIII = mil tri c'hant eizh warn-ugent
+1329 = MCCCXXIX = mil tri c'hant nav warn-ugent
+1330 = MCCCXXX = mil tri c'hant tregont
+1331 = MCCCXXXI = mil tri c'hant unan ha tregont
+1332 = MCCCXXXII = mil tri c'hant daou ha tregont
+1333 = MCCCXXXIII = mil tri c'hant tri ha tregont
+1334 = MCCCXXXIV = mil tri c'hant pevar ha tregont
+1335 = MCCCXXXV = mil tri c'hant pemp ha tregont
+1336 = MCCCXXXVI = mil tri c'hant c'hwec'h ha tregont
+1337 = MCCCXXXVII = mil tri c'hant seizh ha tregont
+1338 = MCCCXXXVIII = mil tri c'hant eizh ha tregont
+1339 = MCCCXXXIX = mil tri c'hant nav ha tregont
+1340 = MCCCXL = mil tri c'hant daou-ugent
+1341 = MCCCXLI = mil tri c'hant unan ha daou-ugent
+1342 = MCCCXLII = mil tri c'hant daou ha daou-ugent
+1343 = MCCCXLIII = mil tri c'hant tri ha daou-ugent
+1344 = MCCCXLIV = mil tri c'hant pevar ha daou-ugent
+1345 = MCCCXLV = mil tri c'hant pemp ha daou-ugent
+1346 = MCCCXLVI = mil tri c'hant c'hwec'h ha daou-ugent
+1347 = MCCCXLVII = mil tri c'hant seizh ha daou-ugent
+1348 = MCCCXLVIII = mil tri c'hant eizh ha daou-ugent
+1349 = MCCCXLIX = mil tri c'hant nav ha daou-ugent
+1350 = MCCCL = mil tri c'hant hanter-kant
+1351 = MCCCLI = mil tri c'hant unan hag hanter-kant
+1352 = MCCCLII = mil tri c'hant daou hag hanter-kant
+1353 = MCCCLIII = mil tri c'hant tri hag hanter-kant
+1354 = MCCCLIV = mil tri c'hant pevar hag hanter-kant
+1355 = MCCCLV = mil tri c'hant pemp hag hanter-kant
+1356 = MCCCLVI = mil tri c'hant c'hwec'h hag hanter-kant
+1357 = MCCCLVII = mil tri c'hant seizh hag hanter-kant
+1358 = MCCCLVIII = mil tri c'hant eizh hag hanter-kant
+1359 = MCCCLIX = mil tri c'hant nav hag hanter-kant
+1360 = MCCCLX = mil tri c'hant tri-ugent
+1361 = MCCCLXI = mil tri c'hant unan ha tri-ugent
+1362 = MCCCLXII = mil tri c'hant daou ha tri-ugent
+1363 = MCCCLXIII = mil tri c'hant tri ha tri-ugent
+1364 = MCCCLXIV = mil tri c'hant pevar ha tri-ugent
+1365 = MCCCLXV = mil tri c'hant pemp ha tri-ugent
+1366 = MCCCLXVI = mil tri c'hant c'hwec'h ha tri-ugent
+1367 = MCCCLXVII = mil tri c'hant seizh ha tri-ugent
+1368 = MCCCLXVIII = mil tri c'hant eizh ha tri-ugent
+1369 = MCCCLXIX = mil tri c'hant nav ha tri-ugent
+1370 = MCCCLXX = mil tri c'hant dek ha tri-ugent
+1371 = MCCCLXXI = mil tri c'hant unnek ha tri-ugent
+1372 = MCCCLXXII = mil tri c'hant daouzek ha tri-ugent
+1373 = MCCCLXXIII = mil tri c'hant trizek ha tri-ugent
+1374 = MCCCLXXIV = mil tri c'hant pevarzek ha tri-ugent
+1375 = MCCCLXXV = mil tri c'hant pemzek ha tri-ugent
+1376 = MCCCLXXVI = mil tri c'hant c'hwezek ha tri-ugent
+1377 = MCCCLXXVII = mil tri c'hant seitek ha tri-ugent
+1378 = MCCCLXXVIII = mil tri c'hant triwec'h ha tri-ugent
+1379 = MCCCLXXIX = mil tri c'hant naontek ha tri-ugent
+1380 = MCCCLXXX = mil tri c'hant pevar-ugent
+1381 = MCCCLXXXI = mil tri c'hant unan ha pevar-ugent
+1382 = MCCCLXXXII = mil tri c'hant daou ha pevar-ugent
+1383 = MCCCLXXXIII = mil tri c'hant tri ha pevar-ugent
+1384 = MCCCLXXXIV = mil tri c'hant pevar ha pevar-ugent
+1385 = MCCCLXXXV = mil tri c'hant pemp ha pevar-ugent
+1386 = MCCCLXXXVI = mil tri c'hant c'hwec'h ha pevar-ugent
+1387 = MCCCLXXXVII = mil tri c'hant seizh ha pevar-ugent
+1388 = MCCCLXXXVIII = mil tri c'hant eizh ha pevar-ugent
+1389 = MCCCLXXXIX = mil tri c'hant nav ha pevar-ugent
+1390 = MCCCXC = mil tri c'hant dek ha pevar-ugent
+1391 = MCCCXCI = mil tri c'hant unnek ha pevar-ugent
+1392 = MCCCXCII = mil tri c'hant daouzek ha pevar-ugent
+1393 = MCCCXCIII = mil tri c'hant trizek ha pevar-ugent
+1394 = MCCCXCIV = mil tri c'hant pevarzek ha pevar-ugent
+1395 = MCCCXCV = mil tri c'hant pemzek ha pevar-ugent
+1396 = MCCCXCVI = mil tri c'hant c'hwezek ha pevar-ugent
+1397 = MCCCXCVII = mil tri c'hant seitek ha pevar-ugent
+1398 = MCCCXCVIII = mil tri c'hant triwec'h ha pevar-ugent
+1399 = MCCCXCIX = mil tri c'hant naontek ha pevar-ugent
+
+1400 = MCD = mil pevar c'hant 
+1401 = MCDI = mil pevar c'hant unan
+1402 = MCDII = mil pevar c'hant daou
+1403 = MCDIII = mil pevar c'hant tri
+1404 = MCDIV = mil pevar c'hant pevar
+1405 = MCDV = mil pevar c'hant pemp
+1406 = MCDVI = mil pevar c'hant c'hwec'h
+1407 = MCDVII = mil pevar c'hant seizh
+1408 = MCDVIII = mil pevar c'hant eizh
+1409 = MCDIX = mil pevar c'hant nav
+1410 = MCDX = mil pevar c'hant dek
+1411 = MCDXI = mil pevar c'hant unnek
+1412 = MCDXII = mil pevar c'hant daouzek
+1413 = MCDXIII = mil pevar c'hant trizek
+1414 = MCDXIV = mil pevar c'hant pevarzek
+1415 = MCDXV = mil pevar c'hant pemzek
+1416 = MCDXVI = mil pevar c'hant c'hwezek
+1417 = MCDXVII = mil pevar c'hant seitek
+1418 = MCDXVIII = mil pevar c'hant triwec'h
+1419 = MCDXIX = mil pevar c'hant naontek
+1420 = MCDXX = mil pevar c'hant ugent
+1421 = MCDXXI = mil pevar c'hant unan warn-ugent
+1422 = MCDXXII = mil pevar c'hant daou warn-ugent
+1423 = MCDXXIII = mil pevar c'hant tri warn-ugent
+1424 = MCDXXIV = mil pevar c'hant pevar warn-ugent
+1425 = MCDXXV = mil pevar c'hant pemp warn-ugent
+1426 = MCDXXVI = mil pevar c'hant c'hwec'h warn-ugent
+1427 = MCDXXVII = mil pevar c'hant seizh warn-ugent
+1428 = MCDXXVIII = mil pevar c'hant eizh warn-ugent
+1429 = MCDXXIX = mil pevar c'hant nav warn-ugent
+1430 = MCDXXX = mil pevar c'hant tregont
+1431 = MCDXXXI = mil pevar c'hant unan ha tregont
+1432 = MCDXXXII = mil pevar c'hant daou ha tregont
+1433 = MCDXXXIII = mil pevar c'hant tri ha tregont
+1434 = MCDXXXIV = mil pevar c'hant pevar ha tregont
+1435 = MCDXXXV = mil pevar c'hant pemp ha tregont
+1436 = MCDXXXVI = mil pevar c'hant c'hwec'h ha tregont
+1437 = MCDXXXVII = mil pevar c'hant seizh ha tregont
+1438 = MCDXXXVIII = mil pevar c'hant eizh ha tregont
+1439 = MCDXXXIX = mil pevar c'hant nav ha tregont
+1440 = MCDXL = mil pevar c'hant daou-ugent
+1441 = MCDXLI = mil pevar c'hant unan ha daou-ugent
+1442 = MCDXLII = mil pevar c'hant daou ha daou-ugent
+1443 = MCDXLIII = mil pevar c'hant tri ha daou-ugent
+1444 = MCDXLIV = mil pevar c'hant pevar ha daou-ugent
+1445 = MCDXLV = mil pevar c'hant pemp ha daou-ugent
+1446 = MCDXLVI = mil pevar c'hant c'hwec'h ha daou-ugent
+1447 = MCDXLVII = mil pevar c'hant seizh ha daou-ugent
+1448 = MCDXLVIII = mil pevar c'hant eizh ha daou-ugent
+1449 = MCDXLIX = mil pevar c'hant nav ha daou-ugent
+1450 = MCDL = mil pevar c'hant hanter-kant
+1451 = MCDLI = mil pevar c'hant unan hag hanter-kant
+1452 = MCDLII = mil pevar c'hant daou hag hanter-kant
+1453 = MCDLIII = mil pevar c'hant tri hag hanter-kant
+1454 = MCDLIV = mil pevar c'hant pevar hag hanter-kant
+1455 = MCDLV = mil pevar c'hant pemp hag hanter-kant
+1456 = MCDLVI = mil pevar c'hant c'hwec'h hag hanter-kant
+1457 = MCDLVII = mil pevar c'hant seizh hag hanter-kant
+1458 = MCDLVIII = mil pevar c'hant eizh hag hanter-kant
+1459 = MCDLIX = mil pevar c'hant nav hag hanter-kant
+1460 = MCDLX = mil pevar c'hant tri-ugent
+1461 = MCDLXI = mil pevar c'hant unan ha tri-ugent
+1462 = MCDLXII = mil pevar c'hant daou ha tri-ugent
+1463 = MCDLXIII = mil pevar c'hant tri ha tri-ugent
+1464 = MCDLXIV = mil pevar c'hant pevar ha tri-ugent
+1465 = MCDLXV = mil pevar c'hant pemp ha tri-ugent
+1466 = MCDLXVI = mil pevar c'hant c'hwec'h ha tri-ugent
+1467 = MCDLXVII = mil pevar c'hant seizh ha tri-ugent
+1468 = MCDLXVIII = mil pevar c'hant eizh ha tri-ugent
+1469 = MCDLXIX = mil pevar c'hant nav ha tri-ugent
+1470 = MCDLXX = mil pevar c'hant dek ha tri-ugent 
+1471 = MCDLXXI = mil pevar c'hant unnek ha tri-ugent
+1472 = MCDLXXII = mil pevar c'hant daouzek ha tri-ugent
+1473 = MCDLXXIII = mil pevar c'hant trizek ha tri-ugent
+1474 = MCDLXXIV = mil pevar c'hant pevarzek ha tri-ugent
+1475 = MCDLXXV = mil pevar c'hant pemzek ha tri-ugent
+1476 = MCDLXXVI = mil pevar c'hant c'hwezek ha tri-ugent
+1477 = MCDLXXVII = mil pevar c'hant seitek ha tri-ugent
+1478 = MCDLXXVIII = mil pevar c'hant triwec'h ha tri-ugent
+1479 = MCDLXXIX = mil pevar c'hant naontek ha tri-ugent
+1480 = MCDLXXX = mil pevar c'hant pevar-ugent
+1481 = MCDLXXXI = mil pevar c'hant unan ha pevar-ugent
+1482 = MCDLXXXII = mil pevar c'hant daou ha pevar-ugent
+1483 = MCDLXXXIII = mil pevar c'hant tri ha pevar-ugent
+1484 = MCDLXXXIV = mil pevar c'hant pevar ha pevar-ugent
+1485 = MCDLXXXV = mil pevar c'hant pemp ha pevar-ugent
+1486 = MCDLXXXVI = mil pevar c'hant c'hwec'h ha pevar-ugent
+1487 = MCDLXXXVII = mil pevar c'hant seizh ha pevar-ugent
+1488 = MCDLXXXVIII = mil pevar c'hant eizh ha pevar-ugent
+1489 = MCDLXXXIX = mil pevar c'hant nav ha pevar-ugent
+1490 = MCDXC = mil pevar c'hant dek ha pevar-ugent
+1491 = MCDXCI = mil pevar c'hant unnek ha pevar-ugent
+1492 = MCDXCII = mil pevar c'hant daouzek ha pevar-ugent
+1493 = MCDXCIII = mil pevar c'hant trizek ha pevar-ugent
+1494 = MCDXCIV = mil pevar c'hant pevarzek ha pevar-ugent
+1495 = MCDXCV = mil pevar c'hant pemzek ha pevar-ugent
+1496 = MCDXCVI = mil pevar c'hant c'hwezek ha pevar-ugent
+1497 = MCDXCVII = mil pevar c'hant seitek ha pevar-ugent
+1498 = MCDXCVIII = mil pevar c'hant triwec'h ha pevar-ugent
+1499 = MCDXCIX = mil pevar c'hant naontek ha pevar-ugent
+
+1500 = MD = mil pemp kant 
+1501 = MDI = mil pemp kant unan
+1502 = MDII = mil pemp kant daou
+1503 = MDIII = mil pemp kant tri
+1504 = MDIV = mil pemp kant pevar
+1505 = MDV = mil pemp kant pemp
+1506 = MDVI = mil pemp kant c'hwec'h
+1507 = MDVII = mil pemp kant seizh
+1508 = MDVIII = mil pemp kant eizh
+1509 = MDIX = mil pemp kant nav
+1510 = MDX = mil pemp kant dek
+1511 = MDXI = mil pemp kant unnek
+1512 = MDXII = mil pemp kant daouzek
+1513 = MDXIII = mil pemp kant trizek
+1514 = MDXIV = mil pemp kant pevarzek
+1515 = MDXV = mil pemp kant pemzek
+1516 = MDXVI = mil pemp kant c'hwezek
+1517 = MDXVII = mil pemp kant seitek
+1518 = MDXVIII = mil pemp kant triwec'h
+1519 = MDXIX = mil pemp kant naontek
+1520 = MDXX = mil pemp kant ugent
+1521 = MDXXI = mil pemp kant unan warn-ugent
+1522 = MDXXII = mil pemp kant daou warn-ugent
+1523 = MDXXIII = mil pemp kant tri warn-ugent
+1524 = MDXXIV = mil pemp kant pevar warn-ugent
+1525 = MDXXV = mil pemp kant pemp warn-ugent
+1526 = MDXXVI = mil pemp kant c'hwec'h warn-ugent
+1527 = MDXXVII = mil pemp kant seizh warn-ugent
+1528 = MDXXVIII = mil pemp kant eizh warn-ugent
+1529 = MDXXIX = mil pemp kant nav warn-ugent
+1530 = MDXXX = mil pemp kant tregont
+1531 = MDXXXI = mil pemp kant unan ha tregont
+1532 = MDXXXII = mil pemp kant daou ha tregont
+1533 = MDXXXIII = mil pemp kant tri ha tregont
+1534 = MDXXXIV = mil pemp kant pevar ha tregont
+1535 = MDXXXV = mil pemp kant pemp ha tregont
+1536 = MDXXXVI = mil pemp kant c'hwec'h ha tregont
+1537 = MDXXXVII = mil pemp kant seizh ha tregont
+1538 = MDXXXVIII = mil pemp kant eizh ha tregont
+1539 = MDXXXIX = mil pemp kant nav ha tregont
+1540 = MDXL = mil pemp kant daou-ugent
+1541 = MDXLI = mil pemp kant unan ha daou-ugent
+1542 = MDXLII = mil pemp kant daou ha daou-ugent
+1543 = MDXLIII = mil pemp kant tri ha daou-ugent
+1544 = MDXLIV = mil pemp kant pevar ha daou-ugent
+1545 = MDXLV = mil pemp kant pemp ha daou-ugent
+1546 = MDXLVI = mil pemp kant c'hwec'h ha daou-ugent
+1547 = MDXLVII = mil pemp kant seizh ha daou-ugent
+1548 = MDXLVIII = mil pemp kant eizh ha daou-ugent
+1549 = MDXLIX = mil pemp kant nav ha daou-ugent
+1550 = MDL = mil pemp kant hanter-kant
+1551 = MDLI = mil pemp kant unan hag hanter-kant
+1552 = MDLII = mil pemp kant daou hag hanter-kant
+1553 = MDLIII = mil pemp kant tri hag hanter-kant
+1554 = MDLIV = mil pemp kant pevar hag hanter-kant
+1555 = MDLV = mil pemp kant pemp hag hanter-kant
+1556 = MDLVI = mil pemp kant c'hwec'h hag hanter-kant
+1557 = MDLVII = mil pemp kant seizh hag hanter-kant
+1558 = MDLVIII = mil pemp kant eizh hag hanter-kant
+1559 = MDLIX = mil pemp kant nav hag hanter-kant
+1560 = MDLX = mil pemp kant tri-ugent
+1561 = MDLXI = mil pemp kant unan ha tri-ugent
+1562 = MDLXII = mil pemp kant daou ha tri-ugent
+1563 = MDLXIII = mil pemp kant tri ha tri-ugent
+1564 = MDLXIV = mil pemp kant pevar ha tri-ugent
+1565 = MDLXV = mil pemp kant pemp ha tri-ugent
+1566 = MDLXVI = mil pemp kant c'hwec'h ha tri-ugent
+1567 = MDLXVII = mil pemp kant seizh ha tri-ugent
+1568 = MDLXVIII = mil pemp kant eizh ha tri-ugent
+1569 = MDLXIX = mil pemp kant nav ha tri-ugent
+1570 = MDLXX = mil pemp kant dek ha tri-ugent
+1571 = MDLXXI = mil pemp kant unnek ha tri-ugent
+1572 = MDLXXII = mil pemp kant daouzek ha tri-ugent
+1573 = MDLXXIII = mil pemp kant trizek ha tri-ugent
+1574 = MDLXXIV = mil pemp kant pevarzek ha tri-ugent
+1575 = MDLXXV = mil pemp kant pemzek ha tri-ugent
+1576 = MDLXXVI = mil pemp kant c'hwezek ha tri-ugent
+1577 = MDLXXVII = mil pemp kant seitek ha tri-ugent
+1578 = MDLXXVIII = mil pemp kant triwec'h ha tri-ugent
+1579 = MDLXXIX = mil pemp kant naontek ha tri-ugent
+1580 = MDLXXX = mil pemp kant pevar-ugent
+1581 = MDLXXXI = mil pemp kant unan ha pevar-ugent
+1582 = MDLXXXII = mil pemp kant daou ha pevar-ugent
+1583 = MDLXXXIII = mil pemp kant tri ha pevar-ugent
+1584 = MDLXXXIV = mil pemp kant pevar ha pevar-ugent
+1585 = MDLXXXV = mil pemp kant pemp ha pevar-ugent
+1586 = MDLXXXVI = mil pemp kant c'hwec'h ha pevar-ugent
+1587 = MDLXXXVII = mil pemp kant seizh ha pevar-ugent
+1588 = MDLXXXVIII = mil pemp kant eizh ha pevar-ugent
+1589 = MDLXXXIX = mil pemp kant nav ha pevar-ugent
+1590 = MDXC = mil pemp kant dek ha pevar-ugent
+1591 = MDXCI = mil pemp kant unnek ha pevar-ugent
+1592 = MDXCII = mil pemp kant daouzek ha pevar-ugent
+1593 = MDXCIII = mil pemp kant trizek ha pevar-ugent
+1594 = MDXCIV = mil pemp kant pevarzek ha pevar-ugent
+1595 = MDXCV = mil pemp kant pemzek ha pevar-ugent
+1596 = MDXCVI = mil pemp kant c'hwezek ha pevar-ugent
+1597 = MDXCVII = mil pemp kant seitek ha pevar-ugent
+1598 = MDXCVIII = mil pemp kant triwec'h ha pevar-ugent
+1599 = MDXCIX = mil pemp kant naontek ha pevar-ugent
+
+1600 = MDC = mil c'hwec'h kant 
+1601 = MDCI = mil c'hwec'h kant unan
+1602 = MDCII = mil c'hwec'h kant daou
+1603 = MDCIII = mil c'hwec'h kant tri
+1604 = MDCIV = mil c'hwec'h kant pevar
+1605 = MDCV = mil c'hwec'h kant pemp
+1606 = MDCVI = mil c'hwec'h kant c'hwec'h
+1607 = MDCVII = mil c'hwec'h kant seizh
+1608 = MDCVIII = mil c'hwec'h kant eizh
+1609 = MDCIX = mil c'hwec'h kant nav
+1610 = MDCX = mil c'hwec'h kant dek
+1611 = MDCXI = mil c'hwec'h kant unnek
+1612 = MDCXII = mil c'hwec'h kant daouzek
+1613 = MDCXIII = mil c'hwec'h kant trizek
+1614 = MDCXIV = mil c'hwec'h kant pevarzek
+1615 = MDCXV = mil c'hwec'h kant pemzek
+1616 = MDCXVI = mil c'hwec'h kant c'hwezek
+1617 = MDCXVII = mil c'hwec'h kant seitek
+1618 = MDCXVIII = mil c'hwec'h kant triwec'h
+1619 = MDCXIX = mil c'hwec'h kant naontek
+1620 = MDCXX = mil c'hwec'h kant ugent
+1621 = MDCXXI = mil c'hwec'h kant unan warn-ugent
+1622 = MDCXXII = mil c'hwec'h kant daou warn-ugent
+1623 = MDCXXIII = mil c'hwec'h kant tri warn-ugent
+1624 = MDCXXIV = mil c'hwec'h kant pevar warn-ugent
+1625 = MDCXXV = mil c'hwec'h kant pemp warn-ugent
+1626 = MDCXXVI = mil c'hwec'h kant c'hwec'h warn-ugent
+1627 = MDCXXVII = mil c'hwec'h kant seizh warn-ugent
+1628 = MDCXXVIII = mil c'hwec'h kant eizh warn-ugent
+1629 = MDCXXIX = mil c'hwec'h kant nav warn-ugent
+1630 = MDCXXX = mil c'hwec'h kant tregont
+1631 = MDCXXXI = mil c'hwec'h kant unan ha tregont
+1632 = MDCXXXII = mil c'hwec'h kant daou ha tregont
+1633 = MDCXXXIII = mil c'hwec'h kant tri ha tregont
+1634 = MDCXXXIV = mil c'hwec'h kant pevar ha tregont
+1635 = MDCXXXV = mil c'hwec'h kant pemp ha tregont
+1636 = MDCXXXVI = mil c'hwec'h kant c'hwec'h ha tregont
+1637 = MDCXXXVII = mil c'hwec'h kant seizh ha tregont
+1638 = MDCXXXVIII = mil c'hwec'h kant eizh ha tregont
+1639 = MDCXXXIX = mil c'hwec'h kant nav ha tregont
+1640 = MDCXL = mil c'hwec'h kant daou-ugent
+1641 = MDCXLI = mil c'hwec'h kant unan ha daou-ugent
+1642 = MDCXLII = mil c'hwec'h kant daou ha daou-ugent
+1643 = MDCXLIII = mil c'hwec'h kant tri ha daou-ugent
+1644 = MDCXLIV = mil c'hwec'h kant pevar ha daou-ugent
+1645 = MDCXLV = mil c'hwec'h kant pemp ha daou-ugent
+1646 = MDCXLVI = mil c'hwec'h kant c'hwec'h ha daou-ugent
+1647 = MDCXLVII = mil c'hwec'h kant seizh ha daou-ugent
+1648 = MDCXLVIII = mil c'hwec'h kant eizh ha daou-ugent
+1649 = MDCXLIX = mil c'hwec'h kant nav ha daou-ugent
+1650 = MDCL = mil c'hwec'h kant hanter-kant
+1651 = MDCLI = mil c'hwec'h kant unan hag hanter-kant
+1652 = MDCLII = mil c'hwec'h kant daou hag hanter-kant
+1653 = MDCLIII = mil c'hwec'h kant tri hag hanter-kant
+1654 = MDCLIV = mil c'hwec'h kant pevar hag hanter-kant
+1655 = MDCLV = mil c'hwec'h kant pemp hag hanter-kant
+1656 = MDCLVI = mil c'hwec'h kant c'hwec'h hag hanter-kant
+1657 = MDCLVII = mil c'hwec'h kant seizh hag hanter-kant
+1658 = MDCLVIII = mil c'hwec'h kant eizh hag hanter-kant
+1659 = MDCLIX = mil c'hwec'h kant nav hag hanter-kant
+1660 = MDCLX = mil c'hwec'h kant tri-ugent
+1661 = MDCLXI = mil c'hwec'h kant unan ha tri-ugent
+1662 = MDCLXII = mil c'hwec'h kant daou ha tri-ugent
+1663 = MDCLXIII = mil c'hwec'h kant tri ha tri-ugent
+1664 = MDCLXIV = mil c'hwec'h kant pevar ha tri-ugent
+1665 = MDCLXV = mil c'hwec'h kant pemp ha tri-ugent
+1666 = MDCLXVI = mil c'hwec'h kant c'hwec'h ha tri-ugent
+1667 = MDCLXVII = mil c'hwec'h kant seizh ha tri-ugent
+1668 = MDCLXVIII = mil c'hwec'h kant eizh ha tri-ugent
+1669 = MDCLXIX = mil c'hwec'h kant nav ha tri-ugent
+1670 = MDCLXX = mil c'hwec'h kant dek ha tri-ugent
+1671 = MDCLXXI = mil c'hwec'h kant unnek ha tri-ugent
+1672 = MDCLXXII = mil c'hwec'h kant daouzek ha tri-ugent
+1673 = MDCLXXIII = mil c'hwec'h kant trizek ha tri-ugent
+1674 = MDCLXXIV = mil c'hwec'h kant pevarzek ha tri-ugent
+1675 = MDCLXXV = mil c'hwec'h kant pemzek ha tri-ugent
+1676 = MDCLXXVI = mil c'hwec'h kant c'hwezek ha tri-ugent
+1677 = MDCLXXVII = mil c'hwec'h kant seitek ha tri-ugent
+1678 = MDCLXXVIII = mil c'hwec'h kant triwec'h ha tri-ugent
+1679 = MDCLXXIX = mil c'hwec'h kant naontek ha tri-ugent
+1680 = MDCLXXX = mil c'hwec'h kant pevar-ugent
+1681 = MDCLXXXI = mil c'hwec'h kant unan ha pevar-ugent
+1682 = MDCLXXXII = mil c'hwec'h kant daou ha pevar-ugent
+1683 = MDCLXXXIII = mil c'hwec'h kant tri ha pevar-ugent
+1684 = MDCLXXXIV = mil c'hwec'h kant pevar ha pevar-ugent
+1685 = MDCLXXXV = mil c'hwec'h kant pemp ha pevar-ugent
+1686 = MDCLXXXVI = mil c'hwec'h kant c'hwec'h ha pevar-ugent
+1687 = MDCLXXXVII = mil c'hwec'h kant seizh ha pevar-ugent
+1688 = MDCLXXXVIII = mil c'hwec'h kant eizh ha pevar-ugent
+1689 = MDCLXXXIX = mil c'hwec'h kant nav ha pevar-ugent
+1690 = MDCXC = mil c'hwec'h kant dek ha pevar-ugent
+1691 = MDCXCI = mil c'hwec'h kant unnek ha pevar-ugent
+1692 = MDCXCII = mil c'hwec'h kant daouzek ha pevar-ugent
+1693 = MDCXCIII = mil c'hwec'h kant trizek ha pevar-ugent
+1694 = MDCXCIV = mil c'hwec'h kant pevarzek ha pevar-ugent
+1695 = MDCXCV = mil c'hwec'h kant pemzek ha pevar-ugent
+1696 = MDCXCVI = mil c'hwec'h kant c'hwezek ha pevar-ugent
+1697 = MDCXCVII = mil c'hwec'h kant seitek ha pevar-ugent
+1698 = MDCXCVIII = mil c'hwec'h kant triwec'h ha pevar-ugent
+1699 = MDCXCIX = mil c'hwec'h kant naontek ha pevar-ugent
+
+1700 = MDCC = mil seizh kant 
+1701 = MDCCI = mil seizh kant unan
+1702 = MDCCII = mil seizh kant daou
+1703 = MDCCIII = mil seizh kant tri
+1704 = MDCCIV = mil seizh kant pevar
+1705 = MDCCV = mil seizh kant pemp
+1706 = MDCCVI = mil seizh kant c'hwec'h
+1707 = MDCCVII = mil seizh kant seizh
+1708 = MDCCVIII = mil seizh kant eizh
+1709 = MDCCIX = mil seizh kant nav
+1710 = MDCCX = mil seizh kant dek
+1711 = MDCCXI = mil seizh kant unnek
+1712 = MDCCXII = mil seizh kant daouzek
+1713 = MDCCXIII = mil seizh kant trizek
+1714 = MDCCXIV = mil seizh kant pevarzek
+1715 = MDCCXV = mil seizh kant pemzek
+1716 = MDCCXVI = mil seizh kant c'hwezek
+1717 = MDCCXVII = mil seizh kant seitek
+1718 = MDCCXVIII = mil seizh kant triwec'h
+1719 = MDCCXIX = mil seizh kant naontek
+1720 = MDCCXX = mil seizh kant ugent
+1721 = MDCCXXI = mil seizh kant unan warn-ugent
+1722 = MDCCXXII = mil seizh kant daou warn-ugent
+1723 = MDCCXXIII = mil seizh kant tri warn-ugent
+1724 = MDCCXXIV = mil seizh kant pevar warn-ugent
+1725 = MDCCXXV = mil seizh kant pemp warn-ugent
+1726 = MDCCXXVI = mil seizh kant c'hwec'h warn-ugent
+1727 = MDCCXXVII = mil seizh kant seizh warn-ugent
+1728 = MDCCXXVIII = mil seizh kant eizh warn-ugent
+1729 = MDCCXXIX = mil seizh kant nav warn-ugent
+1730 = MDCCXXX = mil seizh kant tregont
+1731 = MDCCXXXI = mil seizh kant unan ha tregont
+1732 = MDCCXXXII = mil seizh kant daou ha tregont
+1733 = MDCCXXXIII = mil seizh kant tri ha tregont
+1734 = MDCCXXXIV = mil seizh kant pevar ha tregont
+1735 = MDCCXXXV = mil seizh kant pemp ha tregont
+1736 = MDCCXXXVI = mil seizh kant c'hwec'h ha tregont
+1737 = MDCCXXXVII = mil seizh kant seizh ha tregont
+1738 = MDCCXXXVIII = mil seizh kant eizh ha tregont
+1739 = MDCCXXXIX = mil seizh kant nav ha tregont
+1740 = MDCCXL = mil seizh kant daou-ugent
+1741 = MDCCXLI = mil seizh kant unan ha daou-ugent
+1742 = MDCCXLII = mil seizh kant daou ha daou-ugent
+1743 = MDCCXLIII = mil seizh kant tri ha daou-ugent
+1744 = MDCCXLIV = mil seizh kant pevar ha daou-ugent
+1745 = MDCCXLV = mil seizh kant pemp ha daou-ugent
+1746 = MDCCXLVI = mil seizh kant c'hwec'h ha daou-ugent
+1747 = MDCCXLVII = mil seizh kant seizh ha daou-ugent
+1748 = MDCCXLVIII = mil seizh kant eizh ha daou-ugent
+1749 = MDCCXLIX = mil seizh kant nav ha daou-ugent
+1750 = MDCCL = mil seizh kant hanter-kant
+1751 = MDCCLI = mil seizh kant unan hag hanter-kant
+1752 = MDCCLII = mil seizh kant daou hag hanter-kant
+1753 = MDCCLIII = mil seizh kant tri hag hanter-kant
+1754 = MDCCLIV = mil seizh kant pevar hag hanter-kant
+1755 = MDCCLV = mil seizh kant pemp hag hanter-kant
+1756 = MDCCLVI = mil seizh kant c'hwec'h hag hanter-kant
+1757 = MDCCLVII = mil seizh kant seizh hag hanter-kant
+1758 = MDCCLVIII = mil seizh kant eizh hag hanter-kant
+1759 = MDCCLIX = mil seizh kant nav hag hanter-kant
+1760 = MDCCLX = mil seizh kant tri-ugent
+1761 = MDCCLXI = mil seizh kant unan ha tri-ugent
+1762 = MDCCLXII = mil seizh kant daou ha tri-ugent
+1763 = MDCCLXIII = mil seizh kant tri ha tri-ugent
+1764 = MDCCLXIV = mil seizh kant pevar ha tri-ugent
+1765 = MDCCLXV = mil seizh kant pemp ha tri-ugent
+1766 = MDCCLXVI = mil seizh kant c'hwec'h ha tri-ugent
+1767 = MDCCLXVII = mil seizh kant seizh ha tri-ugent
+1768 = MDCCLXVIII = mil seizh kant eizh ha tri-ugent
+1769 = MDCCLXIX = mil seizh kant nav ha tri-ugent
+1770 = MDCCLXX = mil seizh kant dek ha tri-ugent
+1771 = MDCCLXXI = mil seizh kant unnek ha tri-ugent
+1772 = MDCCLXXII = mil seizh kant daouzek ha tri-ugent
+1773 = MDCCLXXIII = mil seizh kant trizek ha tri-ugent
+1774 = MDCCLXXIV = mil seizh kant pevarzek ha tri-ugent
+1775 = MDCCLXXV = mil seizh kant pemzek ha tri-ugent
+1776 = MDCCLXXVI = mil seizh kant c'hwezek ha tri-ugent
+1777 = MDCCLXXVII = mil seizh kant seitek ha tri-ugent
+1778 = MDCCLXXVIII = mil seizh kant triwec'h ha tri-ugent
+1779 = MDCCLXXIX = mil seizh kant naontek ha tri-ugent
+1780 = MDCCLXXX = mil seizh kant pevar-ugent
+1781 = MDCCLXXXI = mil seizh kant unan ha pevar-ugent
+1782 = MDCCLXXXII = mil seizh kant daou ha pevar-ugent
+1783 = MDCCLXXXIII = mil seizh kant tri ha pevar-ugent
+1784 = MDCCLXXXIV = mil seizh kant pevar ha pevar-ugent
+1785 = MDCCLXXXV = mil seizh kant pemp ha pevar-ugent
+1786 = MDCCLXXXVI = mil seizh kant c'hwec'h ha pevar-ugent
+1787 = MDCCLXXXVII = mil seizh kant seizh ha pevar-ugent
+1788 = MDCCLXXXVIII = mil seizh kant eizh ha pevar-ugent
+1789 = MDCCLXXXIX = mil seizh kant nav ha pevar-ugent
+1790 = MDCCXC = mil seizh kant dek ha pevar-ugent
+1791 = MDCCXCI = mil seizh kant unnek ha pevar-ugent
+1792 = MDCCXCII = mil seizh kant daouzek ha pevar-ugent
+1793 = MDCCXCIII = mil seizh kant trizek ha pevar-ugent
+1794 = MDCCXCIV = mil seizh kant pevarzek ha pevar-ugent
+1795 = MDCCXCV = mil seizh kant pemzek ha pevar-ugent
+1796 = MDCCXCVI = mil seizh kant c'hwezek ha pevar-ugent
+1797 = MDCCXCVII = mil seizh kant seitek ha pevar-ugent
+1798 = MDCCXCVIII = mil seizh kant triwec'h ha pevar-ugent
+1799 = MDCCXCIX = mil seizh kant naontek ha pevar-ugent
+
+1800 = MDCCC = mil eizh kant 
+1801 = MDCCCI = mil eizh kant unan
+1802 = MDCCCII = mil eizh kant daou
+1803 = MDCCCIII = mil eizh kant tri
+1804 = MDCCCIV = mil eizh kant pevar
+1805 = MDCCCV = mil eizh kant pemp
+1806 = MDCCCVI = mil eizh kant c'hwec'h
+1807 = MDCCCVII = mil eizh kant seizh
+1808 = MDCCCVIII = mil eizh kant eizh
+1809 = MDCCCIX = mil eizh kant nav
+1810 = MDCCCX = mil eizh kant dek
+1811 = MDCCCXI = mil eizh kant unnek
+1812 = MDCCCXII = mil eizh kant daouzek
+1813 = MDCCCXIII = mil eizh kant trizek
+1814 = MDCCCXIV = mil eizh kant pevarzek
+1815 = MDCCCXV = mil eizh kant pemzek
+1816 = MDCCCXVI = mil eizh kant c'hwezek
+1817 = MDCCCXVII = mil eizh kant seitek
+1818 = MDCCCXVIII = mil eizh kant triwec'h
+1819 = MDCCCXIX = mil eizh kant naontek
+1820 = MDCCCXX = mil eizh kant ugent
+1821 = MDCCCXXI = mil eizh kant unan warn-ugent
+1822 = MDCCCXXII = mil eizh kant daou warn-ugent
+1823 = MDCCCXXIII = mil eizh kant tri warn-ugent
+1824 = MDCCCXXIV = mil eizh kant pevar warn-ugent
+1825 = MDCCCXXV = mil eizh kant pemp warn-ugent
+1826 = MDCCCXXVI = mil eizh kant c'hwec'h warn-ugent
+1827 = MDCCCXXVII = mil eizh kant seizh warn-ugent
+1828 = MDCCCXXVIII = mil eizh kant eizh warn-ugent
+1829 = MDCCCXXIX = mil eizh kant nav warn-ugent
+1830 = MDCCCXXX = mil eizh kant tregont
+1831 = MDCCCXXXI = mil eizh kant unan ha tregont
+1832 = MDCCCXXXII = mil eizh kant daou ha tregont
+1833 = MDCCCXXXIII = mil eizh kant tri ha tregont
+1834 = MDCCCXXXIV = mil eizh kant pevar ha tregont
+1835 = MDCCCXXXV = mil eizh kant pemp ha tregont
+1836 = MDCCCXXXVI = mil eizh kant c'hwec'h ha tregont
+1837 = MDCCCXXXVII = mil eizh kant seizh ha tregont
+1838 = MDCCCXXXVIII = mil eizh kant eizh ha tregont
+1839 = MDCCCXXXIX = mil eizh kant nav ha tregont
+1840 = MDCCCXL = mil eizh kant daou-ugent
+1841 = MDCCCXLI = mil eizh kant unan ha daou-ugent
+1842 = MDCCCXLII = mil eizh kant daou ha daou-ugent
+1843 = MDCCCXLIII = mil eizh kant tri ha daou-ugent
+1844 = MDCCCXLIV = mil eizh kant pevar ha daou-ugent
+1845 = MDCCCXLV = mil eizh kant pemp ha daou-ugent
+1846 = MDCCCXLVI = mil eizh kant c'hwec'h ha daou-ugent
+1847 = MDCCCXLVII = mil eizh kant seizh ha daou-ugent
+1848 = MDCCCXLVIII = mil eizh kant eizh ha daou-ugent
+1849 = MDCCCXLIX = mil eizh kant nav ha daou-ugent
+1850 = MDCCCL = mil eizh kant hanter-kant
+1851 = MDCCCLI = mil eizh kant unan hag hanter-kant
+1852 = MDCCCLII = mil eizh kant daou hag hanter-kant
+1853 = MDCCCLIII = mil eizh kant tri hag hanter-kant
+1854 = MDCCCLIV = mil eizh kant pevar hag hanter-kant
+1855 = MDCCCLV = mil eizh kant pemp hag hanter-kant
+1856 = MDCCCLVI = mil eizh kant c'hwec'h hag hanter-kant
+1857 = MDCCCLVII = mil eizh kant seizh hag hanter-kant
+1858 = MDCCCLVIII = mil eizh kant eizh hag hanter-kant
+1859 = MDCCCLIX = mil eizh kant nav hag hanter-kant
+1860 = MDCCCLX = mil eizh kant tri-ugent
+1861 = MDCCCLXI = mil eizh kant unan ha tri-ugent
+1862 = MDCCCLXII = mil eizh kant daou ha tri-ugent
+1863 = MDCCCLXIII = mil eizh kant tri ha tri-ugent
+1864 = MDCCCLXIV = mil eizh kant pevar ha tri-ugent
+1865 = MDCCCLXV = mil eizh kant pemp ha tri-ugent
+1866 = MDCCCLXVI = mil eizh kant c'hwec'h ha tri-ugent
+1867 = MDCCCLXVII = mil eizh kant seizh ha tri-ugent
+1868 = MDCCCLXVIII = mil eizh kant eizh ha tri-ugent
+1869 = MDCCCLXIX = mil eizh kant nav ha tri-ugent
+1870 = MDCCCLXX = mil eizh kant dek ha tri-ugent
+1871 = MDCCCLXXI = mil eizh kant unnek ha tri-ugent
+1872 = MDCCCLXXII = mil eizh kant daouzek ha tri-ugent
+1873 = MDCCCLXXIII = mil eizh kant trizek ha tri-ugent
+1874 = MDCCCLXXIV = mil eizh kant pevarzek ha tri-ugent
+1875 = MDCCCLXXV = mil eizh kant pemzek ha tri-ugent
+1876 = MDCCCLXXVI = mil eizh kant c'hwezek ha tri-ugent
+1877 = MDCCCLXXVII = mil eizh kant seitek ha tri-ugent
+1878 = MDCCCLXXVIII = mil eizh kant triwec'h ha tri-ugent
+1879 = MDCCCLXXIX = mil eizh kant naontek ha tri-ugent
+1880 = MDCCCLXXX = mil eizh kant pevar-ugent
+1881 = MDCCCLXXXI = mil eizh kant unan ha pevar-ugent
+1882 = MDCCCLXXXII = mil eizh kant daou ha pevar-ugent
+1883 = MDCCCLXXXIII = mil eizh kant tri ha pevar-ugent
+1884 = MDCCCLXXXIV = mil eizh kant pevar ha pevar-ugent
+1885 = MDCCCLXXXV = mil eizh kant pemp ha pevar-ugent
+1886 = MDCCCLXXXVI = mil eizh kant c'hwec'h ha pevar-ugent
+1887 = MDCCCLXXXVII = mil eizh kant seizh ha pevar-ugent
+1888 = MDCCCLXXXVIII = mil eizh kant eizh ha pevar-ugent
+1889 = MDCCCLXXXIX = mil eizh kant nav ha pevar-ugent
+1890 = MDCCCXC = mil eizh kant dek ha pevar-ugent
+1891 = MDCCCXCI = mil eizh kant unnek ha pevar-ugent
+1892 = MDCCCXCII = mil eizh kant daouzek ha pevar-ugent
+1893 = MDCCCXCIII = mil eizh kant trizek ha pevar-ugent
+1894 = MDCCCXCIV = mil eizh kant pevarzek ha pevar-ugent
+1895 = MDCCCXCV = mil eizh kant pemzek ha pevar-ugent
+1896 = MDCCCXCVI = mil eizh kant c'hwezek ha pevar-ugent
+1897 = MDCCCXCVII = mil eizh kant seitek ha pevar-ugent
+1898 = MDCCCXCVIII = mil eizh kant triwec'h ha pevar-ugent
+1899 = MDCCCXCIX = mil eizh kant naontek ha pevar-ugent
+
+1900 = MCM = mil nav c'hant 
+1901 = MCMI = mil nav c'hant unan
+1902 = MCMII = mil nav c'hant daou
+1903 = MCMIII = mil nav c'hant tri
+1904 = MCMIV = mil nav c'hant pevar
+1905 = MCMV = mil nav c'hant pemp
+1906 = MCMVI = mil nav c'hant c'hwec'h
+1907 = MCMVII = mil nav c'hant seizh
+1908 = MCMVIII = mil nav c'hant eizh
+1909 = MCMIX = mil nav c'hant nav
+1910 = MCMX = mil nav c'hant dek
+1911 = MCMXI = mil nav c'hant unnek
+1912 = MCMXII = mil nav c'hant daouzek
+1913 = MCMXIII = mil nav c'hant trizek
+1914 = MCMXIV = mil nav c'hant pevarzek
+1915 = MCMXV = mil nav c'hant pemzek
+1916 = MCMXVI = mil nav c'hant c'hwezek
+1917 = MCMXVII = mil nav c'hant seitek
+1918 = MCMXVIII = mil nav c'hant triwec'h
+1919 = MCMXIX = mil nav c'hant naontek
+1920 = MCMXX = mil nav c'hant ugent
+1921 = MCMXXI = mil nav c'hant unan warn-ugent
+1922 = MCMXXII = mil nav c'hant daou warn-ugent
+1923 = MCMXXIII = mil nav c'hant tri warn-ugent
+1924 = MCMXXIV = mil nav c'hant pevar warn-ugent
+1925 = MCMXXV = mil nav c'hant pemp warn-ugent
+1926 = MCMXXVI = mil nav c'hant c'hwec'h warn-ugent
+1927 = MCMXXVII = mil nav c'hant seizh warn-ugent
+1928 = MCMXXVIII = mil nav c'hant eizh warn-ugent
+1929 = MCMXXIX = mil nav c'hant nav warn-ugent
+1930 = MCMXXX = mil nav c'hant tregont
+1931 = MCMXXXI = mil nav c'hant unan ha tregont
+1932 = MCMXXXII = mil nav c'hant daou ha tregont
+1933 = MCMXXXIII = mil nav c'hant tri ha tregont
+1934 = MCMXXXIV = mil nav c'hant pevar ha tregont
+1935 = MCMXXXV = mil nav c'hant pemp ha tregont
+1936 = MCMXXXVI = mil nav c'hant c'hwec'h ha tregont
+1937 = MCMXXXVII = mil nav c'hant seizh ha tregont
+1938 = MCMXXXVIII = mil nav c'hant eizh ha tregont
+1939 = MCMXXXIX = mil nav c'hant nav ha tregont
+1940 = MCMXL = mil nav c'hant daou-ugent
+1941 = MCMXLI = mil nav c'hant unan ha daou-ugent
+1942 = MCMXLII = mil nav c'hant daou ha daou-ugent
+1943 = MCMXLIII = mil nav c'hant tri ha daou-ugent
+1944 = MCMXLIV = mil nav c'hant pevar ha daou-ugent
+1945 = MCMXLV = mil nav c'hant pemp ha daou-ugent
+1946 = MCMXLVI = mil nav c'hant c'hwec'h ha daou-ugent
+1947 = MCMXLVII = mil nav c'hant seizh ha daou-ugent
+1948 = MCMXLVIII = mil nav c'hant eizh ha daou-ugent
+1949 = MCMXLIX = mil nav c'hant nav ha daou-ugent
+1950 = MCML = mil nav c'hant hanter-kant
+1951 = MCMLI = mil nav c'hant unan hag hanter-kant
+1952 = MCMLII = mil nav c'hant daou hag hanter-kant
+1953 = MCMLIII = mil nav c'hant tri hag hanter-kant
+1954 = MCMLIV = mil nav c'hant pevar hag hanter-kant
+1955 = MCMLV = mil nav c'hant pemp hag hanter-kant
+1956 = MCMLVI = mil nav c'hant c'hwec'h hag hanter-kant
+1957 = MCMLVII = mil nav c'hant seizh hag hanter-kant
+1958 = MCMLVIII = mil nav c'hant eizh hag hanter-kant
+1959 = MCMLIX = mil nav c'hant nav hag hanter-kant
+1960 = MCMLX = mil nav c'hant tri-ugent
+1961 = MCMLXI = mil nav c'hant unan ha tri-ugent
+1962 = MCMLXII = mil nav c'hant daou ha tri-ugent
+1963 = MCMLXIII = mil nav c'hant tri ha tri-ugent
+1964 = MCMLXIV = mil nav c'hant pevar ha tri-ugent
+1965 = MCMLXV = mil nav c'hant pemp ha tri-ugent
+1966 = MCMLXVI = mil nav c'hant c'hwec'h ha tri-ugent
+1967 = MCMLXVII = mil nav c'hant seizh ha tri-ugent
+1968 = MCMLXVIII = mil nav c'hant eizh ha tri-ugent
+1969 = MCMLXIX = mil nav c'hant nav ha tri-ugent
+1970 = MCMLXX = mil nav c'hant dek ha tri-ugent
+1971 = MCMLXXI = mil nav c'hant unnek ha tri-ugent
+1972 = MCMLXXII = mil nav c'hant daouzek ha tri-ugent
+1973 = MCMLXXIII = mil nav c'hant trizek ha tri-ugent
+1974 = MCMLXXIV = mil nav c'hant pevarzek ha tri-ugent
+1975 = MCMLXXV = mil nav c'hant pemzek ha tri-ugent
+1976 = MCMLXXVI = mil nav c'hant c'hwezek ha tri-ugent
+1977 = MCMLXXVII = mil nav c'hant seitek ha tri-ugent
+1978 = MCMLXXVIII = mil nav c'hant triwec'h ha tri-ugent
+1979 = MCMLXXIX = mil nav c'hant naontek ha tri-ugent
+1980 = MCMLXXX = mil nav c'hant pevar-ugent
+1981 = MCMLXXXI = mil nav c'hant unan ha pevar-ugent
+1982 = MCMLXXXII = mil nav c'hant daou ha pevar-ugent
+1983 = MCMLXXXIII = mil nav c'hant tri ha pevar-ugent
+1984 = MCMLXXXIV = mil nav c'hant pevar ha pevar-ugent
+1985 = MCMLXXXV = mil nav c'hant pemp ha pevar-ugent
+1986 = MCMLXXXVI = mil nav c'hant c'hwec'h ha pevar-ugent
+1987 = MCMLXXXVII = mil nav c'hant seizh ha pevar-ugent
+1988 = MCMLXXXVIII = mil nav c'hant eizh ha pevar-ugent
+1989 = MCMLXXXIX = mil nav c'hant nav ha pevar-ugent
+1990 = MCMXC = mil nav c'hant dek ha pevar-ugent
+1991 = MCMXCI = mil nav c'hant unnek ha pevar-ugent
+1992 = MCMXCII = mil nav c'hant daouzek ha pevar-ugent
+1993 = MCMXCIII = mil nav c'hant trizek ha pevar-ugent
+1994 = MCMXCIV = mil nav c'hant pevarzek ha pevar-ugent
+1995 = MCMXCV = mil nav c'hant pemzek ha pevar-ugent
+1996 = MCMXCVI = mil nav c'hant c'hwezek ha pevar-ugent
+1997 = MCMXCVII = mil nav c'hant seitek ha pevar-ugent
+1998 = MCMXCVIII = mil nav c'hant triwec'h ha pevar-ugent
+1999 = MCMXCIX = mil nav c'hant naontek ha pevar-ugent
+
+2000 = MM = daou vil 
+2001 = MMI = daou vil unan
+2002 = MMII = daou vil daou
+2003 = MMIII = daou vil tri
+2004 = MMIV = daou vil pevar
+2005 = MMV = daou vil pemp
+2006 = MMVI = daou vil c'hwec'h
+2007 = MMVII = daou vil seizh
+2008 = MMVIII = daou vil eizh
+2009 = MMIX = daou vil nav
+2010 = MMX = daou vil dek
+2011 = MMXI = daou vil unnek
+2012 = MMXII = daou vil daouzek
+2013 = MMXIII = daou vil trizek
+2014 = MMXIV = daou vil pevarzek
+2015 = MMXV = daou vil pemzek
+2016 = MMXVI = daou vil c'hwezek
+2017 = MMXVII = daou vil seitek
+2018 = MMXVIII = daou vil triwec'h
+2019 = MMXIX = daou vil naontek
+2020 = MMXX = daou vil ugent
+2021 = MMXXI = daou vil unan warn-ugent
+2022 = MMXXII = daou vil daou warn-ugent
+2023 = MMXXIII = daou vil tri warn-ugent
+2024 = MMXXIV = daou vil pevar warn-ugent
+2025 = MMXXV = daou vil pemp warn-ugent
+2026 = MMXXVI = daou vil c'hwec'h warn-ugent
+2027 = MMXXVII = daou vil seizh warn-ugent
+2028 = MMXXVIII = daou vil eizh warn-ugent
+2029 = MMXXIX = daou vil nav warn-ugent
+2030 = MMXXX = daou vil tregont
+2031 = MMXXXI = daou vil unan ha tregont
+2032 = MMXXXII = daou vil daou ha tregont
+2033 = MMXXXIII = daou vil tri ha tregont
+2034 = MMXXXIV = daou vil pevar ha tregont
+2035 = MMXXXV = daou vil pemp ha tregont
+2036 = MMXXXVI = daou vil c'hwec'h ha tregont
+2037 = MMXXXVII = daou vil seizh ha tregont
+2038 = MMXXXVIII = daou vil eizh ha tregont
+2039 = MMXXXIX = daou vil nav ha tregont
+2040 = MMXL = daou vil daou-ugent
+2041 = MMXLI = daou vil unan ha daou-ugent
+2042 = MMXLII = daou vil daou ha daou-ugent
+2043 = MMXLIII = daou vil tri ha daou-ugent
+2044 = MMXLIV = daou vil pevar ha daou-ugent
+2045 = MMXLV = daou vil pemp ha daou-ugent
+2046 = MMXLVI = daou vil c'hwec'h ha daou-ugent
+2047 = MMXLVII = daou vil seizh ha daou-ugent
+2048 = MMXLVIII = daou vil eizh ha daou-ugent
+2049 = MMXLIX = daou vil nav ha daou-ugent
+2050 = MML = daou vil hanter-kant
+2051 = MMLI = daou vil unan hag hanter-kant
+2052 = MMLII = daou vil daou hag hanter-kant
+2053 = MMLIII = daou vil tri hag hanter-kant
+2054 = MMLIV = daou vil pevar hag hanter-kant
+2055 = MMLV = daou vil pemp hag hanter-kant
+2056 = MMLVI = daou vil c'hwec'h hag hanter-kant
+2057 = MMLVII = daou vil seizh hag hanter-kant
+2058 = MMLVIII = daou vil eizh hag hanter-kant
+2059 = MMLIX = daou vil nav hag hanter-kant
+2060 = MMLX = daou vil tri-ugent
+2061 = MMLXI = daou vil unan ha tri-ugent
+2062 = MMLXII = daou vil daou ha tri-ugent
+2063 = MMLXIII = daou vil tri ha tri-ugent
+2064 = MMLXIV = daou vil pevar ha tri-ugent
+2065 = MMLXV = daou vil pemp ha tri-ugent
+2066 = MMLXVI = daou vil c'hwec'h ha tri-ugent
+2067 = MMLXVII = daou vil seizh ha tri-ugent
+2068 = MMLXVIII = daou vil eizh ha tri-ugent
+2069 = MMLXIX = daou vil nav ha tri-ugent
+2070 = MMLXX = daou vil dek ha tri-ugent
+2071 = MMLXXI = daou vil unnek ha tri-ugent
+2072 = MMLXXII = daou vil daouzek ha tri-ugent
+2073 = MMLXXIII = daou vil trizek ha tri-ugent
+2074 = MMLXXIV = daou vil pevarzek ha tri-ugent
+2075 = MMLXXV = daou vil pemzek ha tri-ugent
+2076 = MMLXXVI = daou vil c'hwezek ha tri-ugent
+2077 = MMLXXVII = daou vil seitek ha tri-ugent
+2078 = MMLXXVIII = daou vil triwec'h ha tri-ugent
+2079 = MMLXXIX = daou vil naontek ha tri-ugent
+2080 = MMLXXX = daou vil pevar-ugent
+2081 = MMLXXXI = daou vil unan ha pevar-ugent
+2082 = MMLXXXII = daou vil daou ha pevar-ugent
+2083 = MMLXXXIII = daou vil tri ha pevar-ugent
+2084 = MMLXXXIV = daou vil pevar ha pevar-ugent
+2085 = MMLXXXV = daou vil pemp ha pevar-ugent
+2086 = MMLXXXVI = daou vil c'hwec'h ha pevar-ugent
+2087 = MMLXXXVII = daou vil seizh ha pevar-ugent
+2088 = MMLXXXVIII = daou vil eizh ha pevar-ugent
+2089 = MMLXXXIX = daou vil nav ha pevar-ugent
+2090 = MMXC = daou vil dek ha pevar-ugent
+2091 = MMXCI = daou vil unnek ha pevar-ugent
+2092 = MMXCII = daou vil daouzek ha pevar-ugent
+2093 = MMXCIII = daou vil trizek ha pevar-ugent
+2094 = MMXCIV = daou vil pevarzek ha pevar-ugent
+2095 = MMXCV = daou vil pemzek ha pevar-ugent
+2096 = MMXCVI = daou vil c'hwezek ha pevar-ugent
+2097 = MMXCVII = daou vil seitek ha pevar-ugent
+2098 = MMXCVIII = daou vil triwec'h ha pevar-ugent
+2099 = MMXCIX = daou vil naontek ha pevar-ugent
+
+2100 = MMC = daou vil kant
+2101 = MMCI = daou vil kant unan
+2102 = MMCII = daou vil kant daou
+2103 = MMCIII = daou vil kant tri
+2104 = MMCIV = daou vil kant pevar
+2105 = MMCV = daou vil kant pemp
+2106 = MMCVI = daou vil kant c'hwec'h
+2107 = MMCVII = daou vil kant seizh
+2108 = MMCVIII = daou vil kant eizh
+2109 = MMCIX = daou vil kant nav
+2110 = MMCX = daou vil kant dek
+2111 = MMCXI = daou vil kant unnek
+2112 = MMCXII = daou vil kant daouzek
+2113 = MMCXIII = daou vil kant trizek
+2114 = MMCXIV = daou vil kant pevarzek
+2115 = MMCXV = daou vil kant pemzek
+2116 = MMCXVI = daou vil kant c'hwezek
+2117 = MMCXVII = daou vil kant seitek
+2118 = MMCXVIII = daou vil kant triwec'h
+2119 = MMCXIX = daou vil kant naontek
+2120 = MMCXX = daou vil kant ugent
+2121 = MMCXXI = daou vil kant unan warn-ugent
+2122 = MMCXXII = daou vil kant daou warn-ugent
+2123 = MMCXXIII = daou vil kant tri warn-ugent
+2124 = MMCXXIV = daou vil kant pevar warn-ugent
+2125 = MMCXXV = daou vil kant pemp warn-ugent
+2126 = MMCXXVI = daou vil kant c'hwec'h warn-ugent
+2127 = MMCXXVII = daou vil kant seizh warn-ugent
+2128 = MMCXXVIII = daou vil kant eizh warn-ugent
+2129 = MMCXXIX = daou vil kant nav warn-ugent
+2130 = MMCXXX = daou vil kant tregont
+2131 = MMCXXXI = daou vil kant unan ha tregont
+2132 = MMCXXXII = daou vil kant daou ha tregont
+2133 = MMCXXXIII = daou vil kant tri ha tregont
+2134 = MMCXXXIV = daou vil kant pevar ha tregont
+2135 = MMCXXXV = daou vil kant pemp ha tregont
+2136 = MMCXXXVI = daou vil kant c'hwec'h ha tregont
+2137 = MMCXXXVII = daou vil kant seizh ha tregont
+2138 = MMCXXXVIII = daou vil kant eizh ha tregont
+2139 = MMCXXXIX = daou vil kant nav ha tregont
+2140 = MMCXL = daou vil kant daou-ugent
+2141 = MMCXLI = daou vil kant unan ha daou-ugent
+2142 = MMCXLII = daou vil kant daou ha daou-ugent
+2143 = MMCXLIII = daou vil kant tri ha daou-ugent
+2144 = MMCXLIV = daou vil kant pevar ha daou-ugent
+2145 = MMCXLV = daou vil kant pemp ha daou-ugent
+2146 = MMCXLVI = daou vil kant c'hwec'h ha daou-ugent
+2147 = MMCXLVII = daou vil kant seizh ha daou-ugent
+2148 = MMCXLVIII = daou vil kant eizh ha daou-ugent
+2149 = MMCXLIX = daou vil kant nav ha daou-ugent
+2150 = MMCL = daou vil kant hanter-kant
+2151 = MMCLI = daou vil kant unan hag hanter-kant
+2152 = MMCLII = daou vil kant daou hag hanter-kant
+2153 = MMCLIII = daou vil kant tri hag hanter-kant
+2154 = MMCLIV = daou vil kant pevar hag hanter-kant
+2155 = MMCLV = daou vil kant pemp hag hanter-kant
+2156 = MMCLVI = daou vil kant c'hwec'h hag hanter-kant
+2157 = MMCLVII = daou vil kant seizh hag hanter-kant
+2158 = MMCLVIII = daou vil kant eizh hag hanter-kant
+2159 = MMCLIX = daou vil kant nav hag hanter-kant
+2160 = MMCLX = daou vil kant tri-ugent
+2161 = MMCLXI = daou vil kant unan ha tri-ugent
+2162 = MMCLXII = daou vil kant daou ha tri-ugent
+2163 = MMCLXIII = daou vil kant tri ha tri-ugent
+2164 = MMCLXIV = daou vil kant pevar ha tri-ugent
+2165 = MMCLXV = daou vil kant pemp ha tri-ugent
+2166 = MMCLXVI = daou vil kant c'hwec'h ha tri-ugent
+2167 = MMCLXVII = daou vil kant seizh ha tri-ugent
+2168 = MMCLXVIII = daou vil kant eizh ha tri-ugent
+2169 = MMCLXIX = daou vil kant nav ha tri-ugent
+2170 = MMCLXX = daou vil kant dek ha tri-ugent
+2171 = MMCLXXI = daou vil kant unnek ha tri-ugent
+2172 = MMCLXXII = daou vil kant daouzek ha tri-ugent
+2173 = MMCLXXIII = daou vil kant trizek ha tri-ugent
+2174 = MMCLXXIV = daou vil kant pevarzek ha tri-ugent
+2175 = MMCLXXV = daou vil kant pemzek ha tri-ugent
+2176 = MMCLXXVI = daou vil kant c'hwezek ha tri-ugent
+2177 = MMCLXXVII = daou vil kant seitek ha tri-ugent
+2178 = MMCLXXVIII = daou vil kant triwec'h ha tri-ugent
+2179 = MMCLXXIX = daou vil kant naontek ha tri-ugent
+2180 = MMCLXXX = daou vil kant pevar-ugent
+2181 = MMCLXXXI = daou vil kant unan ha pevar-ugent
+2182 = MMCLXXXII = daou vil kant daou ha pevar-ugent
+2183 = MMCLXXXIII = daou vil kant tri ha pevar-ugent
+2184 = MMCLXXXIV = daou vil kant pevar ha pevar-ugent
+2185 = MMCLXXXV = daou vil kant pemp ha pevar-ugent
+2186 = MMCLXXXVI = daou vil kant c'hwec'h ha pevar-ugent
+2187 = MMCLXXXVII = daou vil kant seizh ha pevar-ugent
+2188 = MMCLXXXVIII = daou vil kant eizh ha pevar-ugent
+2189 = MMCLXXXIX = daou vil kant nav ha pevar-ugent
+2190 = MMCXC = daou vil kant dek ha pevar-ugent
+2191 = MMCXCI = daou vil kant unnek ha pevar-ugent
+2192 = MMCXCII = daou vil kant daouzek ha pevar-ugent
+2193 = MMCXCIII = daou vil kant trizek ha pevar-ugent
+2194 = MMCXCIV = daou vil kant pevarzek ha pevar-ugent
+2195 = MMCXCV = daou vil kant pemzek ha pevar-ugent
+2196 = MMCXCVI = daou vil kant c'hwezek ha pevar-ugent
+2197 = MMCXCVII = daou vil kant seitek ha pevar-ugent
+2198 = MMCXCVIII = daou vil kant triwec'h ha pevar-ugent
+2199 = MMCXCIX = daou vil kant naontek ha pevar-ugent
+
+2200 = MMCC = daou vil daou c'hant 
+2201 = MMCCI = daou vil daou c'hant unan
+2202 = MMCCII = daou vil daou c'hant daou
+2203 = MMCCIII = daou vil daou c'hant tri
+2204 = MMCCIV = daou vil daou c'hant pevar
+2205 = MMCCV = daou vil daou c'hant pemp
+2206 = MMCCVI = daou vil daou c'hant c'hwec'h
+2207 = MMCCVII = daou vil daou c'hant seizh
+2208 = MMCCVIII = daou vil daou c'hant eizh
+2209 = MMCCIX = daou vil daou c'hant nav
+2210 = MMCCX = daou vil daou c'hant dek
+2211 = MMCCXI = daou vil daou c'hant unnek
+2212 = MMCCXII = daou vil daou c'hant daouzek
+2213 = MMCCXIII = daou vil daou c'hant trizek
+2214 = MMCCXIV = daou vil daou c'hant pevarzek
+2215 = MMCCXV = daou vil daou c'hant pemzek
+2216 = MMCCXVI = daou vil daou c'hant c'hwezek
+2217 = MMCCXVII = daou vil daou c'hant seitek
+2218 = MMCCXVIII = daou vil daou c'hant triwec'h
+2219 = MMCCXIX = daou vil daou c'hant naontek
+2220 = MMCCXX = daou vil daou c'hant ugent
+2221 = MMCCXXI = daou vil daou c'hant unan warn-ugent
+2222 = MMCCXXII = daou vil daou c'hant daou warn-ugent
+2223 = MMCCXXIII = daou vil daou c'hant tri warn-ugent
+2224 = MMCCXXIV = daou vil daou c'hant pevar warn-ugent
+2225 = MMCCXXV = daou vil daou c'hant pemp warn-ugent
+2226 = MMCCXXVI = daou vil daou c'hant c'hwec'h warn-ugent
+2227 = MMCCXXVII = daou vil daou c'hant seizh warn-ugent
+2228 = MMCCXXVIII = daou vil daou c'hant eizh warn-ugent
+2229 = MMCCXXIX = daou vil daou c'hant nav warn-ugent
+2230 = MMCCXXX = daou vil daou c'hant tregont
+2231 = MMCCXXXI = daou vil daou c'hant unan ha tregont
+2232 = MMCCXXXII = daou vil daou c'hant daou ha tregont
+2233 = MMCCXXXIII = daou vil daou c'hant tri ha tregont
+2234 = MMCCXXXIV = daou vil daou c'hant pevar ha tregont
+2235 = MMCCXXXV = daou vil daou c'hant pemp ha tregont
+2236 = MMCCXXXVI = daou vil daou c'hant c'hwec'h ha tregont
+2237 = MMCCXXXVII = daou vil daou c'hant seizh ha tregont
+2238 = MMCCXXXVIII = daou vil daou c'hant eizh ha tregont
+2239 = MMCCXXXIX = daou vil daou c'hant nav ha tregont
+2240 = MMCCXL = daou vil daou c'hant daou-ugent
+2241 = MMCCXLI = daou vil daou c'hant unan ha daou-ugent
+2242 = MMCCXLII = daou vil daou c'hant daou ha daou-ugent
+2243 = MMCCXLIII = daou vil daou c'hant tri ha daou-ugent
+2244 = MMCCXLIV = daou vil daou c'hant pevar ha daou-ugent
+2245 = MMCCXLV = daou vil daou c'hant pemp ha daou-ugent
+2246 = MMCCXLVI = daou vil daou c'hant c'hwec'h ha daou-ugent
+2247 = MMCCXLVII = daou vil daou c'hant seizh ha daou-ugent
+2248 = MMCCXLVIII = daou vil daou c'hant eizh ha daou-ugent
+2249 = MMCCXLIX = daou vil daou c'hant nav ha daou-ugent
+2250 = MMCCL = daou vil daou c'hant hanter-kant
+2251 = MMCCLI = daou vil daou c'hant unan hag hanter-kant
+2252 = MMCCLII = daou vil daou c'hant daou hag hanter-kant
+2253 = MMCCLIII = daou vil daou c'hant tri hag hanter-kant
+2254 = MMCCLIV = daou vil daou c'hant pevar hag hanter-kant
+2255 = MMCCLV = daou vil daou c'hant pemp hag hanter-kant
+2256 = MMCCLVI = daou vil daou c'hant c'hwec'h hag hanter-kant
+2257 = MMCCLVII = daou vil daou c'hant seizh hag hanter-kant
+2258 = MMCCLVIII = daou vil daou c'hant eizh hag hanter-kant
+2259 = MMCCLIX = daou vil daou c'hant nav hag hanter-kant
+2260 = MMCCLX = daou vil daou c'hant tri-ugent
+2261 = MMCCLXI = daou vil daou c'hant unan ha tri-ugent
+2262 = MMCCLXII = daou vil daou c'hant daou ha tri-ugent
+2263 = MMCCLXIII = daou vil daou c'hant tri ha tri-ugent
+2264 = MMCCLXIV = daou vil daou c'hant pevar ha tri-ugent
+2265 = MMCCLXV = daou vil daou c'hant pemp ha tri-ugent
+2266 = MMCCLXVI = daou vil daou c'hant c'hwec'h ha tri-ugent
+2267 = MMCCLXVII = daou vil daou c'hant seizh ha tri-ugent
+2268 = MMCCLXVIII = daou vil daou c'hant eizh ha tri-ugent
+2269 = MMCCLXIX = daou vil daou c'hant nav ha tri-ugent
+2270 = MMCCLXX = daou vil daou c'hant dek ha tri-ugent
+2271 = MMCCLXXI = daou vil daou c'hant unnek ha tri-ugent
+2272 = MMCCLXXII = daou vil daou c'hant daouzek ha tri-ugent
+2273 = MMCCLXXIII = daou vil daou c'hant trizek ha tri-ugent
+2274 = MMCCLXXIV = daou vil daou c'hant pevarzek ha tri-ugent
+2275 = MMCCLXXV = daou vil daou c'hant pemzek ha tri-ugent
+2276 = MMCCLXXVI = daou vil daou c'hant c'hwezek ha tri-ugent
+2277 = MMCCLXXVII = daou vil daou c'hant seitek ha tri-ugent
+2278 = MMCCLXXVIII = daou vil daou c'hant triwec'h ha tri-ugent
+2279 = MMCCLXXIX = daou vil daou c'hant naontek ha tri-ugent
+2280 = MMCCLXXX = daou vil daou c'hant pevar-ugent
+2281 = MMCCLXXXI = daou vil daou c'hant unan ha pevar-ugent
+2282 = MMCCLXXXII = daou vil daou c'hant daou ha pevar-ugent
+2283 = MMCCLXXXIII = daou vil daou c'hant tri ha pevar-ugent
+2284 = MMCCLXXXIV = daou vil daou c'hant pevar ha pevar-ugent
+2285 = MMCCLXXXV = daou vil daou c'hant pemp ha pevar-ugent
+2286 = MMCCLXXXVI = daou vil daou c'hant c'hwec'h ha pevar-ugent
+2287 = MMCCLXXXVII = daou vil daou c'hant seizh ha pevar-ugent
+2288 = MMCCLXXXVIII = daou vil daou c'hant eizh ha pevar-ugent
+2289 = MMCCLXXXIX = daou vil daou c'hant nav ha pevar-ugent
+2290 = MMCCXC = daou vil daou c'hant dek ha pevar-ugent
+2291 = MMCCXCI = daou vil daou c'hant unnek ha pevar-ugent
+2292 = MMCCXCII = daou vil daou c'hant daouzek ha pevar-ugent
+2293 = MMCCXCIII = daou vil daou c'hant trizek ha pevar-ugent
+2294 = MMCCXCIV = daou vil daou c'hant pevarzek ha pevar-ugent
+2295 = MMCCXCV = daou vil daou c'hant pemzek ha pevar-ugent
+2296 = MMCCXCVI = daou vil daou c'hant c'hwezek ha pevar-ugent
+2297 = MMCCXCVII = daou vil daou c'hant seitek ha pevar-ugent
+2298 = MMCCXCVIII = daou vil daou c'hant triwec'h ha pevar-ugent
+2299 = MMCCXCIX = daou vil daou c'hant naontek ha pevar-ugent
+
+2300 = MMCCC = daou vil tri c'hant 
+2301 = MMCCCI = daou vil tri c'hant unan
+2302 = MMCCCII = daou vil tri c'hant daou
+2303 = MMCCCIII = daou vil tri c'hant tri
+2304 = MMCCCIV = daou vil tri c'hant pevar
+2305 = MMCCCV = daou vil tri c'hant pemp
+2306 = MMCCCVI = daou vil tri c'hant c'hwec'h
+2307 = MMCCCVII = daou vil tri c'hant seizh
+2308 = MMCCCVIII = daou vil tri c'hant eizh
+2309 = MMCCCIX = daou vil tri c'hant nav
+2310 = MMCCCX = daou vil tri c'hant dek
+2311 = MMCCCXI = daou vil tri c'hant unnek
+2312 = MMCCCXII = daou vil tri c'hant daouzek
+2313 = MMCCCXIII = daou vil tri c'hant trizek
+2314 = MMCCCXIV = daou vil tri c'hant pevarzek
+2315 = MMCCCXV = daou vil tri c'hant pemzek
+2316 = MMCCCXVI = daou vil tri c'hant c'hwezek
+2317 = MMCCCXVII = daou vil tri c'hant seitek
+2318 = MMCCCXVIII = daou vil tri c'hant triwec'h
+2319 = MMCCCXIX = daou vil tri c'hant naontek
+2320 = MMCCCXX = daou vil tri c'hant ugent
+2321 = MMCCCXXI = daou vil tri c'hant unan warn-ugent
+2322 = MMCCCXXII = daou vil tri c'hant daou warn-ugent
+2323 = MMCCCXXIII = daou vil tri c'hant tri warn-ugent
+2324 = MMCCCXXIV = daou vil tri c'hant pevar warn-ugent
+2325 = MMCCCXXV = daou vil tri c'hant pemp warn-ugent
+2326 = MMCCCXXVI = daou vil tri c'hant c'hwec'h warn-ugent
+2327 = MMCCCXXVII = daou vil tri c'hant seizh warn-ugent
+2328 = MMCCCXXVIII = daou vil tri c'hant eizh warn-ugent
+2329 = MMCCCXXIX = daou vil tri c'hant nav warn-ugent
+2330 = MMCCCXXX = daou vil tri c'hant tregont
+2331 = MMCCCXXXI = daou vil tri c'hant unan ha tregont
+2332 = MMCCCXXXII = daou vil tri c'hant daou ha tregont
+2333 = MMCCCXXXIII = daou vil tri c'hant tri ha tregont
+2334 = MMCCCXXXIV = daou vil tri c'hant pevar ha tregont
+2335 = MMCCCXXXV = daou vil tri c'hant pemp ha tregont
+2336 = MMCCCXXXVI = daou vil tri c'hant c'hwec'h ha tregont
+2337 = MMCCCXXXVII = daou vil tri c'hant seizh ha tregont
+2338 = MMCCCXXXVIII = daou vil tri c'hant eizh ha tregont
+2339 = MMCCCXXXIX = daou vil tri c'hant nav ha tregont
+2340 = MMCCCXL = daou vil tri c'hant daou-ugent
+2341 = MMCCCXLI = daou vil tri c'hant unan ha daou-ugent
+2342 = MMCCCXLII = daou vil tri c'hant daou ha daou-ugent
+2343 = MMCCCXLIII = daou vil tri c'hant tri ha daou-ugent
+2344 = MMCCCXLIV = daou vil tri c'hant pevar ha daou-ugent
+2345 = MMCCCXLV = daou vil tri c'hant pemp ha daou-ugent
+2346 = MMCCCXLVI = daou vil tri c'hant c'hwec'h ha daou-ugent
+2347 = MMCCCXLVII = daou vil tri c'hant seizh ha daou-ugent
+2348 = MMCCCXLVIII = daou vil tri c'hant eizh ha daou-ugent
+2349 = MMCCCXLIX = daou vil tri c'hant nav ha daou-ugent
+2350 = MMCCCL = daou vil tri c'hant hanter-kant
+2351 = MMCCCLI = daou vil tri c'hant unan hag hanter-kant
+2352 = MMCCCLII = daou vil tri c'hant daou hag hanter-kant
+2353 = MMCCCLIII = daou vil tri c'hant tri hag hanter-kant
+2354 = MMCCCLIV = daou vil tri c'hant pevar hag hanter-kant
+2355 = MMCCCLV = daou vil tri c'hant pemp hag hanter-kant
+2356 = MMCCCLVI = daou vil tri c'hant c'hwec'h hag hanter-kant
+2357 = MMCCCLVII = daou vil tri c'hant seizh hag hanter-kant
+2358 = MMCCCLVIII = daou vil tri c'hant eizh hag hanter-kant
+2359 = MMCCCLIX = daou vil tri c'hant nav hag hanter-kant
+2360 = MMCCCLX = daou vil tri c'hant tri-ugent
+2361 = MMCCCLXI = daou vil tri c'hant unan ha tri-ugent
+2362 = MMCCCLXII = daou vil tri c'hant daou ha tri-ugent
+2363 = MMCCCLXIII = daou vil tri c'hant tri ha tri-ugent
+2364 = MMCCCLXIV = daou vil tri c'hant pevar ha tri-ugent
+2365 = MMCCCLXV = daou vil tri c'hant pemp ha tri-ugent
+2366 = MMCCCLXVI = daou vil tri c'hant c'hwec'h ha tri-ugent
+2367 = MMCCCLXVII = daou vil tri c'hant seizh ha tri-ugent
+2368 = MMCCCLXVIII = daou vil tri c'hant eizh ha tri-ugent
+2369 = MMCCCLXIX = daou vil tri c'hant nav ha tri-ugent
+2370 = MMCCCLXX = daou vil tri c'hant dek ha tri-ugent
+2371 = MMCCCLXXI = daou vil tri c'hant unnek ha tri-ugent
+2372 = MMCCCLXXII = daou vil tri c'hant daouzek ha tri-ugent
+2373 = MMCCCLXXIII = daou vil tri c'hant trizek ha tri-ugent
+2374 = MMCCCLXXIV = daou vil tri c'hant pevarzek ha tri-ugent
+2375 = MMCCCLXXV = daou vil tri c'hant pemzek ha tri-ugent
+2376 = MMCCCLXXVI = daou vil tri c'hant c'hwezek ha tri-ugent
+2377 = MMCCCLXXVII = daou vil tri c'hant seitek ha tri-ugent
+2378 = MMCCCLXXVIII = daou vil tri c'hant triwec'h ha tri-ugent
+2379 = MMCCCLXXIX = daou vil tri c'hant naontek ha tri-ugent
+2380 = MMCCCLXXX = daou vil tri c'hant pevar-ugent
+2381 = MMCCCLXXXI = daou vil tri c'hant unan ha pevar-ugent
+2382 = MMCCCLXXXII = daou vil tri c'hant daou ha pevar-ugent
+2383 = MMCCCLXXXIII = daou vil tri c'hant tri ha pevar-ugent
+2384 = MMCCCLXXXIV = daou vil tri c'hant pevar ha pevar-ugent
+2385 = MMCCCLXXXV = daou vil tri c'hant pemp ha pevar-ugent
+2386 = MMCCCLXXXVI = daou vil tri c'hant c'hwec'h ha pevar-ugent
+2387 = MMCCCLXXXVII = daou vil tri c'hant seizh ha pevar-ugent
+2388 = MMCCCLXXXVIII = daou vil tri c'hant eizh ha pevar-ugent
+2389 = MMCCCLXXXIX = daou vil tri c'hant nav ha pevar-ugent
+2390 = MMCCCXC = daou vil tri c'hant dek ha pevar-ugent
+2391 = MMCCCXCI = daou vil tri c'hant unnek ha pevar-ugent
+2392 = MMCCCXCII = daou vil tri c'hant daouzek ha pevar-ugent
+2393 = MMCCCXCIII = daou vil tri c'hant trizek ha pevar-ugent
+2394 = MMCCCXCIV = daou vil tri c'hant pevarzek ha pevar-ugent
+2395 = MMCCCXCV = daou vil tri c'hant pemzek ha pevar-ugent
+2396 = MMCCCXCVI = daou vil tri c'hant c'hwezek ha pevar-ugent
+2397 = MMCCCXCVII = daou vil tri c'hant seitek ha pevar-ugent
+2398 = MMCCCXCVIII = daou vil tri c'hant triwec'h ha pevar-ugent
+2399 = MMCCCXCIX = daou vil tri c'hant naontek ha pevar-ugent
+
+2400 = MMCD = daou vil pevar c'hant 
+2401 = MMCDI = daou vil pevar c'hant unan
+2402 = MMCDII = daou vil pevar c'hant daou
+2403 = MMCDIII = daou vil pevar c'hant tri
+2404 = MMCDIV = daou vil pevar c'hant pevar
+2405 = MMCDV = daou vil pevar c'hant pemp
+2406 = MMCDVI = daou vil pevar c'hant c'hwec'h
+2407 = MMCDVII = daou vil pevar c'hant seizh
+2408 = MMCDVIII = daou vil pevar c'hant eizh
+2409 = MMCDIX = daou vil pevar c'hant nav
+2410 = MMCDX = daou vil pevar c'hant dek
+2411 = MMCDXI = daou vil pevar c'hant unnek
+2412 = MMCDXII = daou vil pevar c'hant daouzek
+2413 = MMCDXIII = daou vil pevar c'hant trizek
+2414 = MMCDXIV = daou vil pevar c'hant pevarzek
+2415 = MMCDXV = daou vil pevar c'hant pemzek
+2416 = MMCDXVI = daou vil pevar c'hant c'hwezek
+2417 = MMCDXVII = daou vil pevar c'hant seitek
+2418 = MMCDXVIII = daou vil pevar c'hant triwec'h
+2419 = MMCDXIX = daou vil pevar c'hant naontek
+2420 = MMCDXX = daou vil pevar c'hant ugent
+2421 = MMCDXXI = daou vil pevar c'hant unan warn-ugent
+2422 = MMCDXXII = daou vil pevar c'hant daou warn-ugent
+2423 = MMCDXXIII = daou vil pevar c'hant tri warn-ugent
+2424 = MMCDXXIV = daou vil pevar c'hant pevar warn-ugent
+2425 = MMCDXXV = daou vil pevar c'hant pemp warn-ugent
+2426 = MMCDXXVI = daou vil pevar c'hant c'hwec'h warn-ugent
+2427 = MMCDXXVII = daou vil pevar c'hant seizh warn-ugent
+2428 = MMCDXXVIII = daou vil pevar c'hant eizh warn-ugent
+2429 = MMCDXXIX = daou vil pevar c'hant nav warn-ugent
+2430 = MMCDXXX = daou vil pevar c'hant tregont
+2431 = MMCDXXXI = daou vil pevar c'hant unan ha tregont
+2432 = MMCDXXXII = daou vil pevar c'hant daou ha tregont
+2433 = MMCDXXXIII = daou vil pevar c'hant tri ha tregont
+2434 = MMCDXXXIV = daou vil pevar c'hant pevar ha tregont
+2435 = MMCDXXXV = daou vil pevar c'hant pemp ha tregont
+2436 = MMCDXXXVI = daou vil pevar c'hant c'hwec'h ha tregont
+2437 = MMCDXXXVII = daou vil pevar c'hant seizh ha tregont
+2438 = MMCDXXXVIII = daou vil pevar c'hant eizh ha tregont
+2439 = MMCDXXXIX = daou vil pevar c'hant nav ha tregont
+2440 = MMCDXL = daou vil pevar c'hant daou-ugent
+2441 = MMCDXLI = daou vil pevar c'hant unan ha daou-ugent
+2442 = MMCDXLII = daou vil pevar c'hant daou ha daou-ugent
+2443 = MMCDXLIII = daou vil pevar c'hant tri ha daou-ugent
+2444 = MMCDXLIV = daou vil pevar c'hant pevar ha daou-ugent
+2445 = MMCDXLV = daou vil pevar c'hant pemp ha daou-ugent
+2446 = MMCDXLVI = daou vil pevar c'hant c'hwec'h ha daou-ugent
+2447 = MMCDXLVII = daou vil pevar c'hant seizh ha daou-ugent
+2448 = MMCDXLVIII = daou vil pevar c'hant eizh ha daou-ugent
+2449 = MMCDXLIX = daou vil pevar c'hant nav ha daou-ugent
+2450 = MMCDL = daou vil pevar c'hant hanter-kant
+2451 = MMCDLI = daou vil pevar c'hant unan hag hanter-kant
+2452 = MMCDLII = daou vil pevar c'hant daou hag hanter-kant
+2453 = MMCDLIII = daou vil pevar c'hant tri hag hanter-kant
+2454 = MMCDLIV = daou vil pevar c'hant pevar hag hanter-kant
+2455 = MMCDLV = daou vil pevar c'hant pemp hag hanter-kant
+2456 = MMCDLVI = daou vil pevar c'hant c'hwec'h hag hanter-kant
+2457 = MMCDLVII = daou vil pevar c'hant seizh hag hanter-kant
+2458 = MMCDLVIII = daou vil pevar c'hant eizh hag hanter-kant
+2459 = MMCDLIX = daou vil pevar c'hant nav hag hanter-kant
+2460 = MMCDLX = daou vil pevar c'hant tri-ugent
+2461 = MMCDLXI = daou vil pevar c'hant unan ha tri-ugent
+2462 = MMCDLXII = daou vil pevar c'hant daou ha tri-ugent
+2463 = MMCDLXIII = daou vil pevar c'hant tri ha tri-ugent
+2464 = MMCDLXIV = daou vil pevar c'hant pevar ha tri-ugent
+2465 = MMCDLXV = daou vil pevar c'hant pemp ha tri-ugent
+2466 = MMCDLXVI = daou vil pevar c'hant c'hwec'h ha tri-ugent
+2467 = MMCDLXVII = daou vil pevar c'hant seizh ha tri-ugent
+2468 = MMCDLXVIII = daou vil pevar c'hant eizh ha tri-ugent
+2469 = MMCDLXIX = daou vil pevar c'hant nav ha tri-ugent
+2470 = MMCDLXX = daou vil pevar c'hant dek ha tri-ugent 
+2471 = MMCDLXXI = daou vil pevar c'hant unnek ha tri-ugent
+2472 = MMCDLXXII = daou vil pevar c'hant daouzek ha tri-ugent
+2473 = MMCDLXXIII = daou vil pevar c'hant trizek ha tri-ugent
+2474 = MMCDLXXIV = daou vil pevar c'hant pevarzek ha tri-ugent
+2475 = MMCDLXXV = daou vil pevar c'hant pemzek ha tri-ugent
+2476 = MMCDLXXVI = daou vil pevar c'hant c'hwezek ha tri-ugent
+2477 = MMCDLXXVII = daou vil pevar c'hant seitek ha tri-ugent
+2478 = MMCDLXXVIII = daou vil pevar c'hant triwec'h ha tri-ugent
+2479 = MMCDLXXIX = daou vil pevar c'hant naontek ha tri-ugent
+2480 = MMCDLXXX = daou vil pevar c'hant pevar-ugent
+2481 = MMCDLXXXI = daou vil pevar c'hant unan ha pevar-ugent
+2482 = MMCDLXXXII = daou vil pevar c'hant daou ha pevar-ugent
+2483 = MMCDLXXXIII = daou vil pevar c'hant tri ha pevar-ugent
+2484 = MMCDLXXXIV = daou vil pevar c'hant pevar ha pevar-ugent
+2485 = MMCDLXXXV = daou vil pevar c'hant pemp ha pevar-ugent
+2486 = MMCDLXXXVI = daou vil pevar c'hant c'hwec'h ha pevar-ugent
+2487 = MMCDLXXXVII = daou vil pevar c'hant seizh ha pevar-ugent
+2488 = MMCDLXXXVIII = daou vil pevar c'hant eizh ha pevar-ugent
+2489 = MMCDLXXXIX = daou vil pevar c'hant nav ha pevar-ugent
+2490 = MMCDXC = daou vil pevar c'hant dek ha pevar-ugent
+2491 = MMCDXCI = daou vil pevar c'hant unnek ha pevar-ugent
+2492 = MMCDXCII = daou vil pevar c'hant daouzek ha pevar-ugent
+2493 = MMCDXCIII = daou vil pevar c'hant trizek ha pevar-ugent
+2494 = MMCDXCIV = daou vil pevar c'hant pevarzek ha pevar-ugent
+2495 = MMCDXCV = daou vil pevar c'hant pemzek ha pevar-ugent
+2496 = MMCDXCVI = daou vil pevar c'hant c'hwezek ha pevar-ugent
+2497 = MMCDXCVII = daou vil pevar c'hant seitek ha pevar-ugent
+2498 = MMCDXCVIII = daou vil pevar c'hant triwec'h ha pevar-ugent
+2499 = MMCDXCIX = daou vil pevar c'hant naontek ha pevar-ugent
+
+2500 = MMD = daou vil pemp kant 
+2501 = MMDI = daou vil pemp kant unan
+2502 = MMDII = daou vil pemp kant daou
+2503 = MMDIII = daou vil pemp kant tri
+2504 = MMDIV = daou vil pemp kant pevar
+2505 = MMDV = daou vil pemp kant pemp
+2506 = MMDVI = daou vil pemp kant c'hwec'h
+2507 = MMDVII = daou vil pemp kant seizh
+2508 = MMDVIII = daou vil pemp kant eizh
+2509 = MMDIX = daou vil pemp kant nav
+2510 = MMDX = daou vil pemp kant dek
+2511 = MMDXI = daou vil pemp kant unnek
+2512 = MMDXII = daou vil pemp kant daouzek
+2513 = MMDXIII = daou vil pemp kant trizek
+2514 = MMDXIV = daou vil pemp kant pevarzek
+2515 = MMDXV = daou vil pemp kant pemzek
+2516 = MMDXVI = daou vil pemp kant c'hwezek
+2517 = MMDXVII = daou vil pemp kant seitek
+2518 = MMDXVIII = daou vil pemp kant triwec'h
+2519 = MMDXIX = daou vil pemp kant naontek
+2520 = MMDXX = daou vil pemp kant ugent
+2521 = MMDXXI = daou vil pemp kant unan warn-ugent
+2522 = MMDXXII = daou vil pemp kant daou warn-ugent
+2523 = MMDXXIII = daou vil pemp kant tri warn-ugent
+2524 = MMDXXIV = daou vil pemp kant pevar warn-ugent
+2525 = MMDXXV = daou vil pemp kant pemp warn-ugent
+2526 = MMDXXVI = daou vil pemp kant c'hwec'h warn-ugent
+2527 = MMDXXVII = daou vil pemp kant seizh warn-ugent
+2528 = MMDXXVIII = daou vil pemp kant eizh warn-ugent
+2529 = MMDXXIX = daou vil pemp kant nav warn-ugent
+2530 = MMDXXX = daou vil pemp kant tregont
+2531 = MMDXXXI = daou vil pemp kant unan ha tregont
+2532 = MMDXXXII = daou vil pemp kant daou ha tregont
+2533 = MMDXXXIII = daou vil pemp kant tri ha tregont
+2534 = MMDXXXIV = daou vil pemp kant pevar ha tregont
+2535 = MMDXXXV = daou vil pemp kant pemp ha tregont
+2536 = MMDXXXVI = daou vil pemp kant c'hwec'h ha tregont
+2537 = MMDXXXVII = daou vil pemp kant seizh ha tregont
+2538 = MMDXXXVIII = daou vil pemp kant eizh ha tregont
+2539 = MMDXXXIX = daou vil pemp kant nav ha tregont
+2540 = MMDXL = daou vil pemp kant daou-ugent
+2541 = MMDXLI = daou vil pemp kant unan ha daou-ugent
+2542 = MMDXLII = daou vil pemp kant daou ha daou-ugent
+2543 = MMDXLIII = daou vil pemp kant tri ha daou-ugent
+2544 = MMDXLIV = daou vil pemp kant pevar ha daou-ugent
+2545 = MMDXLV = daou vil pemp kant pemp ha daou-ugent
+2546 = MMDXLVI = daou vil pemp kant c'hwec'h ha daou-ugent
+2547 = MMDXLVII = daou vil pemp kant seizh ha daou-ugent
+2548 = MMDXLVIII = daou vil pemp kant eizh ha daou-ugent
+2549 = MMDXLIX = daou vil pemp kant nav ha daou-ugent
+2550 = MMDL = daou vil pemp kant hanter-kant
+2551 = MMDLI = daou vil pemp kant unan hag hanter-kant
+2552 = MMDLII = daou vil pemp kant daou hag hanter-kant
+2553 = MMDLIII = daou vil pemp kant tri hag hanter-kant
+2554 = MMDLIV = daou vil pemp kant pevar hag hanter-kant
+2555 = MMDLV = daou vil pemp kant pemp hag hanter-kant
+2556 = MMDLVI = daou vil pemp kant c'hwec'h hag hanter-kant
+2557 = MMDLVII = daou vil pemp kant seizh hag hanter-kant
+2558 = MMDLVIII = daou vil pemp kant eizh hag hanter-kant
+2559 = MMDLIX = daou vil pemp kant nav hag hanter-kant
+2560 = MMDLX = daou vil pemp kant tri-ugent
+2561 = MMDLXI = daou vil pemp kant unan ha tri-ugent
+2562 = MMDLXII = daou vil pemp kant daou ha tri-ugent
+2563 = MMDLXIII = daou vil pemp kant tri ha tri-ugent
+2564 = MMDLXIV = daou vil pemp kant pevar ha tri-ugent
+2565 = MMDLXV = daou vil pemp kant pemp ha tri-ugent
+2566 = MMDLXVI = daou vil pemp kant c'hwec'h ha tri-ugent
+2567 = MMDLXVII = daou vil pemp kant seizh ha tri-ugent
+2568 = MMDLXVIII = daou vil pemp kant eizh ha tri-ugent
+2569 = MMDLXIX = daou vil pemp kant nav ha tri-ugent
+2570 = MMDLXX = daou vil pemp kant dek ha tri-ugent
+2571 = MMDLXXI = daou vil pemp kant unnek ha tri-ugent
+2572 = MMDLXXII = daou vil pemp kant daouzek ha tri-ugent
+2573 = MMDLXXIII = daou vil pemp kant trizek ha tri-ugent
+2574 = MMDLXXIV = daou vil pemp kant pevarzek ha tri-ugent
+2575 = MMDLXXV = daou vil pemp kant pemzek ha tri-ugent
+2576 = MMDLXXVI = daou vil pemp kant c'hwezek ha tri-ugent
+2577 = MMDLXXVII = daou vil pemp kant seitek ha tri-ugent
+2578 = MMDLXXVIII = daou vil pemp kant triwec'h ha tri-ugent
+2579 = MMDLXXIX = daou vil pemp kant naontek ha tri-ugent
+2580 = MMDLXXX = daou vil pemp kant pevar-ugent
+2581 = MMDLXXXI = daou vil pemp kant unan ha pevar-ugent
+2582 = MMDLXXXII = daou vil pemp kant daou ha pevar-ugent
+2583 = MMDLXXXIII = daou vil pemp kant tri ha pevar-ugent
+2584 = MMDLXXXIV = daou vil pemp kant pevar ha pevar-ugent
+2585 = MMDLXXXV = daou vil pemp kant pemp ha pevar-ugent
+2586 = MMDLXXXVI = daou vil pemp kant c'hwec'h ha pevar-ugent
+2587 = MMDLXXXVII = daou vil pemp kant seizh ha pevar-ugent
+2588 = MMDLXXXVIII = daou vil pemp kant eizh ha pevar-ugent
+2589 = MMDLXXXIX = daou vil pemp kant nav ha pevar-ugent
+2590 = MMDXC = daou vil pemp kant dek ha pevar-ugent
+2591 = MMDXCI = daou vil pemp kant unnek ha pevar-ugent
+2592 = MMDXCII = daou vil pemp kant daouzek ha pevar-ugent
+2593 = MMDXCIII = daou vil pemp kant trizek ha pevar-ugent
+2594 = MMDXCIV = daou vil pemp kant pevarzek ha pevar-ugent
+2595 = MMDXCV = daou vil pemp kant pemzek ha pevar-ugent
+2596 = MMDXCVI = daou vil pemp kant c'hwezek ha pevar-ugent
+2597 = MMDXCVII = daou vil pemp kant seitek ha pevar-ugent
+2598 = MMDXCVIII = daou vil pemp kant triwec'h ha pevar-ugent
+2599 = MMDXCIX = daou vil pemp kant naontek ha pevar-ugent
+
+2600 = MMDC = daou vil c'hwec'h kant 
+2601 = MMDCI = daou vil c'hwec'h kant unan
+2602 = MMDCII = daou vil c'hwec'h kant daou
+2603 = MMDCIII = daou vil c'hwec'h kant tri
+2604 = MMDCIV = daou vil c'hwec'h kant pevar
+2605 = MMDCV = daou vil c'hwec'h kant pemp
+2606 = MMDCVI = daou vil c'hwec'h kant c'hwec'h
+2607 = MMDCVII = daou vil c'hwec'h kant seizh
+2608 = MMDCVIII = daou vil c'hwec'h kant eizh
+2609 = MMDCIX = daou vil c'hwec'h kant nav
+2610 = MMDCX = daou vil c'hwec'h kant dek
+2611 = MMDCXI = daou vil c'hwec'h kant unnek
+2612 = MMDCXII = daou vil c'hwec'h kant daouzek
+2613 = MMDCXIII = daou vil c'hwec'h kant trizek
+2614 = MMDCXIV = daou vil c'hwec'h kant pevarzek
+2615 = MMDCXV = daou vil c'hwec'h kant pemzek
+2616 = MMDCXVI = daou vil c'hwec'h kant c'hwezek
+2617 = MMDCXVII = daou vil c'hwec'h kant seitek
+2618 = MMDCXVIII = daou vil c'hwec'h kant triwec'h
+2619 = MMDCXIX = daou vil c'hwec'h kant naontek
+2620 = MMDCXX = daou vil c'hwec'h kant ugent
+2621 = MMDCXXI = daou vil c'hwec'h kant unan warn-ugent
+2622 = MMDCXXII = daou vil c'hwec'h kant daou warn-ugent
+2623 = MMDCXXIII = daou vil c'hwec'h kant tri warn-ugent
+2624 = MMDCXXIV = daou vil c'hwec'h kant pevar warn-ugent
+2625 = MMDCXXV = daou vil c'hwec'h kant pemp warn-ugent
+2626 = MMDCXXVI = daou vil c'hwec'h kant c'hwec'h warn-ugent
+2627 = MMDCXXVII = daou vil c'hwec'h kant seizh warn-ugent
+2628 = MMDCXXVIII = daou vil c'hwec'h kant eizh warn-ugent
+2629 = MMDCXXIX = daou vil c'hwec'h kant nav warn-ugent
+2630 = MMDCXXX = daou vil c'hwec'h kant tregont
+2631 = MMDCXXXI = daou vil c'hwec'h kant unan ha tregont
+2632 = MMDCXXXII = daou vil c'hwec'h kant daou ha tregont
+2633 = MMDCXXXIII = daou vil c'hwec'h kant tri ha tregont
+2634 = MMDCXXXIV = daou vil c'hwec'h kant pevar ha tregont
+2635 = MMDCXXXV = daou vil c'hwec'h kant pemp ha tregont
+2636 = MMDCXXXVI = daou vil c'hwec'h kant c'hwec'h ha tregont
+2637 = MMDCXXXVII = daou vil c'hwec'h kant seizh ha tregont
+2638 = MMDCXXXVIII = daou vil c'hwec'h kant eizh ha tregont
+2639 = MMDCXXXIX = daou vil c'hwec'h kant nav ha tregont
+2640 = MMDCXL = daou vil c'hwec'h kant daou-ugent
+2641 = MMDCXLI = daou vil c'hwec'h kant unan ha daou-ugent
+2642 = MMDCXLII = daou vil c'hwec'h kant daou ha daou-ugent
+2643 = MMDCXLIII = daou vil c'hwec'h kant tri ha daou-ugent
+2644 = MMDCXLIV = daou vil c'hwec'h kant pevar ha daou-ugent
+2645 = MMDCXLV = daou vil c'hwec'h kant pemp ha daou-ugent
+2646 = MMDCXLVI = daou vil c'hwec'h kant c'hwec'h ha daou-ugent
+2647 = MMDCXLVII = daou vil c'hwec'h kant seizh ha daou-ugent
+2648 = MMDCXLVIII = daou vil c'hwec'h kant eizh ha daou-ugent
+2649 = MMDCXLIX = daou vil c'hwec'h kant nav ha daou-ugent
+2650 = MMDCL = daou vil c'hwec'h kant hanter-kant
+2651 = MMDCLI = daou vil c'hwec'h kant unan hag hanter-kant
+2652 = MMDCLII = daou vil c'hwec'h kant daou hag hanter-kant
+2653 = MMDCLIII = daou vil c'hwec'h kant tri hag hanter-kant
+2654 = MMDCLIV = daou vil c'hwec'h kant pevar hag hanter-kant
+2655 = MMDCLV = daou vil c'hwec'h kant pemp hag hanter-kant
+2656 = MMDCLVI = daou vil c'hwec'h kant c'hwec'h hag hanter-kant
+2657 = MMDCLVII = daou vil c'hwec'h kant seizh hag hanter-kant
+2658 = MMDCLVIII = daou vil c'hwec'h kant eizh hag hanter-kant
+2659 = MMDCLIX = daou vil c'hwec'h kant nav hag hanter-kant
+2660 = MMDCLX = daou vil c'hwec'h kant tri-ugent
+2661 = MMDCLXI = daou vil c'hwec'h kant unan ha tri-ugent
+2662 = MMDCLXII = daou vil c'hwec'h kant daou ha tri-ugent
+2663 = MMDCLXIII = daou vil c'hwec'h kant tri ha tri-ugent
+2664 = MMDCLXIV = daou vil c'hwec'h kant pevar ha tri-ugent
+2665 = MMDCLXV = daou vil c'hwec'h kant pemp ha tri-ugent
+2666 = MMDCLXVI = daou vil c'hwec'h kant c'hwec'h ha tri-ugent
+2667 = MMDCLXVII = daou vil c'hwec'h kant seizh ha tri-ugent
+2668 = MMDCLXVIII = daou vil c'hwec'h kant eizh ha tri-ugent
+2669 = MMDCLXIX = daou vil c'hwec'h kant nav ha tri-ugent
+2670 = MMDCLXX = daou vil c'hwec'h kant dek ha tri-ugent
+2671 = MMDCLXXI = daou vil c'hwec'h kant unnek ha tri-ugent
+2672 = MMDCLXXII = daou vil c'hwec'h kant daouzek ha tri-ugent
+2673 = MMDCLXXIII = daou vil c'hwec'h kant trizek ha tri-ugent
+2674 = MMDCLXXIV = daou vil c'hwec'h kant pevarzek ha tri-ugent
+2675 = MMDCLXXV = daou vil c'hwec'h kant pemzek ha tri-ugent
+2676 = MMDCLXXVI = daou vil c'hwec'h kant c'hwezek ha tri-ugent
+2677 = MMDCLXXVII = daou vil c'hwec'h kant seitek ha tri-ugent
+2678 = MMDCLXXVIII = daou vil c'hwec'h kant triwec'h ha tri-ugent
+2679 = MMDCLXXIX = daou vil c'hwec'h kant naontek ha tri-ugent
+2680 = MMDCLXXX = daou vil c'hwec'h kant pevar-ugent
+2681 = MMDCLXXXI = daou vil c'hwec'h kant unan ha pevar-ugent
+2682 = MMDCLXXXII = daou vil c'hwec'h kant daou ha pevar-ugent
+2683 = MMDCLXXXIII = daou vil c'hwec'h kant tri ha pevar-ugent
+2684 = MMDCLXXXIV = daou vil c'hwec'h kant pevar ha pevar-ugent
+2685 = MMDCLXXXV = daou vil c'hwec'h kant pemp ha pevar-ugent
+2686 = MMDCLXXXVI = daou vil c'hwec'h kant c'hwec'h ha pevar-ugent
+2687 = MMDCLXXXVII = daou vil c'hwec'h kant seizh ha pevar-ugent
+2688 = MMDCLXXXVIII = daou vil c'hwec'h kant eizh ha pevar-ugent
+2689 = MMDCLXXXIX = daou vil c'hwec'h kant nav ha pevar-ugent
+2690 = MMDCXC = daou vil c'hwec'h kant dek ha pevar-ugent
+2691 = MMDCXCI = daou vil c'hwec'h kant unnek ha pevar-ugent
+2692 = MMDCXCII = daou vil c'hwec'h kant daouzek ha pevar-ugent
+2693 = MMDCXCIII = daou vil c'hwec'h kant trizek ha pevar-ugent
+2694 = MMDCXCIV = daou vil c'hwec'h kant pevarzek ha pevar-ugent
+2695 = MMDCXCV = daou vil c'hwec'h kant pemzek ha pevar-ugent
+2696 = MMDCXCVI = daou vil c'hwec'h kant c'hwezek ha pevar-ugent
+2697 = MMDCXCVII = daou vil c'hwec'h kant seitek ha pevar-ugent
+2698 = MMDCXCVIII = daou vil c'hwec'h kant triwec'h ha pevar-ugent
+2699 = MMDCXCIX = daou vil c'hwec'h kant naontek ha pevar-ugent
+
+2700 = MMDCC = daou vil seizh kant 
+2701 = MMDCCI = daou vil seizh kant unan
+2702 = MMDCCII = daou vil seizh kant daou
+2703 = MMDCCIII = daou vil seizh kant tri
+2704 = MMDCCIV = daou vil seizh kant pevar
+2705 = MMDCCV = daou vil seizh kant pemp
+2706 = MMDCCVI = daou vil seizh kant c'hwec'h
+2707 = MMDCCVII = daou vil seizh kant seizh
+2708 = MMDCCVIII = daou vil seizh kant eizh
+2709 = MMDCCIX = daou vil seizh kant nav
+2710 = MMDCCX = daou vil seizh kant dek
+2711 = MMDCCXI = daou vil seizh kant unnek
+2712 = MMDCCXII = daou vil seizh kant daouzek
+2713 = MMDCCXIII = daou vil seizh kant trizek
+2714 = MMDCCXIV = daou vil seizh kant pevarzek
+2715 = MMDCCXV = daou vil seizh kant pemzek
+2716 = MMDCCXVI = daou vil seizh kant c'hwezek
+2717 = MMDCCXVII = daou vil seizh kant seitek
+2718 = MMDCCXVIII = daou vil seizh kant triwec'h
+2719 = MMDCCXIX = daou vil seizh kant naontek
+2720 = MMDCCXX = daou vil seizh kant ugent
+2721 = MMDCCXXI = daou vil seizh kant unan warn-ugent
+2722 = MMDCCXXII = daou vil seizh kant daou warn-ugent
+2723 = MMDCCXXIII = daou vil seizh kant tri warn-ugent
+2724 = MMDCCXXIV = daou vil seizh kant pevar warn-ugent
+2725 = MMDCCXXV = daou vil seizh kant pemp warn-ugent
+2726 = MMDCCXXVI = daou vil seizh kant c'hwec'h warn-ugent
+2727 = MMDCCXXVII = daou vil seizh kant seizh warn-ugent
+2728 = MMDCCXXVIII = daou vil seizh kant eizh warn-ugent
+2729 = MMDCCXXIX = daou vil seizh kant nav warn-ugent
+2730 = MMDCCXXX = daou vil seizh kant tregont
+2731 = MMDCCXXXI = daou vil seizh kant unan ha tregont
+2732 = MMDCCXXXII = daou vil seizh kant daou ha tregont
+2733 = MMDCCXXXIII = daou vil seizh kant tri ha tregont
+2734 = MMDCCXXXIV = daou vil seizh kant pevar ha tregont
+2735 = MMDCCXXXV = daou vil seizh kant pemp ha tregont
+2736 = MMDCCXXXVI = daou vil seizh kant c'hwec'h ha tregont
+2737 = MMDCCXXXVII = daou vil seizh kant seizh ha tregont
+2738 = MMDCCXXXVIII = daou vil seizh kant eizh ha tregont
+2739 = MMDCCXXXIX = daou vil seizh kant nav ha tregont
+2740 = MMDCCXL = daou vil seizh kant daou-ugent
+2741 = MMDCCXLI = daou vil seizh kant unan ha daou-ugent
+2742 = MMDCCXLII = daou vil seizh kant daou ha daou-ugent
+2743 = MMDCCXLIII = daou vil seizh kant tri ha daou-ugent
+2744 = MMDCCXLIV = daou vil seizh kant pevar ha daou-ugent
+2745 = MMDCCXLV = daou vil seizh kant pemp ha daou-ugent
+2746 = MMDCCXLVI = daou vil seizh kant c'hwec'h ha daou-ugent
+2747 = MMDCCXLVII = daou vil seizh kant seizh ha daou-ugent
+2748 = MMDCCXLVIII = daou vil seizh kant eizh ha daou-ugent
+2749 = MMDCCXLIX = daou vil seizh kant nav ha daou-ugent
+2750 = MMDCCL = daou vil seizh kant hanter-kant
+2751 = MMDCCLI = daou vil seizh kant unan hag hanter-kant
+2752 = MMDCCLII = daou vil seizh kant daou hag hanter-kant
+2753 = MMDCCLIII = daou vil seizh kant tri hag hanter-kant
+2754 = MMDCCLIV = daou vil seizh kant pevar hag hanter-kant
+2755 = MMDCCLV = daou vil seizh kant pemp hag hanter-kant
+2756 = MMDCCLVI = daou vil seizh kant c'hwec'h hag hanter-kant
+2757 = MMDCCLVII = daou vil seizh kant seizh hag hanter-kant
+2758 = MMDCCLVIII = daou vil seizh kant eizh hag hanter-kant
+2759 = MMDCCLIX = daou vil seizh kant nav hag hanter-kant
+2760 = MMDCCLX = daou vil seizh kant tri-ugent
+2761 = MMDCCLXI = daou vil seizh kant unan ha tri-ugent
+2762 = MMDCCLXII = daou vil seizh kant daou ha tri-ugent
+2763 = MMDCCLXIII = daou vil seizh kant tri ha tri-ugent
+2764 = MMDCCLXIV = daou vil seizh kant pevar ha tri-ugent
+2765 = MMDCCLXV = daou vil seizh kant pemp ha tri-ugent
+2766 = MMDCCLXVI = daou vil seizh kant c'hwec'h ha tri-ugent
+2767 = MMDCCLXVII = daou vil seizh kant seizh ha tri-ugent
+2768 = MMDCCLXVIII = daou vil seizh kant eizh ha tri-ugent
+2769 = MMDCCLXIX = daou vil seizh kant nav ha tri-ugent
+2770 = MMDCCLXX = daou vil seizh kant dek ha tri-ugent
+2771 = MMDCCLXXI = daou vil seizh kant unnek ha tri-ugent
+2772 = MMDCCLXXII = daou vil seizh kant daouzek ha tri-ugent
+2773 = MMDCCLXXIII = daou vil seizh kant trizek ha tri-ugent
+2774 = MMDCCLXXIV = daou vil seizh kant pevarzek ha tri-ugent
+2775 = MMDCCLXXV = daou vil seizh kant pemzek ha tri-ugent
+2776 = MMDCCLXXVI = daou vil seizh kant c'hwezek ha tri-ugent
+2777 = MMDCCLXXVII = daou vil seizh kant seitek ha tri-ugent
+2778 = MMDCCLXXVIII = daou vil seizh kant triwec'h ha tri-ugent
+2779 = MMDCCLXXIX = daou vil seizh kant naontek ha tri-ugent
+2780 = MMDCCLXXX = daou vil seizh kant pevar-ugent
+2781 = MMDCCLXXXI = daou vil seizh kant unan ha pevar-ugent
+2782 = MMDCCLXXXII = daou vil seizh kant daou ha pevar-ugent
+2783 = MMDCCLXXXIII = daou vil seizh kant tri ha pevar-ugent
+2784 = MMDCCLXXXIV = daou vil seizh kant pevar ha pevar-ugent
+2785 = MMDCCLXXXV = daou vil seizh kant pemp ha pevar-ugent
+2786 = MMDCCLXXXVI = daou vil seizh kant c'hwec'h ha pevar-ugent
+2787 = MMDCCLXXXVII = daou vil seizh kant seizh ha pevar-ugent
+2788 = MMDCCLXXXVIII = daou vil seizh kant eizh ha pevar-ugent
+2789 = MMDCCLXXXIX = daou vil seizh kant nav ha pevar-ugent
+2790 = MMDCCXC = daou vil seizh kant dek ha pevar-ugent
+2791 = MMDCCXCI = daou vil seizh kant unnek ha pevar-ugent
+2792 = MMDCCXCII = daou vil seizh kant daouzek ha pevar-ugent
+2793 = MMDCCXCIII = daou vil seizh kant trizek ha pevar-ugent
+2794 = MMDCCXCIV = daou vil seizh kant pevarzek ha pevar-ugent
+2795 = MMDCCXCV = daou vil seizh kant pemzek ha pevar-ugent
+2796 = MMDCCXCVI = daou vil seizh kant c'hwezek ha pevar-ugent
+2797 = MMDCCXCVII = daou vil seizh kant seitek ha pevar-ugent
+2798 = MMDCCXCVIII = daou vil seizh kant triwec'h ha pevar-ugent
+2799 = MMDCCXCIX = daou vil seizh kant naontek ha pevar-ugent
+
+2800 = MMDCCC = daou vil eizh kant 
+2801 = MMDCCCI = daou vil eizh kant unan
+2802 = MMDCCCII = daou vil eizh kant daou
+2803 = MMDCCCIII = daou vil eizh kant tri
+2804 = MMDCCCIV = daou vil eizh kant pevar
+2805 = MMDCCCV = daou vil eizh kant pemp
+2806 = MMDCCCVI = daou vil eizh kant c'hwec'h
+2807 = MMDCCCVII = daou vil eizh kant seizh
+2808 = MMDCCCVIII = daou vil eizh kant eizh
+2809 = MMDCCCIX = daou vil eizh kant nav
+2810 = MMDCCCX = daou vil eizh kant dek
+2811 = MMDCCCXI = daou vil eizh kant unnek
+2812 = MMDCCCXII = daou vil eizh kant daouzek
+2813 = MMDCCCXIII = daou vil eizh kant trizek
+2814 = MMDCCCXIV = daou vil eizh kant pevarzek
+2815 = MMDCCCXV = daou vil eizh kant pemzek
+2816 = MMDCCCXVI = daou vil eizh kant c'hwezek
+2817 = MMDCCCXVII = daou vil eizh kant seitek
+2818 = MMDCCCXVIII = daou vil eizh kant triwec'h
+2819 = MMDCCCXIX = daou vil eizh kant naontek
+2820 = MMDCCCXX = daou vil eizh kant ugent
+2821 = MMDCCCXXI = daou vil eizh kant unan warn-ugent
+2822 = MMDCCCXXII = daou vil eizh kant daou warn-ugent
+2823 = MMDCCCXXIII = daou vil eizh kant tri warn-ugent
+2824 = MMDCCCXXIV = daou vil eizh kant pevar warn-ugent
+2825 = MMDCCCXXV = daou vil eizh kant pemp warn-ugent
+2826 = MMDCCCXXVI = daou vil eizh kant c'hwec'h warn-ugent
+2827 = MMDCCCXXVII = daou vil eizh kant seizh warn-ugent
+2828 = MMDCCCXXVIII = daou vil eizh kant eizh warn-ugent
+2829 = MMDCCCXXIX = daou vil eizh kant nav warn-ugent
+2830 = MMDCCCXXX = daou vil eizh kant tregont
+2831 = MMDCCCXXXI = daou vil eizh kant unan ha tregont
+2832 = MMDCCCXXXII = daou vil eizh kant daou ha tregont
+2833 = MMDCCCXXXIII = daou vil eizh kant tri ha tregont
+2834 = MMDCCCXXXIV = daou vil eizh kant pevar ha tregont
+2835 = MMDCCCXXXV = daou vil eizh kant pemp ha tregont
+2836 = MMDCCCXXXVI = daou vil eizh kant c'hwec'h ha tregont
+2837 = MMDCCCXXXVII = daou vil eizh kant seizh ha tregont
+2838 = MMDCCCXXXVIII = daou vil eizh kant eizh ha tregont
+2839 = MMDCCCXXXIX = daou vil eizh kant nav ha tregont
+2840 = MMDCCCXL = daou vil eizh kant daou-ugent
+2841 = MMDCCCXLI = daou vil eizh kant unan ha daou-ugent
+2842 = MMDCCCXLII = daou vil eizh kant daou ha daou-ugent
+2843 = MMDCCCXLIII = daou vil eizh kant tri ha daou-ugent
+2844 = MMDCCCXLIV = daou vil eizh kant pevar ha daou-ugent
+2845 = MMDCCCXLV = daou vil eizh kant pemp ha daou-ugent
+2846 = MMDCCCXLVI = daou vil eizh kant c'hwec'h ha daou-ugent
+2847 = MMDCCCXLVII = daou vil eizh kant seizh ha daou-ugent
+2848 = MMDCCCXLVIII = daou vil eizh kant eizh ha daou-ugent
+2849 = MMDCCCXLIX = daou vil eizh kant nav ha daou-ugent
+2850 = MMDCCCL = daou vil eizh kant hanter-kant
+2851 = MMDCCCLI = daou vil eizh kant unan hag hanter-kant
+2852 = MMDCCCLII = daou vil eizh kant daou hag hanter-kant
+2853 = MMDCCCLIII = daou vil eizh kant tri hag hanter-kant
+2854 = MMDCCCLIV = daou vil eizh kant pevar hag hanter-kant
+2855 = MMDCCCLV = daou vil eizh kant pemp hag hanter-kant
+2856 = MMDCCCLVI = daou vil eizh kant c'hwec'h hag hanter-kant
+2857 = MMDCCCLVII = daou vil eizh kant seizh hag hanter-kant
+2858 = MMDCCCLVIII = daou vil eizh kant eizh hag hanter-kant
+2859 = MMDCCCLIX = daou vil eizh kant nav hag hanter-kant
+2860 = MMDCCCLX = daou vil eizh kant tri-ugent
+2861 = MMDCCCLXI = daou vil eizh kant unan ha tri-ugent
+2862 = MMDCCCLXII = daou vil eizh kant daou ha tri-ugent
+2863 = MMDCCCLXIII = daou vil eizh kant tri ha tri-ugent
+2864 = MMDCCCLXIV = daou vil eizh kant pevar ha tri-ugent
+2865 = MMDCCCLXV = daou vil eizh kant pemp ha tri-ugent
+2866 = MMDCCCLXVI = daou vil eizh kant c'hwec'h ha tri-ugent
+2867 = MMDCCCLXVII = daou vil eizh kant seizh ha tri-ugent
+2868 = MMDCCCLXVIII = daou vil eizh kant eizh ha tri-ugent
+2869 = MMDCCCLXIX = daou vil eizh kant nav ha tri-ugent
+2870 = MMDCCCLXX = daou vil eizh kant dek ha tri-ugent
+2871 = MMDCCCLXXI = daou vil eizh kant unnek ha tri-ugent
+2872 = MMDCCCLXXII = daou vil eizh kant daouzek ha tri-ugent
+2873 = MMDCCCLXXIII = daou vil eizh kant trizek ha tri-ugent
+2874 = MMDCCCLXXIV = daou vil eizh kant pevarzek ha tri-ugent
+2875 = MMDCCCLXXV = daou vil eizh kant pemzek ha tri-ugent
+2876 = MMDCCCLXXVI = daou vil eizh kant c'hwezek ha tri-ugent
+2877 = MMDCCCLXXVII = daou vil eizh kant seitek ha tri-ugent
+2878 = MMDCCCLXXVIII = daou vil eizh kant triwec'h ha tri-ugent
+2879 = MMDCCCLXXIX = daou vil eizh kant naontek ha tri-ugent
+2880 = MMDCCCLXXX = daou vil eizh kant pevar-ugent
+2881 = MMDCCCLXXXI = daou vil eizh kant unan ha pevar-ugent
+2882 = MMDCCCLXXXII = daou vil eizh kant daou ha pevar-ugent
+2883 = MMDCCCLXXXIII = daou vil eizh kant tri ha pevar-ugent
+2884 = MMDCCCLXXXIV = daou vil eizh kant pevar ha pevar-ugent
+2885 = MMDCCCLXXXV = daou vil eizh kant pemp ha pevar-ugent
+2886 = MMDCCCLXXXVI = daou vil eizh kant c'hwec'h ha pevar-ugent
+2887 = MMDCCCLXXXVII = daou vil eizh kant seizh ha pevar-ugent
+2888 = MMDCCCLXXXVIII = daou vil eizh kant eizh ha pevar-ugent
+2889 = MMDCCCLXXXIX = daou vil eizh kant nav ha pevar-ugent
+2890 = MMDCCCXC = daou vil eizh kant dek ha pevar-ugent
+2891 = MMDCCCXCI = daou vil eizh kant unnek ha pevar-ugent
+2892 = MMDCCCXCII = daou vil eizh kant daouzek ha pevar-ugent
+2893 = MMDCCCXCIII = daou vil eizh kant trizek ha pevar-ugent
+2894 = MMDCCCXCIV = daou vil eizh kant pevarzek ha pevar-ugent
+2895 = MMDCCCXCV = daou vil eizh kant pemzek ha pevar-ugent
+2896 = MMDCCCXCVI = daou vil eizh kant c'hwezek ha pevar-ugent
+2897 = MMDCCCXCVII = daou vil eizh kant seitek ha pevar-ugent
+2898 = MMDCCCXCVIII = daou vil eizh kant triwec'h ha pevar-ugent
+2899 = MMDCCCXCIX = daou vil eizh kant naontek ha pevar-ugent
+
+2900 = MMCM = daou vil nav c'hant 
+2901 = MMCMI = daou vil nav c'hant unan
+2902 = MMCMII = daou vil nav c'hant daou
+2903 = MMCMIII = daou vil nav c'hant tri
+2904 = MMCMIV = daou vil nav c'hant pevar
+2905 = MMCMV = daou vil nav c'hant pemp
+2906 = MMCMVI = daou vil nav c'hant c'hwec'h
+2907 = MMCMVII = daou vil nav c'hant seizh
+2908 = MMCMVIII = daou vil nav c'hant eizh
+2909 = MMCMIX = daou vil nav c'hant nav
+2910 = MMCMX = daou vil nav c'hant dek
+2911 = MMCMXI = daou vil nav c'hant unnek
+2912 = MMCMXII = daou vil nav c'hant daouzek
+2913 = MMCMXIII = daou vil nav c'hant trizek
+2914 = MMCMXIV = daou vil nav c'hant pevarzek
+2915 = MMCMXV = daou vil nav c'hant pemzek
+2916 = MMCMXVI = daou vil nav c'hant c'hwezek
+2917 = MMCMXVII = daou vil nav c'hant seitek
+2918 = MMCMXVIII = daou vil nav c'hant triwec'h
+2919 = MMCMXIX = daou vil nav c'hant naontek
+2920 = MMCMXX = daou vil nav c'hant ugent
+2921 = MMCMXXI = daou vil nav c'hant unan warn-ugent
+2922 = MMCMXXII = daou vil nav c'hant daou warn-ugent
+2923 = MMCMXXIII = daou vil nav c'hant tri warn-ugent
+2924 = MMCMXXIV = daou vil nav c'hant pevar warn-ugent
+2925 = MMCMXXV = daou vil nav c'hant pemp warn-ugent
+2926 = MMCMXXVI = daou vil nav c'hant c'hwec'h warn-ugent
+2927 = MMCMXXVII = daou vil nav c'hant seizh warn-ugent
+2928 = MMCMXXVIII = daou vil nav c'hant eizh warn-ugent
+2929 = MMCMXXIX = daou vil nav c'hant nav warn-ugent
+2930 = MMCMXXX = daou vil nav c'hant tregont
+2931 = MMCMXXXI = daou vil nav c'hant unan ha tregont
+2932 = MMCMXXXII = daou vil nav c'hant daou ha tregont
+2933 = MMCMXXXIII = daou vil nav c'hant tri ha tregont
+2934 = MMCMXXXIV = daou vil nav c'hant pevar ha tregont
+2935 = MMCMXXXV = daou vil nav c'hant pemp ha tregont
+2936 = MMCMXXXVI = daou vil nav c'hant c'hwec'h ha tregont
+2937 = MMCMXXXVII = daou vil nav c'hant seizh ha tregont
+2938 = MMCMXXXVIII = daou vil nav c'hant eizh ha tregont
+2939 = MMCMXXXIX = daou vil nav c'hant nav ha tregont
+2940 = MMCMXL = daou vil nav c'hant daou-ugent
+2941 = MMCMXLI = daou vil nav c'hant unan ha daou-ugent
+2942 = MMCMXLII = daou vil nav c'hant daou ha daou-ugent
+2943 = MMCMXLIII = daou vil nav c'hant tri ha daou-ugent
+2944 = MMCMXLIV = daou vil nav c'hant pevar ha daou-ugent
+2945 = MMCMXLV = daou vil nav c'hant pemp ha daou-ugent
+2946 = MMCMXLVI = daou vil nav c'hant c'hwec'h ha daou-ugent
+2947 = MMCMXLVII = daou vil nav c'hant seizh ha daou-ugent
+2948 = MMCMXLVIII = daou vil nav c'hant eizh ha daou-ugent
+2949 = MMCMXLIX = daou vil nav c'hant nav ha daou-ugent
+2950 = MMCML = daou vil nav c'hant hanter-kant
+2951 = MMCMLI = daou vil nav c'hant unan hag hanter-kant
+2952 = MMCMLII = daou vil nav c'hant daou hag hanter-kant
+2953 = MMCMLIII = daou vil nav c'hant tri hag hanter-kant
+2954 = MMCMLIV = daou vil nav c'hant pevar hag hanter-kant
+2955 = MMCMLV = daou vil nav c'hant pemp hag hanter-kant
+2956 = MMCMLVI = daou vil nav c'hant c'hwec'h hag hanter-kant
+2957 = MMCMLVII = daou vil nav c'hant seizh hag hanter-kant
+2958 = MMCMLVIII = daou vil nav c'hant eizh hag hanter-kant
+2959 = MMCMLIX = daou vil nav c'hant nav hag hanter-kant
+2960 = MMCMLX = daou vil nav c'hant tri-ugent
+2961 = MMCMLXI = daou vil nav c'hant unan ha tri-ugent
+2962 = MMCMLXII = daou vil nav c'hant daou ha tri-ugent
+2963 = MMCMLXIII = daou vil nav c'hant tri ha tri-ugent
+2964 = MMCMLXIV = daou vil nav c'hant pevar ha tri-ugent
+2965 = MMCMLXV = daou vil nav c'hant pemp ha tri-ugent
+2966 = MMCMLXVI = daou vil nav c'hant c'hwec'h ha tri-ugent
+2967 = MMCMLXVII = daou vil nav c'hant seizh ha tri-ugent
+2968 = MMCMLXVIII = daou vil nav c'hant eizh ha tri-ugent
+2969 = MMCMLXIX = daou vil nav c'hant nav ha tri-ugent
+2970 = MMCMLXX = daou vil nav c'hant dek ha tri-ugent
+2971 = MMCMLXXI = daou vil nav c'hant unnek ha tri-ugent
+2972 = MMCMLXXII = daou vil nav c'hant daouzek ha tri-ugent
+2973 = MMCMLXXIII = daou vil nav c'hant trizek ha tri-ugent
+2974 = MMCMLXXIV = daou vil nav c'hant pevarzek ha tri-ugent
+2975 = MMCMLXXV = daou vil nav c'hant pemzek ha tri-ugent
+2976 = MMCMLXXVI = daou vil nav c'hant c'hwezek ha tri-ugent
+2977 = MMCMLXXVII = daou vil nav c'hant seitek ha tri-ugent
+2978 = MMCMLXXVIII = daou vil nav c'hant triwec'h ha tri-ugent
+2979 = MMCMLXXIX = daou vil nav c'hant naontek ha tri-ugent
+2980 = MMCMLXXX = daou vil nav c'hant pevar-ugent
+2981 = MMCMLXXXI = daou vil nav c'hant unan ha pevar-ugent
+2982 = MMCMLXXXII = daou vil nav c'hant daou ha pevar-ugent
+2983 = MMCMLXXXIII = daou vil nav c'hant tri ha pevar-ugent
+2984 = MMCMLXXXIV = daou vil nav c'hant pevar ha pevar-ugent
+2985 = MMCMLXXXV = daou vil nav c'hant pemp ha pevar-ugent
+2986 = MMCMLXXXVI = daou vil nav c'hant c'hwec'h ha pevar-ugent
+2987 = MMCMLXXXVII = daou vil nav c'hant seizh ha pevar-ugent
+2988 = MMCMLXXXVIII = daou vil nav c'hant eizh ha pevar-ugent
+2989 = MMCMLXXXIX = daou vil nav c'hant nav ha pevar-ugent
+2990 = MMCMXC = daou vil nav c'hant dek ha pevar-ugent
+2991 = MMCMXCI = daou vil nav c'hant unnek ha pevar-ugent
+2992 = MMCMXCII = daou vil nav c'hant daouzek ha pevar-ugent
+2993 = MMCMXCIII = daou vil nav c'hant trizek ha pevar-ugent
+2994 = MMCMXCIV = daou vil nav c'hant pevarzek ha pevar-ugent
+2995 = MMCMXCV = daou vil nav c'hant pemzek ha pevar-ugent
+2996 = MMCMXCVI = daou vil nav c'hant c'hwezek ha pevar-ugent
+2997 = MMCMXCVII = daou vil nav c'hant seitek ha pevar-ugent
+2998 = MMCMXCVIII = daou vil nav c'hant triwec'h ha pevar-ugent
+2999 = MMCMXCIX = daou vil nav c'hant naontek ha pevar-ugent
+
+3000 = MMM = tri mil
+3001 = MMMI = tri mil unan
+3002 = MMMII = tri mil daou
+3003 = MMMIII = tri mil tri
+3004 = MMMIV = tri mil pevar
+3005 = MMMV = tri mil pemp
+3006 = MMMVI = tri mil c'hwec'h
+3007 = MMMVII = tri mil seizh
+3008 = MMMVIII = tri mil eizh
+3009 = MMMIX = tri mil nav
+3010 = MMMX = tri mil dek
+3011 = MMMXI = tri mil unnek
+3012 = MMMXII = tri mil daouzek
+3013 = MMMXIII = tri mil trizek
+3014 = MMMXIV = tri mil pevarzek
+3015 = MMMXV = tri mil pemzek
+3016 = MMMXVI = tri mil c'hwezek
+3017 = MMMXVII = tri mil seitek
+3018 = MMMXVIII = tri mil triwec'h
+3019 = MMMXIX = tri mil naontek
+3020 = MMMXX = tri mil ugent
+3021 = MMMXXI = tri mil unan warn-ugent
+3022 = MMMXXII = tri mil daou warn-ugent
+3023 = MMMXXIII = tri mil tri warn-ugent
+3024 = MMMXXIV = tri mil pevar warn-ugent
+3025 = MMMXXV = tri mil pemp warn-ugent
+3026 = MMMXXVI = tri mil c'hwec'h warn-ugent
+3027 = MMMXXVII = tri mil seizh warn-ugent
+3028 = MMMXXVIII = tri mil eizh warn-ugent
+3029 = MMMXXIX = tri mil nav warn-ugent
+3030 = MMMXXX = tri mil tregont
+3031 = MMMXXXI = tri mil unan ha tregont
+3032 = MMMXXXII = tri mil daou ha tregont
+3033 = MMMXXXIII = tri mil tri ha tregont
+3034 = MMMXXXIV = tri mil pevar ha tregont
+3035 = MMMXXXV = tri mil pemp ha tregont
+3036 = MMMXXXVI = tri mil c'hwec'h ha tregont
+3037 = MMMXXXVII = tri mil seizh ha tregont
+3038 = MMMXXXVIII = tri mil eizh ha tregont
+3039 = MMMXXXIX = tri mil nav ha tregont
+3040 = MMMXL = tri mil daou-ugent
+3041 = MMMXLI = tri mil unan ha daou-ugent
+3042 = MMMXLII = tri mil daou ha daou-ugent
+3043 = MMMXLIII = tri mil tri ha daou-ugent
+3044 = MMMXLIV = tri mil pevar ha daou-ugent
+3045 = MMMXLV = tri mil pemp ha daou-ugent
+3046 = MMMXLVI = tri mil c'hwec'h ha daou-ugent
+3047 = MMMXLVII = tri mil seizh ha daou-ugent
+3048 = MMMXLVIII = tri mil eizh ha daou-ugent
+3049 = MMMXLIX = tri mil nav ha daou-ugent
+3050 = MMML = tri mil hanter-kant
+3051 = MMMLI = tri mil unan hag hanter-kant
+3052 = MMMLII = tri mil daou hag hanter-kant
+3053 = MMMLIII = tri mil tri hag hanter-kant
+3054 = MMMLIV = tri mil pevar hag hanter-kant
+3055 = MMMLV = tri mil pemp hag hanter-kant
+3056 = MMMLVI = tri mil c'hwec'h hag hanter-kant
+3057 = MMMLVII = tri mil seizh hag hanter-kant
+3058 = MMMLVIII = tri mil eizh hag hanter-kant
+3059 = MMMLIX = tri mil nav hag hanter-kant
+3060 = MMMLX = tri mil tri-ugent
+3061 = MMMLXI = tri mil unan ha tri-ugent
+3062 = MMMLXII = tri mil daou ha tri-ugent
+3063 = MMMLXIII = tri mil tri ha tri-ugent
+3064 = MMMLXIV = tri mil pevar ha tri-ugent
+3065 = MMMLXV = tri mil pemp ha tri-ugent
+3066 = MMMLXVI = tri mil c'hwec'h ha tri-ugent
+3067 = MMMLXVII = tri mil seizh ha tri-ugent
+3068 = MMMLXVIII = tri mil eizh ha tri-ugent
+3069 = MMMLXIX = tri mil nav ha tri-ugent
+3070 = MMMLXX = tri mil dek ha tri-ugent
+3071 = MMMLXXI = tri mil unnek ha tri-ugent
+3072 = MMMLXXII = tri mil daouzek ha tri-ugent
+3073 = MMMLXXIII = tri mil trizek ha tri-ugent
+3074 = MMMLXXIV = tri mil pevarzek ha tri-ugent
+3075 = MMMLXXV = tri mil pemzek ha tri-ugent
+3076 = MMMLXXVI = tri mil c'hwezek ha tri-ugent
+3077 = MMMLXXVII = tri mil seitek ha tri-ugent
+3078 = MMMLXXVIII = tri mil triwec'h ha tri-ugent
+3079 = MMMLXXIX = tri mil naontek ha tri-ugent
+3080 = MMMLXXX = tri mil pevar-ugent
+3081 = MMMLXXXI = tri mil unan ha pevar-ugent
+3082 = MMMLXXXII = tri mil daou ha pevar-ugent
+3083 = MMMLXXXIII = tri mil tri ha pevar-ugent
+3084 = MMMLXXXIV = tri mil pevar ha pevar-ugent
+3085 = MMMLXXXV = tri mil pemp ha pevar-ugent
+3086 = MMMLXXXVI = tri mil c'hwec'h ha pevar-ugent
+3087 = MMMLXXXVII = tri mil seizh ha pevar-ugent
+3088 = MMMLXXXVIII = tri mil eizh ha pevar-ugent
+3089 = MMMLXXXIX = tri mil nav ha pevar-ugent
+3090 = MMMXC = tri mil dek ha pevar-ugent
+3091 = MMMXCI = tri mil unnek ha pevar-ugent
+3092 = MMMXCII = tri mil daouzek ha pevar-ugent
+3093 = MMMXCIII = tri mil trizek ha pevar-ugent
+3094 = MMMXCIV = tri mil pevarzek ha pevar-ugent
+3095 = MMMXCV = tri mil pemzek ha pevar-ugent
+3096 = MMMXCVI = tri mil c'hwezek ha pevar-ugent
+3097 = MMMXCVII = tri mil seitek ha pevar-ugent
+3098 = MMMXCVIII = tri mil triwec'h ha pevar-ugent
+3099 = MMMXCIX = tri mil naontek ha pevar-ugent
+
+3100 = MMMC = tri mil kant
+3101 = MMMCI = tri mil kant unan
+3102 = MMMCII = tri mil kant daou
+3103 = MMMCIII = tri mil kant tri
+3104 = MMMCIV = tri mil kant pevar
+3105 = MMMCV = tri mil kant pemp
+3106 = MMMCVI = tri mil kant c'hwec'h
+3107 = MMMCVII = tri mil kant seizh
+3108 = MMMCVIII = tri mil kant eizh
+3109 = MMMCIX = tri mil kant nav
+3110 = MMMCX = tri mil kant dek
+3111 = MMMCXI = tri mil kant unnek
+3112 = MMMCXII = tri mil kant daouzek
+3113 = MMMCXIII = tri mil kant trizek
+3114 = MMMCXIV = tri mil kant pevarzek
+3115 = MMMCXV = tri mil kant pemzek
+3116 = MMMCXVI = tri mil kant c'hwezek
+3117 = MMMCXVII = tri mil kant seitek
+3118 = MMMCXVIII = tri mil kant triwec'h
+3119 = MMMCXIX = tri mil kant naontek
+3120 = MMMCXX = tri mil kant ugent
+3121 = MMMCXXI = tri mil kant unan warn-ugent
+3122 = MMMCXXII = tri mil kant daou warn-ugent
+3123 = MMMCXXIII = tri mil kant tri warn-ugent
+3124 = MMMCXXIV = tri mil kant pevar warn-ugent
+3125 = MMMCXXV = tri mil kant pemp warn-ugent
+3126 = MMMCXXVI = tri mil kant c'hwec'h warn-ugent
+3127 = MMMCXXVII = tri mil kant seizh warn-ugent
+3128 = MMMCXXVIII = tri mil kant eizh warn-ugent
+3129 = MMMCXXIX = tri mil kant nav warn-ugent
+3130 = MMMCXXX = tri mil kant tregont
+3131 = MMMCXXXI = tri mil kant unan ha tregont
+3132 = MMMCXXXII = tri mil kant daou ha tregont
+3133 = MMMCXXXIII = tri mil kant tri ha tregont
+3134 = MMMCXXXIV = tri mil kant pevar ha tregont
+3135 = MMMCXXXV = tri mil kant pemp ha tregont
+3136 = MMMCXXXVI = tri mil kant c'hwec'h ha tregont
+3137 = MMMCXXXVII = tri mil kant seizh ha tregont
+3138 = MMMCXXXVIII = tri mil kant eizh ha tregont
+3139 = MMMCXXXIX = tri mil kant nav ha tregont
+3140 = MMMCXL = tri mil kant daou-ugent
+3141 = MMMCXLI = tri mil kant unan ha daou-ugent
+3142 = MMMCXLII = tri mil kant daou ha daou-ugent
+3143 = MMMCXLIII = tri mil kant tri ha daou-ugent
+3144 = MMMCXLIV = tri mil kant pevar ha daou-ugent
+3145 = MMMCXLV = tri mil kant pemp ha daou-ugent
+3146 = MMMCXLVI = tri mil kant c'hwec'h ha daou-ugent
+3147 = MMMCXLVII = tri mil kant seizh ha daou-ugent
+3148 = MMMCXLVIII = tri mil kant eizh ha daou-ugent
+3149 = MMMCXLIX = tri mil kant nav ha daou-ugent
+3150 = MMMCL = tri mil kant hanter-kant
+3151 = MMMCLI = tri mil kant unan hag hanter-kant
+3152 = MMMCLII = tri mil kant daou hag hanter-kant
+3153 = MMMCLIII = tri mil kant tri hag hanter-kant
+3154 = MMMCLIV = tri mil kant pevar hag hanter-kant
+3155 = MMMCLV = tri mil kant pemp hag hanter-kant
+3156 = MMMCLVI = tri mil kant c'hwec'h hag hanter-kant
+3157 = MMMCLVII = tri mil kant seizh hag hanter-kant
+3158 = MMMCLVIII = tri mil kant eizh hag hanter-kant
+3159 = MMMCLIX = tri mil kant nav hag hanter-kant
+3160 = MMMCLX = tri mil kant tri-ugent
+3161 = MMMCLXI = tri mil kant unan ha tri-ugent
+3162 = MMMCLXII = tri mil kant daou ha tri-ugent
+3163 = MMMCLXIII = tri mil kant tri ha tri-ugent
+3164 = MMMCLXIV = tri mil kant pevar ha tri-ugent
+3165 = MMMCLXV = tri mil kant pemp ha tri-ugent
+3166 = MMMCLXVI = tri mil kant c'hwec'h ha tri-ugent
+3167 = MMMCLXVII = tri mil kant seizh ha tri-ugent
+3168 = MMMCLXVIII = tri mil kant eizh ha tri-ugent
+3169 = MMMCLXIX = tri mil kant nav ha tri-ugent
+3170 = MMMCLXX = tri mil kant dek ha tri-ugent
+3171 = MMMCLXXI = tri mil kant unnek ha tri-ugent
+3172 = MMMCLXXII = tri mil kant daouzek ha tri-ugent
+3173 = MMMCLXXIII = tri mil kant trizek ha tri-ugent
+3174 = MMMCLXXIV = tri mil kant pevarzek ha tri-ugent
+3175 = MMMCLXXV = tri mil kant pemzek ha tri-ugent
+3176 = MMMCLXXVI = tri mil kant c'hwezek ha tri-ugent
+3177 = MMMCLXXVII = tri mil kant seitek ha tri-ugent
+3178 = MMMCLXXVIII = tri mil kant triwec'h ha tri-ugent
+3179 = MMMCLXXIX = tri mil kant naontek ha tri-ugent
+3180 = MMMCLXXX = tri mil kant pevar-ugent
+3181 = MMMCLXXXI = tri mil kant unan ha pevar-ugent
+3182 = MMMCLXXXII = tri mil kant daou ha pevar-ugent
+3183 = MMMCLXXXIII = tri mil kant tri ha pevar-ugent
+3184 = MMMCLXXXIV = tri mil kant pevar ha pevar-ugent
+3185 = MMMCLXXXV = tri mil kant pemp ha pevar-ugent
+3186 = MMMCLXXXVI = tri mil kant c'hwec'h ha pevar-ugent
+3187 = MMMCLXXXVII = tri mil kant seizh ha pevar-ugent
+3188 = MMMCLXXXVIII = tri mil kant eizh ha pevar-ugent
+3189 = MMMCLXXXIX = tri mil kant nav ha pevar-ugent
+3190 = MMMCXC = tri mil kant dek ha pevar-ugent
+3191 = MMMCXCI = tri mil kant unnek ha pevar-ugent
+3192 = MMMCXCII = tri mil kant daouzek ha pevar-ugent
+3193 = MMMCXCIII = tri mil kant trizek ha pevar-ugent
+3194 = MMMCXCIV = tri mil kant pevarzek ha pevar-ugent
+3195 = MMMCXCV = tri mil kant pemzek ha pevar-ugent
+3196 = MMMCXCVI = tri mil kant c'hwezek ha pevar-ugent
+3197 = MMMCXCVII = tri mil kant seitek ha pevar-ugent
+3198 = MMMCXCVIII = tri mil kant triwec'h ha pevar-ugent
+3199 = MMMCXCIX = tri mil kant naontek ha pevar-ugent
+
+3200 = MMMCC = tri mil daou c'hant 
+3201 = MMMCCI = tri mil daou c'hant unan
+3202 = MMMCCII = tri mil daou c'hant daou
+3203 = MMMCCIII = tri mil daou c'hant tri
+3204 = MMMCCIV = tri mil daou c'hant pevar
+3205 = MMMCCV = tri mil daou c'hant pemp
+3206 = MMMCCVI = tri mil daou c'hant c'hwec'h
+3207 = MMMCCVII = tri mil daou c'hant seizh
+3208 = MMMCCVIII = tri mil daou c'hant eizh
+3209 = MMMCCIX = tri mil daou c'hant nav
+3210 = MMMCCX = tri mil daou c'hant dek
+3211 = MMMCCXI = tri mil daou c'hant unnek
+3212 = MMMCCXII = tri mil daou c'hant daouzek
+3213 = MMMCCXIII = tri mil daou c'hant trizek
+3214 = MMMCCXIV = tri mil daou c'hant pevarzek
+3215 = MMMCCXV = tri mil daou c'hant pemzek
+3216 = MMMCCXVI = tri mil daou c'hant c'hwezek
+3217 = MMMCCXVII = tri mil daou c'hant seitek
+3218 = MMMCCXVIII = tri mil daou c'hant triwec'h
+3219 = MMMCCXIX = tri mil daou c'hant naontek
+3220 = MMMCCXX = tri mil daou c'hant ugent
+3221 = MMMCCXXI = tri mil daou c'hant unan warn-ugent
+3222 = MMMCCXXII = tri mil daou c'hant daou warn-ugent
+3223 = MMMCCXXIII = tri mil daou c'hant tri warn-ugent
+3224 = MMMCCXXIV = tri mil daou c'hant pevar warn-ugent
+3225 = MMMCCXXV = tri mil daou c'hant pemp warn-ugent
+3226 = MMMCCXXVI = tri mil daou c'hant c'hwec'h warn-ugent
+3227 = MMMCCXXVII = tri mil daou c'hant seizh warn-ugent
+3228 = MMMCCXXVIII = tri mil daou c'hant eizh warn-ugent
+3229 = MMMCCXXIX = tri mil daou c'hant nav warn-ugent
+3230 = MMMCCXXX = tri mil daou c'hant tregont
+3231 = MMMCCXXXI = tri mil daou c'hant unan ha tregont
+3232 = MMMCCXXXII = tri mil daou c'hant daou ha tregont
+3233 = MMMCCXXXIII = tri mil daou c'hant tri ha tregont
+3234 = MMMCCXXXIV = tri mil daou c'hant pevar ha tregont
+3235 = MMMCCXXXV = tri mil daou c'hant pemp ha tregont
+3236 = MMMCCXXXVI = tri mil daou c'hant c'hwec'h ha tregont
+3237 = MMMCCXXXVII = tri mil daou c'hant seizh ha tregont
+3238 = MMMCCXXXVIII = tri mil daou c'hant eizh ha tregont
+3239 = MMMCCXXXIX = tri mil daou c'hant nav ha tregont
+3240 = MMMCCXL = tri mil daou c'hant daou-ugent
+3241 = MMMCCXLI = tri mil daou c'hant unan ha daou-ugent
+3242 = MMMCCXLII = tri mil daou c'hant daou ha daou-ugent
+3243 = MMMCCXLIII = tri mil daou c'hant tri ha daou-ugent
+3244 = MMMCCXLIV = tri mil daou c'hant pevar ha daou-ugent
+3245 = MMMCCXLV = tri mil daou c'hant pemp ha daou-ugent
+3246 = MMMCCXLVI = tri mil daou c'hant c'hwec'h ha daou-ugent
+3247 = MMMCCXLVII = tri mil daou c'hant seizh ha daou-ugent
+3248 = MMMCCXLVIII = tri mil daou c'hant eizh ha daou-ugent
+3249 = MMMCCXLIX = tri mil daou c'hant nav ha daou-ugent
+3250 = MMMCCL = tri mil daou c'hant hanter-kant
+3251 = MMMCCLI = tri mil daou c'hant unan hag hanter-kant
+3252 = MMMCCLII = tri mil daou c'hant daou hag hanter-kant
+3253 = MMMCCLIII = tri mil daou c'hant tri hag hanter-kant
+3254 = MMMCCLIV = tri mil daou c'hant pevar hag hanter-kant
+3255 = MMMCCLV = tri mil daou c'hant pemp hag hanter-kant
+3256 = MMMCCLVI = tri mil daou c'hant c'hwec'h hag hanter-kant
+3257 = MMMCCLVII = tri mil daou c'hant seizh hag hanter-kant
+3258 = MMMCCLVIII = tri mil daou c'hant eizh hag hanter-kant
+3259 = MMMCCLIX = tri mil daou c'hant nav hag hanter-kant
+3260 = MMMCCLX = tri mil daou c'hant tri-ugent
+3261 = MMMCCLXI = tri mil daou c'hant unan ha tri-ugent
+3262 = MMMCCLXII = tri mil daou c'hant daou ha tri-ugent
+3263 = MMMCCLXIII = tri mil daou c'hant tri ha tri-ugent
+3264 = MMMCCLXIV = tri mil daou c'hant pevar ha tri-ugent
+3265 = MMMCCLXV = tri mil daou c'hant pemp ha tri-ugent
+3266 = MMMCCLXVI = tri mil daou c'hant c'hwec'h ha tri-ugent
+3267 = MMMCCLXVII = tri mil daou c'hant seizh ha tri-ugent
+3268 = MMMCCLXVIII = tri mil daou c'hant eizh ha tri-ugent
+3269 = MMMCCLXIX = tri mil daou c'hant nav ha tri-ugent
+3270 = MMMCCLXX = tri mil daou c'hant dek ha tri-ugent
+3271 = MMMCCLXXI = tri mil daou c'hant unnek ha tri-ugent
+3272 = MMMCCLXXII = tri mil daou c'hant daouzek ha tri-ugent
+3273 = MMMCCLXXIII = tri mil daou c'hant trizek ha tri-ugent
+3274 = MMMCCLXXIV = tri mil daou c'hant pevarzek ha tri-ugent
+3275 = MMMCCLXXV = tri mil daou c'hant pemzek ha tri-ugent
+3276 = MMMCCLXXVI = tri mil daou c'hant c'hwezek ha tri-ugent
+3277 = MMMCCLXXVII = tri mil daou c'hant seitek ha tri-ugent
+3278 = MMMCCLXXVIII = tri mil daou c'hant triwec'h ha tri-ugent
+3279 = MMMCCLXXIX = tri mil daou c'hant naontek ha tri-ugent
+3280 = MMMCCLXXX = tri mil daou c'hant pevar-ugent
+3281 = MMMCCLXXXI = tri mil daou c'hant unan ha pevar-ugent
+3282 = MMMCCLXXXII = tri mil daou c'hant daou ha pevar-ugent
+3283 = MMMCCLXXXIII = tri mil daou c'hant tri ha pevar-ugent
+3284 = MMMCCLXXXIV = tri mil daou c'hant pevar ha pevar-ugent
+3285 = MMMCCLXXXV = tri mil daou c'hant pemp ha pevar-ugent
+3286 = MMMCCLXXXVI = tri mil daou c'hant c'hwec'h ha pevar-ugent
+3287 = MMMCCLXXXVII = tri mil daou c'hant seizh ha pevar-ugent
+3288 = MMMCCLXXXVIII = tri mil daou c'hant eizh ha pevar-ugent
+3289 = MMMCCLXXXIX = tri mil daou c'hant nav ha pevar-ugent
+3290 = MMMCCXC = tri mil daou c'hant dek ha pevar-ugent
+3291 = MMMCCXCI = tri mil daou c'hant unnek ha pevar-ugent
+3292 = MMMCCXCII = tri mil daou c'hant daouzek ha pevar-ugent
+3293 = MMMCCXCIII = tri mil daou c'hant trizek ha pevar-ugent
+3294 = MMMCCXCIV = tri mil daou c'hant pevarzek ha pevar-ugent
+3295 = MMMCCXCV = tri mil daou c'hant pemzek ha pevar-ugent
+3296 = MMMCCXCVI = tri mil daou c'hant c'hwezek ha pevar-ugent
+3297 = MMMCCXCVII = tri mil daou c'hant seitek ha pevar-ugent
+3298 = MMMCCXCVIII = tri mil daou c'hant triwec'h ha pevar-ugent
+3299 = MMMCCXCIX = tri mil daou c'hant naontek ha pevar-ugent
+
+3300 = MMMCCC = tri mil tri c'hant 
+3301 = MMMCCCI = tri mil tri c'hant unan
+3302 = MMMCCCII = tri mil tri c'hant daou
+3303 = MMMCCCIII = tri mil tri c'hant tri
+3304 = MMMCCCIV = tri mil tri c'hant pevar
+3305 = MMMCCCV = tri mil tri c'hant pemp
+3306 = MMMCCCVI = tri mil tri c'hant c'hwec'h
+3307 = MMMCCCVII = tri mil tri c'hant seizh
+3308 = MMMCCCVIII = tri mil tri c'hant eizh
+3309 = MMMCCCIX = tri mil tri c'hant nav
+3310 = MMMCCCX = tri mil tri c'hant dek
+3311 = MMMCCCXI = tri mil tri c'hant unnek
+3312 = MMMCCCXII = tri mil tri c'hant daouzek
+3313 = MMMCCCXIII = tri mil tri c'hant trizek
+3314 = MMMCCCXIV = tri mil tri c'hant pevarzek
+3315 = MMMCCCXV = tri mil tri c'hant pemzek
+3316 = MMMCCCXVI = tri mil tri c'hant c'hwezek
+3317 = MMMCCCXVII = tri mil tri c'hant seitek
+3318 = MMMCCCXVIII = tri mil tri c'hant triwec'h
+3319 = MMMCCCXIX = tri mil tri c'hant naontek
+3320 = MMMCCCXX = tri mil tri c'hant ugent
+3321 = MMMCCCXXI = tri mil tri c'hant unan warn-ugent
+3322 = MMMCCCXXII = tri mil tri c'hant daou warn-ugent
+3323 = MMMCCCXXIII = tri mil tri c'hant tri warn-ugent
+3324 = MMMCCCXXIV = tri mil tri c'hant pevar warn-ugent
+3325 = MMMCCCXXV = tri mil tri c'hant pemp warn-ugent
+3326 = MMMCCCXXVI = tri mil tri c'hant c'hwec'h warn-ugent
+3327 = MMMCCCXXVII = tri mil tri c'hant seizh warn-ugent
+3328 = MMMCCCXXVIII = tri mil tri c'hant eizh warn-ugent
+3329 = MMMCCCXXIX = tri mil tri c'hant nav warn-ugent
+3330 = MMMCCCXXX = tri mil tri c'hant tregont
+3331 = MMMCCCXXXI = tri mil tri c'hant unan ha tregont
+3332 = MMMCCCXXXII = tri mil tri c'hant daou ha tregont
+3333 = MMMCCCXXXIII = tri mil tri c'hant tri ha tregont
+3334 = MMMCCCXXXIV = tri mil tri c'hant pevar ha tregont
+3335 = MMMCCCXXXV = tri mil tri c'hant pemp ha tregont
+3336 = MMMCCCXXXVI = tri mil tri c'hant c'hwec'h ha tregont
+3337 = MMMCCCXXXVII = tri mil tri c'hant seizh ha tregont
+3338 = MMMCCCXXXVIII = tri mil tri c'hant eizh ha tregont
+3339 = MMMCCCXXXIX = tri mil tri c'hant nav ha tregont
+3340 = MMMCCCXL = tri mil tri c'hant daou-ugent
+3341 = MMMCCCXLI = tri mil tri c'hant unan ha daou-ugent
+3342 = MMMCCCXLII = tri mil tri c'hant daou ha daou-ugent
+3343 = MMMCCCXLIII = tri mil tri c'hant tri ha daou-ugent
+3344 = MMMCCCXLIV = tri mil tri c'hant pevar ha daou-ugent
+3345 = MMMCCCXLV = tri mil tri c'hant pemp ha daou-ugent
+3346 = MMMCCCXLVI = tri mil tri c'hant c'hwec'h ha daou-ugent
+3347 = MMMCCCXLVII = tri mil tri c'hant seizh ha daou-ugent
+3348 = MMMCCCXLVIII = tri mil tri c'hant eizh ha daou-ugent
+3349 = MMMCCCXLIX = tri mil tri c'hant nav ha daou-ugent
+3350 = MMMCCCL = tri mil tri c'hant hanter-kant
+3351 = MMMCCCLI = tri mil tri c'hant unan hag hanter-kant
+3352 = MMMCCCLII = tri mil tri c'hant daou hag hanter-kant
+3353 = MMMCCCLIII = tri mil tri c'hant tri hag hanter-kant
+3354 = MMMCCCLIV = tri mil tri c'hant pevar hag hanter-kant
+3355 = MMMCCCLV = tri mil tri c'hant pemp hag hanter-kant
+3356 = MMMCCCLVI = tri mil tri c'hant c'hwec'h hag hanter-kant
+3357 = MMMCCCLVII = tri mil tri c'hant seizh hag hanter-kant
+3358 = MMMCCCLVIII = tri mil tri c'hant eizh hag hanter-kant
+3359 = MMMCCCLIX = tri mil tri c'hant nav hag hanter-kant
+3360 = MMMCCCLX = tri mil tri c'hant tri-ugent
+3361 = MMMCCCLXI = tri mil tri c'hant unan ha tri-ugent
+3362 = MMMCCCLXII = tri mil tri c'hant daou ha tri-ugent
+3363 = MMMCCCLXIII = tri mil tri c'hant tri ha tri-ugent
+3364 = MMMCCCLXIV = tri mil tri c'hant pevar ha tri-ugent
+3365 = MMMCCCLXV = tri mil tri c'hant pemp ha tri-ugent
+3366 = MMMCCCLXVI = tri mil tri c'hant c'hwec'h ha tri-ugent
+3367 = MMMCCCLXVII = tri mil tri c'hant seizh ha tri-ugent
+3368 = MMMCCCLXVIII = tri mil tri c'hant eizh ha tri-ugent
+3369 = MMMCCCLXIX = tri mil tri c'hant nav ha tri-ugent
+3370 = MMMCCCLXX = tri mil tri c'hant dek ha tri-ugent
+3371 = MMMCCCLXXI = tri mil tri c'hant unnek ha tri-ugent
+3372 = MMMCCCLXXII = tri mil tri c'hant daouzek ha tri-ugent
+3373 = MMMCCCLXXIII = tri mil tri c'hant trizek ha tri-ugent
+3374 = MMMCCCLXXIV = tri mil tri c'hant pevarzek ha tri-ugent
+3375 = MMMCCCLXXV = tri mil tri c'hant pemzek ha tri-ugent
+3376 = MMMCCCLXXVI = tri mil tri c'hant c'hwezek ha tri-ugent
+3377 = MMMCCCLXXVII = tri mil tri c'hant seitek ha tri-ugent
+3378 = MMMCCCLXXVIII = tri mil tri c'hant triwec'h ha tri-ugent
+3379 = MMMCCCLXXIX = tri mil tri c'hant naontek ha tri-ugent
+3380 = MMMCCCLXXX = tri mil tri c'hant pevar-ugent
+3381 = MMMCCCLXXXI = tri mil tri c'hant unan ha pevar-ugent
+3382 = MMMCCCLXXXII = tri mil tri c'hant daou ha pevar-ugent
+3383 = MMMCCCLXXXIII = tri mil tri c'hant tri ha pevar-ugent
+3384 = MMMCCCLXXXIV = tri mil tri c'hant pevar ha pevar-ugent
+3385 = MMMCCCLXXXV = tri mil tri c'hant pemp ha pevar-ugent
+3386 = MMMCCCLXXXVI = tri mil tri c'hant c'hwec'h ha pevar-ugent
+3387 = MMMCCCLXXXVII = tri mil tri c'hant seizh ha pevar-ugent
+3388 = MMMCCCLXXXVIII = tri mil tri c'hant eizh ha pevar-ugent
+3389 = MMMCCCLXXXIX = tri mil tri c'hant nav ha pevar-ugent
+3390 = MMMCCCXC = tri mil tri c'hant dek ha pevar-ugent
+3391 = MMMCCCXCI = tri mil tri c'hant unnek ha pevar-ugent
+3392 = MMMCCCXCII = tri mil tri c'hant daouzek ha pevar-ugent
+3393 = MMMCCCXCIII = tri mil tri c'hant trizek ha pevar-ugent
+3394 = MMMCCCXCIV = tri mil tri c'hant pevarzek ha pevar-ugent
+3395 = MMMCCCXCV = tri mil tri c'hant pemzek ha pevar-ugent
+3396 = MMMCCCXCVI = tri mil tri c'hant c'hwezek ha pevar-ugent
+3397 = MMMCCCXCVII = tri mil tri c'hant seitek ha pevar-ugent
+3398 = MMMCCCXCVIII = tri mil tri c'hant triwec'h ha pevar-ugent
+3399 = MMMCCCXCIX = tri mil tri c'hant naontek ha pevar-ugent
+
+3400 = MMMCD = tri mil pevar c'hant 
+3401 = MMMCDI = tri mil pevar c'hant unan
+3402 = MMMCDII = tri mil pevar c'hant daou
+3403 = MMMCDIII = tri mil pevar c'hant tri
+3404 = MMMCDIV = tri mil pevar c'hant pevar
+3405 = MMMCDV = tri mil pevar c'hant pemp
+3406 = MMMCDVI = tri mil pevar c'hant c'hwec'h
+3407 = MMMCDVII = tri mil pevar c'hant seizh
+3408 = MMMCDVIII = tri mil pevar c'hant eizh
+3409 = MMMCDIX = tri mil pevar c'hant nav
+3410 = MMMCDX = tri mil pevar c'hant dek
+3411 = MMMCDXI = tri mil pevar c'hant unnek
+3412 = MMMCDXII = tri mil pevar c'hant daouzek
+3413 = MMMCDXIII = tri mil pevar c'hant trizek
+3414 = MMMCDXIV = tri mil pevar c'hant pevarzek
+3415 = MMMCDXV = tri mil pevar c'hant pemzek
+3416 = MMMCDXVI = tri mil pevar c'hant c'hwezek
+3417 = MMMCDXVII = tri mil pevar c'hant seitek
+3418 = MMMCDXVIII = tri mil pevar c'hant triwec'h
+3419 = MMMCDXIX = tri mil pevar c'hant naontek
+3420 = MMMCDXX = tri mil pevar c'hant ugent
+3421 = MMMCDXXI = tri mil pevar c'hant unan warn-ugent
+3422 = MMMCDXXII = tri mil pevar c'hant daou warn-ugent
+3423 = MMMCDXXIII = tri mil pevar c'hant tri warn-ugent
+3424 = MMMCDXXIV = tri mil pevar c'hant pevar warn-ugent
+3425 = MMMCDXXV = tri mil pevar c'hant pemp warn-ugent
+3426 = MMMCDXXVI = tri mil pevar c'hant c'hwec'h warn-ugent
+3427 = MMMCDXXVII = tri mil pevar c'hant seizh warn-ugent
+3428 = MMMCDXXVIII = tri mil pevar c'hant eizh warn-ugent
+3429 = MMMCDXXIX = tri mil pevar c'hant nav warn-ugent
+3430 = MMMCDXXX = tri mil pevar c'hant tregont
+3431 = MMMCDXXXI = tri mil pevar c'hant unan ha tregont
+3432 = MMMCDXXXII = tri mil pevar c'hant daou ha tregont
+3433 = MMMCDXXXIII = tri mil pevar c'hant tri ha tregont
+3434 = MMMCDXXXIV = tri mil pevar c'hant pevar ha tregont
+3435 = MMMCDXXXV = tri mil pevar c'hant pemp ha tregont
+3436 = MMMCDXXXVI = tri mil pevar c'hant c'hwec'h ha tregont
+3437 = MMMCDXXXVII = tri mil pevar c'hant seizh ha tregont
+3438 = MMMCDXXXVIII = tri mil pevar c'hant eizh ha tregont
+3439 = MMMCDXXXIX = tri mil pevar c'hant nav ha tregont
+3440 = MMMCDXL = tri mil pevar c'hant daou-ugent
+3441 = MMMCDXLI = tri mil pevar c'hant unan ha daou-ugent
+3442 = MMMCDXLII = tri mil pevar c'hant daou ha daou-ugent
+3443 = MMMCDXLIII = tri mil pevar c'hant tri ha daou-ugent
+3444 = MMMCDXLIV = tri mil pevar c'hant pevar ha daou-ugent
+3445 = MMMCDXLV = tri mil pevar c'hant pemp ha daou-ugent
+3446 = MMMCDXLVI = tri mil pevar c'hant c'hwec'h ha daou-ugent
+3447 = MMMCDXLVII = tri mil pevar c'hant seizh ha daou-ugent
+3448 = MMMCDXLVIII = tri mil pevar c'hant eizh ha daou-ugent
+3449 = MMMCDXLIX = tri mil pevar c'hant nav ha daou-ugent
+3450 = MMMCDL = tri mil pevar c'hant hanter-kant
+3451 = MMMCDLI = tri mil pevar c'hant unan hag hanter-kant
+3452 = MMMCDLII = tri mil pevar c'hant daou hag hanter-kant
+3453 = MMMCDLIII = tri mil pevar c'hant tri hag hanter-kant
+3454 = MMMCDLIV = tri mil pevar c'hant pevar hag hanter-kant
+3455 = MMMCDLV = tri mil pevar c'hant pemp hag hanter-kant
+3456 = MMMCDLVI = tri mil pevar c'hant c'hwec'h hag hanter-kant
+3457 = MMMCDLVII = tri mil pevar c'hant seizh hag hanter-kant
+3458 = MMMCDLVIII = tri mil pevar c'hant eizh hag hanter-kant
+3459 = MMMCDLIX = tri mil pevar c'hant nav hag hanter-kant
+3460 = MMMCDLX = tri mil pevar c'hant tri-ugent
+3461 = MMMCDLXI = tri mil pevar c'hant unan ha tri-ugent
+3462 = MMMCDLXII = tri mil pevar c'hant daou ha tri-ugent
+3463 = MMMCDLXIII = tri mil pevar c'hant tri ha tri-ugent
+3464 = MMMCDLXIV = tri mil pevar c'hant pevar ha tri-ugent
+3465 = MMMCDLXV = tri mil pevar c'hant pemp ha tri-ugent
+3466 = MMMCDLXVI = tri mil pevar c'hant c'hwec'h ha tri-ugent
+3467 = MMMCDLXVII = tri mil pevar c'hant seizh ha tri-ugent
+3468 = MMMCDLXVIII = tri mil pevar c'hant eizh ha tri-ugent
+3469 = MMMCDLXIX = tri mil pevar c'hant nav ha tri-ugent
+3470 = MMMCDLXX = tri mil pevar c'hant dek ha tri-ugent 
+3471 = MMMCDLXXI = tri mil pevar c'hant unnek ha tri-ugent
+3472 = MMMCDLXXII = tri mil pevar c'hant daouzek ha tri-ugent
+3473 = MMMCDLXXIII = tri mil pevar c'hant trizek ha tri-ugent
+3474 = MMMCDLXXIV = tri mil pevar c'hant pevarzek ha tri-ugent
+3475 = MMMCDLXXV = tri mil pevar c'hant pemzek ha tri-ugent
+3476 = MMMCDLXXVI = tri mil pevar c'hant c'hwezek ha tri-ugent
+3477 = MMMCDLXXVII = tri mil pevar c'hant seitek ha tri-ugent
+3478 = MMMCDLXXVIII = tri mil pevar c'hant triwec'h ha tri-ugent
+3479 = MMMCDLXXIX = tri mil pevar c'hant naontek ha tri-ugent
+3480 = MMMCDLXXX = tri mil pevar c'hant pevar-ugent
+3481 = MMMCDLXXXI = tri mil pevar c'hant unan ha pevar-ugent
+3482 = MMMCDLXXXII = tri mil pevar c'hant daou ha pevar-ugent
+3483 = MMMCDLXXXIII = tri mil pevar c'hant tri ha pevar-ugent
+3484 = MMMCDLXXXIV = tri mil pevar c'hant pevar ha pevar-ugent
+3485 = MMMCDLXXXV = tri mil pevar c'hant pemp ha pevar-ugent
+3486 = MMMCDLXXXVI = tri mil pevar c'hant c'hwec'h ha pevar-ugent
+3487 = MMMCDLXXXVII = tri mil pevar c'hant seizh ha pevar-ugent
+3488 = MMMCDLXXXVIII = tri mil pevar c'hant eizh ha pevar-ugent
+3489 = MMMCDLXXXIX = tri mil pevar c'hant nav ha pevar-ugent
+3490 = MMMCDXC = tri mil pevar c'hant dek ha pevar-ugent
+3491 = MMMCDXCI = tri mil pevar c'hant unnek ha pevar-ugent
+3492 = MMMCDXCII = tri mil pevar c'hant daouzek ha pevar-ugent
+3493 = MMMCDXCIII = tri mil pevar c'hant trizek ha pevar-ugent
+3494 = MMMCDXCIV = tri mil pevar c'hant pevarzek ha pevar-ugent
+3495 = MMMCDXCV = tri mil pevar c'hant pemzek ha pevar-ugent
+3496 = MMMCDXCVI = tri mil pevar c'hant c'hwezek ha pevar-ugent
+3497 = MMMCDXCVII = tri mil pevar c'hant seitek ha pevar-ugent
+3498 = MMMCDXCVIII = tri mil pevar c'hant triwec'h ha pevar-ugent
+3499 = MMMCDXCIX = tri mil pevar c'hant naontek ha pevar-ugent
+
+3500 = MMMD = tri mil pemp kant 
+3501 = MMMDI = tri mil pemp kant unan
+3502 = MMMDII = tri mil pemp kant daou
+3503 = MMMDIII = tri mil pemp kant tri
+3504 = MMMDIV = tri mil pemp kant pevar
+3505 = MMMDV = tri mil pemp kant pemp
+3506 = MMMDVI = tri mil pemp kant c'hwec'h
+3507 = MMMDVII = tri mil pemp kant seizh
+3508 = MMMDVIII = tri mil pemp kant eizh
+3509 = MMMDIX = tri mil pemp kant nav
+3510 = MMMDX = tri mil pemp kant dek
+3511 = MMMDXI = tri mil pemp kant unnek
+3512 = MMMDXII = tri mil pemp kant daouzek
+3513 = MMMDXIII = tri mil pemp kant trizek
+3514 = MMMDXIV = tri mil pemp kant pevarzek
+3515 = MMMDXV = tri mil pemp kant pemzek
+3516 = MMMDXVI = tri mil pemp kant c'hwezek
+3517 = MMMDXVII = tri mil pemp kant seitek
+3518 = MMMDXVIII = tri mil pemp kant triwec'h
+3519 = MMMDXIX = tri mil pemp kant naontek
+3520 = MMMDXX = tri mil pemp kant ugent
+3521 = MMMDXXI = tri mil pemp kant unan warn-ugent
+3522 = MMMDXXII = tri mil pemp kant daou warn-ugent
+3523 = MMMDXXIII = tri mil pemp kant tri warn-ugent
+3524 = MMMDXXIV = tri mil pemp kant pevar warn-ugent
+3525 = MMMDXXV = tri mil pemp kant pemp warn-ugent
+3526 = MMMDXXVI = tri mil pemp kant c'hwec'h warn-ugent
+3527 = MMMDXXVII = tri mil pemp kant seizh warn-ugent
+3528 = MMMDXXVIII = tri mil pemp kant eizh warn-ugent
+3529 = MMMDXXIX = tri mil pemp kant nav warn-ugent
+3530 = MMMDXXX = tri mil pemp kant tregont
+3531 = MMMDXXXI = tri mil pemp kant unan ha tregont
+3532 = MMMDXXXII = tri mil pemp kant daou ha tregont
+3533 = MMMDXXXIII = tri mil pemp kant tri ha tregont
+3534 = MMMDXXXIV = tri mil pemp kant pevar ha tregont
+3535 = MMMDXXXV = tri mil pemp kant pemp ha tregont
+3536 = MMMDXXXVI = tri mil pemp kant c'hwec'h ha tregont
+3537 = MMMDXXXVII = tri mil pemp kant seizh ha tregont
+3538 = MMMDXXXVIII = tri mil pemp kant eizh ha tregont
+3539 = MMMDXXXIX = tri mil pemp kant nav ha tregont
+3540 = MMMDXL = tri mil pemp kant daou-ugent
+3541 = MMMDXLI = tri mil pemp kant unan ha daou-ugent
+3542 = MMMDXLII = tri mil pemp kant daou ha daou-ugent
+3543 = MMMDXLIII = tri mil pemp kant tri ha daou-ugent
+3544 = MMMDXLIV = tri mil pemp kant pevar ha daou-ugent
+3545 = MMMDXLV = tri mil pemp kant pemp ha daou-ugent
+3546 = MMMDXLVI = tri mil pemp kant c'hwec'h ha daou-ugent
+3547 = MMMDXLVII = tri mil pemp kant seizh ha daou-ugent
+3548 = MMMDXLVIII = tri mil pemp kant eizh ha daou-ugent
+3549 = MMMDXLIX = tri mil pemp kant nav ha daou-ugent
+3550 = MMMDL = tri mil pemp kant hanter-kant
+3551 = MMMDLI = tri mil pemp kant unan hag hanter-kant
+3552 = MMMDLII = tri mil pemp kant daou hag hanter-kant
+3553 = MMMDLIII = tri mil pemp kant tri hag hanter-kant
+3554 = MMMDLIV = tri mil pemp kant pevar hag hanter-kant
+3555 = MMMDLV = tri mil pemp kant pemp hag hanter-kant
+3556 = MMMDLVI = tri mil pemp kant c'hwec'h hag hanter-kant
+3557 = MMMDLVII = tri mil pemp kant seizh hag hanter-kant
+3558 = MMMDLVIII = tri mil pemp kant eizh hag hanter-kant
+3559 = MMMDLIX = tri mil pemp kant nav hag hanter-kant
+3560 = MMMDLX = tri mil pemp kant tri-ugent
+3561 = MMMDLXI = tri mil pemp kant unan ha tri-ugent
+3562 = MMMDLXII = tri mil pemp kant daou ha tri-ugent
+3563 = MMMDLXIII = tri mil pemp kant tri ha tri-ugent
+3564 = MMMDLXIV = tri mil pemp kant pevar ha tri-ugent
+3565 = MMMDLXV = tri mil pemp kant pemp ha tri-ugent
+3566 = MMMDLXVI = tri mil pemp kant c'hwec'h ha tri-ugent
+3567 = MMMDLXVII = tri mil pemp kant seizh ha tri-ugent
+3568 = MMMDLXVIII = tri mil pemp kant eizh ha tri-ugent
+3569 = MMMDLXIX = tri mil pemp kant nav ha tri-ugent
+3570 = MMMDLXX = tri mil pemp kant dek ha tri-ugent
+3571 = MMMDLXXI = tri mil pemp kant unnek ha tri-ugent
+3572 = MMMDLXXII = tri mil pemp kant daouzek ha tri-ugent
+3573 = MMMDLXXIII = tri mil pemp kant trizek ha tri-ugent
+3574 = MMMDLXXIV = tri mil pemp kant pevarzek ha tri-ugent
+3575 = MMMDLXXV = tri mil pemp kant pemzek ha tri-ugent
+3576 = MMMDLXXVI = tri mil pemp kant c'hwezek ha tri-ugent
+3577 = MMMDLXXVII = tri mil pemp kant seitek ha tri-ugent
+3578 = MMMDLXXVIII = tri mil pemp kant triwec'h ha tri-ugent
+3579 = MMMDLXXIX = tri mil pemp kant naontek ha tri-ugent
+3580 = MMMDLXXX = tri mil pemp kant pevar-ugent
+3581 = MMMDLXXXI = tri mil pemp kant unan ha pevar-ugent
+3582 = MMMDLXXXII = tri mil pemp kant daou ha pevar-ugent
+3583 = MMMDLXXXIII = tri mil pemp kant tri ha pevar-ugent
+3584 = MMMDLXXXIV = tri mil pemp kant pevar ha pevar-ugent
+3585 = MMMDLXXXV = tri mil pemp kant pemp ha pevar-ugent
+3586 = MMMDLXXXVI = tri mil pemp kant c'hwec'h ha pevar-ugent
+3587 = MMMDLXXXVII = tri mil pemp kant seizh ha pevar-ugent
+3588 = MMMDLXXXVIII = tri mil pemp kant eizh ha pevar-ugent
+3589 = MMMDLXXXIX = tri mil pemp kant nav ha pevar-ugent
+3590 = MMMDXC = tri mil pemp kant dek ha pevar-ugent
+3591 = MMMDXCI = tri mil pemp kant unnek ha pevar-ugent
+3592 = MMMDXCII = tri mil pemp kant daouzek ha pevar-ugent
+3593 = MMMDXCIII = tri mil pemp kant trizek ha pevar-ugent
+3594 = MMMDXCIV = tri mil pemp kant pevarzek ha pevar-ugent
+3595 = MMMDXCV = tri mil pemp kant pemzek ha pevar-ugent
+3596 = MMMDXCVI = tri mil pemp kant c'hwezek ha pevar-ugent
+3597 = MMMDXCVII = tri mil pemp kant seitek ha pevar-ugent
+3598 = MMMDXCVIII = tri mil pemp kant triwec'h ha pevar-ugent
+3599 = MMMDXCIX = tri mil pemp kant naontek ha pevar-ugent
+
+3600 = MMMDC = tri mil c'hwec'h kant 
+3601 = MMMDCI = tri mil c'hwec'h kant unan
+3602 = MMMDCII = tri mil c'hwec'h kant daou
+3603 = MMMDCIII = tri mil c'hwec'h kant tri
+3604 = MMMDCIV = tri mil c'hwec'h kant pevar
+3605 = MMMDCV = tri mil c'hwec'h kant pemp
+3606 = MMMDCVI = tri mil c'hwec'h kant c'hwec'h
+3607 = MMMDCVII = tri mil c'hwec'h kant seizh
+3608 = MMMDCVIII = tri mil c'hwec'h kant eizh
+3609 = MMMDCIX = tri mil c'hwec'h kant nav
+3610 = MMMDCX = tri mil c'hwec'h kant dek
+3611 = MMMDCXI = tri mil c'hwec'h kant unnek
+3612 = MMMDCXII = tri mil c'hwec'h kant daouzek
+3613 = MMMDCXIII = tri mil c'hwec'h kant trizek
+3614 = MMMDCXIV = tri mil c'hwec'h kant pevarzek
+3615 = MMMDCXV = tri mil c'hwec'h kant pemzek
+3616 = MMMDCXVI = tri mil c'hwec'h kant c'hwezek
+3617 = MMMDCXVII = tri mil c'hwec'h kant seitek
+3618 = MMMDCXVIII = tri mil c'hwec'h kant triwec'h
+3619 = MMMDCXIX = tri mil c'hwec'h kant naontek
+3620 = MMMDCXX = tri mil c'hwec'h kant ugent
+3621 = MMMDCXXI = tri mil c'hwec'h kant unan warn-ugent
+3622 = MMMDCXXII = tri mil c'hwec'h kant daou warn-ugent
+3623 = MMMDCXXIII = tri mil c'hwec'h kant tri warn-ugent
+3624 = MMMDCXXIV = tri mil c'hwec'h kant pevar warn-ugent
+3625 = MMMDCXXV = tri mil c'hwec'h kant pemp warn-ugent
+3626 = MMMDCXXVI = tri mil c'hwec'h kant c'hwec'h warn-ugent
+3627 = MMMDCXXVII = tri mil c'hwec'h kant seizh warn-ugent
+3628 = MMMDCXXVIII = tri mil c'hwec'h kant eizh warn-ugent
+3629 = MMMDCXXIX = tri mil c'hwec'h kant nav warn-ugent
+3630 = MMMDCXXX = tri mil c'hwec'h kant tregont
+3631 = MMMDCXXXI = tri mil c'hwec'h kant unan ha tregont
+3632 = MMMDCXXXII = tri mil c'hwec'h kant daou ha tregont
+3633 = MMMDCXXXIII = tri mil c'hwec'h kant tri ha tregont
+3634 = MMMDCXXXIV = tri mil c'hwec'h kant pevar ha tregont
+3635 = MMMDCXXXV = tri mil c'hwec'h kant pemp ha tregont
+3636 = MMMDCXXXVI = tri mil c'hwec'h kant c'hwec'h ha tregont
+3637 = MMMDCXXXVII = tri mil c'hwec'h kant seizh ha tregont
+3638 = MMMDCXXXVIII = tri mil c'hwec'h kant eizh ha tregont
+3639 = MMMDCXXXIX = tri mil c'hwec'h kant nav ha tregont
+3640 = MMMDCXL = tri mil c'hwec'h kant daou-ugent
+3641 = MMMDCXLI = tri mil c'hwec'h kant unan ha daou-ugent
+3642 = MMMDCXLII = tri mil c'hwec'h kant daou ha daou-ugent
+3643 = MMMDCXLIII = tri mil c'hwec'h kant tri ha daou-ugent
+3644 = MMMDCXLIV = tri mil c'hwec'h kant pevar ha daou-ugent
+3645 = MMMDCXLV = tri mil c'hwec'h kant pemp ha daou-ugent
+3646 = MMMDCXLVI = tri mil c'hwec'h kant c'hwec'h ha daou-ugent
+3647 = MMMDCXLVII = tri mil c'hwec'h kant seizh ha daou-ugent
+3648 = MMMDCXLVIII = tri mil c'hwec'h kant eizh ha daou-ugent
+3649 = MMMDCXLIX = tri mil c'hwec'h kant nav ha daou-ugent
+3650 = MMMDCL = tri mil c'hwec'h kant hanter-kant
+3651 = MMMDCLI = tri mil c'hwec'h kant unan hag hanter-kant
+3652 = MMMDCLII = tri mil c'hwec'h kant daou hag hanter-kant
+3653 = MMMDCLIII = tri mil c'hwec'h kant tri hag hanter-kant
+3654 = MMMDCLIV = tri mil c'hwec'h kant pevar hag hanter-kant
+3655 = MMMDCLV = tri mil c'hwec'h kant pemp hag hanter-kant
+3656 = MMMDCLVI = tri mil c'hwec'h kant c'hwec'h hag hanter-kant
+3657 = MMMDCLVII = tri mil c'hwec'h kant seizh hag hanter-kant
+3658 = MMMDCLVIII = tri mil c'hwec'h kant eizh hag hanter-kant
+3659 = MMMDCLIX = tri mil c'hwec'h kant nav hag hanter-kant
+3660 = MMMDCLX = tri mil c'hwec'h kant tri-ugent
+3661 = MMMDCLXI = tri mil c'hwec'h kant unan ha tri-ugent
+3662 = MMMDCLXII = tri mil c'hwec'h kant daou ha tri-ugent
+3663 = MMMDCLXIII = tri mil c'hwec'h kant tri ha tri-ugent
+3664 = MMMDCLXIV = tri mil c'hwec'h kant pevar ha tri-ugent
+3665 = MMMDCLXV = tri mil c'hwec'h kant pemp ha tri-ugent
+3666 = MMMDCLXVI = tri mil c'hwec'h kant c'hwec'h ha tri-ugent
+3667 = MMMDCLXVII = tri mil c'hwec'h kant seizh ha tri-ugent
+3668 = MMMDCLXVIII = tri mil c'hwec'h kant eizh ha tri-ugent
+3669 = MMMDCLXIX = tri mil c'hwec'h kant nav ha tri-ugent
+3670 = MMMDCLXX = tri mil c'hwec'h kant dek ha tri-ugent
+3671 = MMMDCLXXI = tri mil c'hwec'h kant unnek ha tri-ugent
+3672 = MMMDCLXXII = tri mil c'hwec'h kant daouzek ha tri-ugent
+3673 = MMMDCLXXIII = tri mil c'hwec'h kant trizek ha tri-ugent
+3674 = MMMDCLXXIV = tri mil c'hwec'h kant pevarzek ha tri-ugent
+3675 = MMMDCLXXV = tri mil c'hwec'h kant pemzek ha tri-ugent
+3676 = MMMDCLXXVI = tri mil c'hwec'h kant c'hwezek ha tri-ugent
+3677 = MMMDCLXXVII = tri mil c'hwec'h kant seitek ha tri-ugent
+3678 = MMMDCLXXVIII = tri mil c'hwec'h kant triwec'h ha tri-ugent
+3679 = MMMDCLXXIX = tri mil c'hwec'h kant naontek ha tri-ugent
+3680 = MMMDCLXXX = tri mil c'hwec'h kant pevar-ugent
+3681 = MMMDCLXXXI = tri mil c'hwec'h kant unan ha pevar-ugent
+3682 = MMMDCLXXXII = tri mil c'hwec'h kant daou ha pevar-ugent
+3683 = MMMDCLXXXIII = tri mil c'hwec'h kant tri ha pevar-ugent
+3684 = MMMDCLXXXIV = tri mil c'hwec'h kant pevar ha pevar-ugent
+3685 = MMMDCLXXXV = tri mil c'hwec'h kant pemp ha pevar-ugent
+3686 = MMMDCLXXXVI = tri mil c'hwec'h kant c'hwec'h ha pevar-ugent
+3687 = MMMDCLXXXVII = tri mil c'hwec'h kant seizh ha pevar-ugent
+3688 = MMMDCLXXXVIII = tri mil c'hwec'h kant eizh ha pevar-ugent
+3689 = MMMDCLXXXIX = tri mil c'hwec'h kant nav ha pevar-ugent
+3690 = MMMDCXC = tri mil c'hwec'h kant dek ha pevar-ugent
+3691 = MMMDCXCI = tri mil c'hwec'h kant unnek ha pevar-ugent
+3692 = MMMDCXCII = tri mil c'hwec'h kant daouzek ha pevar-ugent
+3693 = MMMDCXCIII = tri mil c'hwec'h kant trizek ha pevar-ugent
+3694 = MMMDCXCIV = tri mil c'hwec'h kant pevarzek ha pevar-ugent
+3695 = MMMDCXCV = tri mil c'hwec'h kant pemzek ha pevar-ugent
+3696 = MMMDCXCVI = tri mil c'hwec'h kant c'hwezek ha pevar-ugent
+3697 = MMMDCXCVII = tri mil c'hwec'h kant seitek ha pevar-ugent
+3698 = MMMDCXCVIII = tri mil c'hwec'h kant triwec'h ha pevar-ugent
+3699 = MMMDCXCIX = tri mil c'hwec'h kant naontek ha pevar-ugent
+
+3700 = MMMDCC = tri mil seizh kant 
+3701 = MMMDCCI = tri mil seizh kant unan
+3702 = MMMDCCII = tri mil seizh kant daou
+3703 = MMMDCCIII = tri mil seizh kant tri
+3704 = MMMDCCIV = tri mil seizh kant pevar
+3705 = MMMDCCV = tri mil seizh kant pemp
+3706 = MMMDCCVI = tri mil seizh kant c'hwec'h
+3707 = MMMDCCVII = tri mil seizh kant seizh
+3708 = MMMDCCVIII = tri mil seizh kant eizh
+3709 = MMMDCCIX = tri mil seizh kant nav
+3710 = MMMDCCX = tri mil seizh kant dek
+3711 = MMMDCCXI = tri mil seizh kant unnek
+3712 = MMMDCCXII = tri mil seizh kant daouzek
+3713 = MMMDCCXIII = tri mil seizh kant trizek
+3714 = MMMDCCXIV = tri mil seizh kant pevarzek
+3715 = MMMDCCXV = tri mil seizh kant pemzek
+3716 = MMMDCCXVI = tri mil seizh kant c'hwezek
+3717 = MMMDCCXVII = tri mil seizh kant seitek
+3718 = MMMDCCXVIII = tri mil seizh kant triwec'h
+3719 = MMMDCCXIX = tri mil seizh kant naontek
+3720 = MMMDCCXX = tri mil seizh kant ugent
+3721 = MMMDCCXXI = tri mil seizh kant unan warn-ugent
+3722 = MMMDCCXXII = tri mil seizh kant daou warn-ugent
+3723 = MMMDCCXXIII = tri mil seizh kant tri warn-ugent
+3724 = MMMDCCXXIV = tri mil seizh kant pevar warn-ugent
+3725 = MMMDCCXXV = tri mil seizh kant pemp warn-ugent
+3726 = MMMDCCXXVI = tri mil seizh kant c'hwec'h warn-ugent
+3727 = MMMDCCXXVII = tri mil seizh kant seizh warn-ugent
+3728 = MMMDCCXXVIII = tri mil seizh kant eizh warn-ugent
+3729 = MMMDCCXXIX = tri mil seizh kant nav warn-ugent
+3730 = MMMDCCXXX = tri mil seizh kant tregont
+3731 = MMMDCCXXXI = tri mil seizh kant unan ha tregont
+3732 = MMMDCCXXXII = tri mil seizh kant daou ha tregont
+3733 = MMMDCCXXXIII = tri mil seizh kant tri ha tregont
+3734 = MMMDCCXXXIV = tri mil seizh kant pevar ha tregont
+3735 = MMMDCCXXXV = tri mil seizh kant pemp ha tregont
+3736 = MMMDCCXXXVI = tri mil seizh kant c'hwec'h ha tregont
+3737 = MMMDCCXXXVII = tri mil seizh kant seizh ha tregont
+3738 = MMMDCCXXXVIII = tri mil seizh kant eizh ha tregont
+3739 = MMMDCCXXXIX = tri mil seizh kant nav ha tregont
+3740 = MMMDCCXL = tri mil seizh kant daou-ugent
+3741 = MMMDCCXLI = tri mil seizh kant unan ha daou-ugent
+3742 = MMMDCCXLII = tri mil seizh kant daou ha daou-ugent
+3743 = MMMDCCXLIII = tri mil seizh kant tri ha daou-ugent
+3744 = MMMDCCXLIV = tri mil seizh kant pevar ha daou-ugent
+3745 = MMMDCCXLV = tri mil seizh kant pemp ha daou-ugent
+3746 = MMMDCCXLVI = tri mil seizh kant c'hwec'h ha daou-ugent
+3747 = MMMDCCXLVII = tri mil seizh kant seizh ha daou-ugent
+3748 = MMMDCCXLVIII = tri mil seizh kant eizh ha daou-ugent
+3749 = MMMDCCXLIX = tri mil seizh kant nav ha daou-ugent
+3750 = MMMDCCL = tri mil seizh kant hanter-kant
+3751 = MMMDCCLI = tri mil seizh kant unan hag hanter-kant
+3752 = MMMDCCLII = tri mil seizh kant daou hag hanter-kant
+3753 = MMMDCCLIII = tri mil seizh kant tri hag hanter-kant
+3754 = MMMDCCLIV = tri mil seizh kant pevar hag hanter-kant
+3755 = MMMDCCLV = tri mil seizh kant pemp hag hanter-kant
+3756 = MMMDCCLVI = tri mil seizh kant c'hwec'h hag hanter-kant
+3757 = MMMDCCLVII = tri mil seizh kant seizh hag hanter-kant
+3758 = MMMDCCLVIII = tri mil seizh kant eizh hag hanter-kant
+3759 = MMMDCCLIX = tri mil seizh kant nav hag hanter-kant
+3760 = MMMDCCLX = tri mil seizh kant tri-ugent
+3761 = MMMDCCLXI = tri mil seizh kant unan ha tri-ugent
+3762 = MMMDCCLXII = tri mil seizh kant daou ha tri-ugent
+3763 = MMMDCCLXIII = tri mil seizh kant tri ha tri-ugent
+3764 = MMMDCCLXIV = tri mil seizh kant pevar ha tri-ugent
+3765 = MMMDCCLXV = tri mil seizh kant pemp ha tri-ugent
+3766 = MMMDCCLXVI = tri mil seizh kant c'hwec'h ha tri-ugent
+3767 = MMMDCCLXVII = tri mil seizh kant seizh ha tri-ugent
+3768 = MMMDCCLXVIII = tri mil seizh kant eizh ha tri-ugent
+3769 = MMMDCCLXIX = tri mil seizh kant nav ha tri-ugent
+3770 = MMMDCCLXX = tri mil seizh kant dek ha tri-ugent
+3771 = MMMDCCLXXI = tri mil seizh kant unnek ha tri-ugent
+3772 = MMMDCCLXXII = tri mil seizh kant daouzek ha tri-ugent
+3773 = MMMDCCLXXIII = tri mil seizh kant trizek ha tri-ugent
+3774 = MMMDCCLXXIV = tri mil seizh kant pevarzek ha tri-ugent
+3775 = MMMDCCLXXV = tri mil seizh kant pemzek ha tri-ugent
+3776 = MMMDCCLXXVI = tri mil seizh kant c'hwezek ha tri-ugent
+3777 = MMMDCCLXXVII = tri mil seizh kant seitek ha tri-ugent
+3778 = MMMDCCLXXVIII = tri mil seizh kant triwec'h ha tri-ugent
+3779 = MMMDCCLXXIX = tri mil seizh kant naontek ha tri-ugent
+3780 = MMMDCCLXXX = tri mil seizh kant pevar-ugent
+3781 = MMMDCCLXXXI = tri mil seizh kant unan ha pevar-ugent
+3782 = MMMDCCLXXXII = tri mil seizh kant daou ha pevar-ugent
+3783 = MMMDCCLXXXIII = tri mil seizh kant tri ha pevar-ugent
+3784 = MMMDCCLXXXIV = tri mil seizh kant pevar ha pevar-ugent
+3785 = MMMDCCLXXXV = tri mil seizh kant pemp ha pevar-ugent
+3786 = MMMDCCLXXXVI = tri mil seizh kant c'hwec'h ha pevar-ugent
+3787 = MMMDCCLXXXVII = tri mil seizh kant seizh ha pevar-ugent
+3788 = MMMDCCLXXXVIII = tri mil seizh kant eizh ha pevar-ugent
+3789 = MMMDCCLXXXIX = tri mil seizh kant nav ha pevar-ugent
+3790 = MMMDCCXC = tri mil seizh kant dek ha pevar-ugent
+3791 = MMMDCCXCI = tri mil seizh kant unnek ha pevar-ugent
+3792 = MMMDCCXCII = tri mil seizh kant daouzek ha pevar-ugent
+3793 = MMMDCCXCIII = tri mil seizh kant trizek ha pevar-ugent
+3794 = MMMDCCXCIV = tri mil seizh kant pevarzek ha pevar-ugent
+3795 = MMMDCCXCV = tri mil seizh kant pemzek ha pevar-ugent
+3796 = MMMDCCXCVI = tri mil seizh kant c'hwezek ha pevar-ugent
+3797 = MMMDCCXCVII = tri mil seizh kant seitek ha pevar-ugent
+3798 = MMMDCCXCVIII = tri mil seizh kant triwec'h ha pevar-ugent
+3799 = MMMDCCXCIX = tri mil seizh kant naontek ha pevar-ugent
+
+3800 = MMMDCCC = tri mil eizh kant 
+3801 = MMMDCCCI = tri mil eizh kant unan
+3802 = MMMDCCCII = tri mil eizh kant daou
+3803 = MMMDCCCIII = tri mil eizh kant tri
+3804 = MMMDCCCIV = tri mil eizh kant pevar
+3805 = MMMDCCCV = tri mil eizh kant pemp
+3806 = MMMDCCCVI = tri mil eizh kant c'hwec'h
+3807 = MMMDCCCVII = tri mil eizh kant seizh
+3808 = MMMDCCCVIII = tri mil eizh kant eizh
+3809 = MMMDCCCIX = tri mil eizh kant nav
+3810 = MMMDCCCX = tri mil eizh kant dek
+3811 = MMMDCCCXI = tri mil eizh kant unnek
+3812 = MMMDCCCXII = tri mil eizh kant daouzek
+3813 = MMMDCCCXIII = tri mil eizh kant trizek
+3814 = MMMDCCCXIV = tri mil eizh kant pevarzek
+3815 = MMMDCCCXV = tri mil eizh kant pemzek
+3816 = MMMDCCCXVI = tri mil eizh kant c'hwezek
+3817 = MMMDCCCXVII = tri mil eizh kant seitek
+3818 = MMMDCCCXVIII = tri mil eizh kant triwec'h
+3819 = MMMDCCCXIX = tri mil eizh kant naontek
+3820 = MMMDCCCXX = tri mil eizh kant ugent
+3821 = MMMDCCCXXI = tri mil eizh kant unan warn-ugent
+3822 = MMMDCCCXXII = tri mil eizh kant daou warn-ugent
+3823 = MMMDCCCXXIII = tri mil eizh kant tri warn-ugent
+3824 = MMMDCCCXXIV = tri mil eizh kant pevar warn-ugent
+3825 = MMMDCCCXXV = tri mil eizh kant pemp warn-ugent
+3826 = MMMDCCCXXVI = tri mil eizh kant c'hwec'h warn-ugent
+3827 = MMMDCCCXXVII = tri mil eizh kant seizh warn-ugent
+3828 = MMMDCCCXXVIII = tri mil eizh kant eizh warn-ugent
+3829 = MMMDCCCXXIX = tri mil eizh kant nav warn-ugent
+3830 = MMMDCCCXXX = tri mil eizh kant tregont
+3831 = MMMDCCCXXXI = tri mil eizh kant unan ha tregont
+3832 = MMMDCCCXXXII = tri mil eizh kant daou ha tregont
+3833 = MMMDCCCXXXIII = tri mil eizh kant tri ha tregont
+3834 = MMMDCCCXXXIV = tri mil eizh kant pevar ha tregont
+3835 = MMMDCCCXXXV = tri mil eizh kant pemp ha tregont
+3836 = MMMDCCCXXXVI = tri mil eizh kant c'hwec'h ha tregont
+3837 = MMMDCCCXXXVII = tri mil eizh kant seizh ha tregont
+3838 = MMMDCCCXXXVIII = tri mil eizh kant eizh ha tregont
+3839 = MMMDCCCXXXIX = tri mil eizh kant nav ha tregont
+3840 = MMMDCCCXL = tri mil eizh kant daou-ugent
+3841 = MMMDCCCXLI = tri mil eizh kant unan ha daou-ugent
+3842 = MMMDCCCXLII = tri mil eizh kant daou ha daou-ugent
+3843 = MMMDCCCXLIII = tri mil eizh kant tri ha daou-ugent
+3844 = MMMDCCCXLIV = tri mil eizh kant pevar ha daou-ugent
+3845 = MMMDCCCXLV = tri mil eizh kant pemp ha daou-ugent
+3846 = MMMDCCCXLVI = tri mil eizh kant c'hwec'h ha daou-ugent
+3847 = MMMDCCCXLVII = tri mil eizh kant seizh ha daou-ugent
+3848 = MMMDCCCXLVIII = tri mil eizh kant eizh ha daou-ugent
+3849 = MMMDCCCXLIX = tri mil eizh kant nav ha daou-ugent
+3850 = MMMDCCCL = tri mil eizh kant hanter-kant
+3851 = MMMDCCCLI = tri mil eizh kant unan hag hanter-kant
+3852 = MMMDCCCLII = tri mil eizh kant daou hag hanter-kant
+3853 = MMMDCCCLIII = tri mil eizh kant tri hag hanter-kant
+3854 = MMMDCCCLIV = tri mil eizh kant pevar hag hanter-kant
+3855 = MMMDCCCLV = tri mil eizh kant pemp hag hanter-kant
+3856 = MMMDCCCLVI = tri mil eizh kant c'hwec'h hag hanter-kant
+3857 = MMMDCCCLVII = tri mil eizh kant seizh hag hanter-kant
+3858 = MMMDCCCLVIII = tri mil eizh kant eizh hag hanter-kant
+3859 = MMMDCCCLIX = tri mil eizh kant nav hag hanter-kant
+3860 = MMMDCCCLX = tri mil eizh kant tri-ugent
+3861 = MMMDCCCLXI = tri mil eizh kant unan ha tri-ugent
+3862 = MMMDCCCLXII = tri mil eizh kant daou ha tri-ugent
+3863 = MMMDCCCLXIII = tri mil eizh kant tri ha tri-ugent
+3864 = MMMDCCCLXIV = tri mil eizh kant pevar ha tri-ugent
+3865 = MMMDCCCLXV = tri mil eizh kant pemp ha tri-ugent
+3866 = MMMDCCCLXVI = tri mil eizh kant c'hwec'h ha tri-ugent
+3867 = MMMDCCCLXVII = tri mil eizh kant seizh ha tri-ugent
+3868 = MMMDCCCLXVIII = tri mil eizh kant eizh ha tri-ugent
+3869 = MMMDCCCLXIX = tri mil eizh kant nav ha tri-ugent
+3870 = MMMDCCCLXX = tri mil eizh kant dek ha tri-ugent
+3871 = MMMDCCCLXXI = tri mil eizh kant unnek ha tri-ugent
+3872 = MMMDCCCLXXII = tri mil eizh kant daouzek ha tri-ugent
+3873 = MMMDCCCLXXIII = tri mil eizh kant trizek ha tri-ugent
+3874 = MMMDCCCLXXIV = tri mil eizh kant pevarzek ha tri-ugent
+3875 = MMMDCCCLXXV = tri mil eizh kant pemzek ha tri-ugent
+3876 = MMMDCCCLXXVI = tri mil eizh kant c'hwezek ha tri-ugent
+3877 = MMMDCCCLXXVII = tri mil eizh kant seitek ha tri-ugent
+3878 = MMMDCCCLXXVIII = tri mil eizh kant triwec'h ha tri-ugent
+3879 = MMMDCCCLXXIX = tri mil eizh kant naontek ha tri-ugent
+3880 = MMMDCCCLXXX = tri mil eizh kant pevar-ugent
+3881 = MMMDCCCLXXXI = tri mil eizh kant unan ha pevar-ugent
+3882 = MMMDCCCLXXXII = tri mil eizh kant daou ha pevar-ugent
+3883 = MMMDCCCLXXXIII = tri mil eizh kant tri ha pevar-ugent
+3884 = MMMDCCCLXXXIV = tri mil eizh kant pevar ha pevar-ugent
+3885 = MMMDCCCLXXXV = tri mil eizh kant pemp ha pevar-ugent
+3886 = MMMDCCCLXXXVI = tri mil eizh kant c'hwec'h ha pevar-ugent
+3887 = MMMDCCCLXXXVII = tri mil eizh kant seizh ha pevar-ugent
+3888 = MMMDCCCLXXXVIII = tri mil eizh kant eizh ha pevar-ugent
+3889 = MMMDCCCLXXXIX = tri mil eizh kant nav ha pevar-ugent
+3890 = MMMDCCCXC = tri mil eizh kant dek ha pevar-ugent
+3891 = MMMDCCCXCI = tri mil eizh kant unnek ha pevar-ugent
+3892 = MMMDCCCXCII = tri mil eizh kant daouzek ha pevar-ugent
+3893 = MMMDCCCXCIII = tri mil eizh kant trizek ha pevar-ugent
+3894 = MMMDCCCXCIV = tri mil eizh kant pevarzek ha pevar-ugent
+3895 = MMMDCCCXCV = tri mil eizh kant pemzek ha pevar-ugent
+3896 = MMMDCCCXCVI = tri mil eizh kant c'hwezek ha pevar-ugent
+3897 = MMMDCCCXCVII = tri mil eizh kant seitek ha pevar-ugent
+3898 = MMMDCCCXCVIII = tri mil eizh kant triwec'h ha pevar-ugent
+3899 = MMMDCCCXCIX = tri mil eizh kant naontek ha pevar-ugent
+
+3900 = MMMCM = tri mil nav c'hant 
+3901 = MMMCMI = tri mil nav c'hant unan
+3902 = MMMCMII = tri mil nav c'hant daou
+3903 = MMMCMIII = tri mil nav c'hant tri
+3904 = MMMCMIV = tri mil nav c'hant pevar
+3905 = MMMCMV = tri mil nav c'hant pemp
+3906 = MMMCMVI = tri mil nav c'hant c'hwec'h
+3907 = MMMCMVII = tri mil nav c'hant seizh
+3908 = MMMCMVIII = tri mil nav c'hant eizh
+3909 = MMMCMIX = tri mil nav c'hant nav
+3910 = MMMCMX = tri mil nav c'hant dek
+3911 = MMMCMXI = tri mil nav c'hant unnek
+3912 = MMMCMXII = tri mil nav c'hant daouzek
+3913 = MMMCMXIII = tri mil nav c'hant trizek
+3914 = MMMCMXIV = tri mil nav c'hant pevarzek
+3915 = MMMCMXV = tri mil nav c'hant pemzek
+3916 = MMMCMXVI = tri mil nav c'hant c'hwezek
+3917 = MMMCMXVII = tri mil nav c'hant seitek
+3918 = MMMCMXVIII = tri mil nav c'hant triwec'h
+3919 = MMMCMXIX = tri mil nav c'hant naontek
+3920 = MMMCMXX = tri mil nav c'hant ugent
+3921 = MMMCMXXI = tri mil nav c'hant unan warn-ugent
+3922 = MMMCMXXII = tri mil nav c'hant daou warn-ugent
+3923 = MMMCMXXIII = tri mil nav c'hant tri warn-ugent
+3924 = MMMCMXXIV = tri mil nav c'hant pevar warn-ugent
+3925 = MMMCMXXV = tri mil nav c'hant pemp warn-ugent
+3926 = MMMCMXXVI = tri mil nav c'hant c'hwec'h warn-ugent
+3927 = MMMCMXXVII = tri mil nav c'hant seizh warn-ugent
+3928 = MMMCMXXVIII = tri mil nav c'hant eizh warn-ugent
+3929 = MMMCMXXIX = tri mil nav c'hant nav warn-ugent
+3930 = MMMCMXXX = tri mil nav c'hant tregont
+3931 = MMMCMXXXI = tri mil nav c'hant unan ha tregont
+3932 = MMMCMXXXII = tri mil nav c'hant daou ha tregont
+3933 = MMMCMXXXIII = tri mil nav c'hant tri ha tregont
+3934 = MMMCMXXXIV = tri mil nav c'hant pevar ha tregont
+3935 = MMMCMXXXV = tri mil nav c'hant pemp ha tregont
+3936 = MMMCMXXXVI = tri mil nav c'hant c'hwec'h ha tregont
+3937 = MMMCMXXXVII = tri mil nav c'hant seizh ha tregont
+3938 = MMMCMXXXVIII = tri mil nav c'hant eizh ha tregont
+3939 = MMMCMXXXIX = tri mil nav c'hant nav ha tregont
+3940 = MMMCMXL = tri mil nav c'hant daou-ugent
+3941 = MMMCMXLI = tri mil nav c'hant unan ha daou-ugent
+3942 = MMMCMXLII = tri mil nav c'hant daou ha daou-ugent
+3943 = MMMCMXLIII = tri mil nav c'hant tri ha daou-ugent
+3944 = MMMCMXLIV = tri mil nav c'hant pevar ha daou-ugent
+3945 = MMMCMXLV = tri mil nav c'hant pemp ha daou-ugent
+3946 = MMMCMXLVI = tri mil nav c'hant c'hwec'h ha daou-ugent
+3947 = MMMCMXLVII = tri mil nav c'hant seizh ha daou-ugent
+3948 = MMMCMXLVIII = tri mil nav c'hant eizh ha daou-ugent
+3949 = MMMCMXLIX = tri mil nav c'hant nav ha daou-ugent
+3950 = MMMCML = tri mil nav c'hant hanter-kant
+3951 = MMMCMLI = tri mil nav c'hant unan hag hanter-kant
+3952 = MMMCMLII = tri mil nav c'hant daou hag hanter-kant
+3953 = MMMCMLIII = tri mil nav c'hant tri hag hanter-kant
+3954 = MMMCMLIV = tri mil nav c'hant pevar hag hanter-kant
+3955 = MMMCMLV = tri mil nav c'hant pemp hag hanter-kant
+3956 = MMMCMLVI = tri mil nav c'hant c'hwec'h hag hanter-kant
+3957 = MMMCMLVII = tri mil nav c'hant seizh hag hanter-kant
+3958 = MMMCMLVIII = tri mil nav c'hant eizh hag hanter-kant
+3959 = MMMCMLIX = tri mil nav c'hant nav hag hanter-kant
+3960 = MMMCMLX = tri mil nav c'hant tri-ugent
+3961 = MMMCMLXI = tri mil nav c'hant unan ha tri-ugent
+3962 = MMMCMLXII = tri mil nav c'hant daou ha tri-ugent
+3963 = MMMCMLXIII = tri mil nav c'hant tri ha tri-ugent
+3964 = MMMCMLXIV = tri mil nav c'hant pevar ha tri-ugent
+3965 = MMMCMLXV = tri mil nav c'hant pemp ha tri-ugent
+3966 = MMMCMLXVI = tri mil nav c'hant c'hwec'h ha tri-ugent
+3967 = MMMCMLXVII = tri mil nav c'hant seizh ha tri-ugent
+3968 = MMMCMLXVIII = tri mil nav c'hant eizh ha tri-ugent
+3969 = MMMCMLXIX = tri mil nav c'hant nav ha tri-ugent
+3970 = MMMCMLXX = tri mil nav c'hant dek ha tri-ugent
+3971 = MMMCMLXXI = tri mil nav c'hant unnek ha tri-ugent
+3972 = MMMCMLXXII = tri mil nav c'hant daouzek ha tri-ugent
+3973 = MMMCMLXXIII = tri mil nav c'hant trizek ha tri-ugent
+3974 = MMMCMLXXIV = tri mil nav c'hant pevarzek ha tri-ugent
+3975 = MMMCMLXXV = tri mil nav c'hant pemzek ha tri-ugent
+3976 = MMMCMLXXVI = tri mil nav c'hant c'hwezek ha tri-ugent
+3977 = MMMCMLXXVII = tri mil nav c'hant seitek ha tri-ugent
+3978 = MMMCMLXXVIII = tri mil nav c'hant triwec'h ha tri-ugent
+3979 = MMMCMLXXIX = tri mil nav c'hant naontek ha tri-ugent
+3980 = MMMCMLXXX = tri mil nav c'hant pevar-ugent
+3981 = MMMCMLXXXI = tri mil nav c'hant unan ha pevar-ugent
+3982 = MMMCMLXXXII = tri mil nav c'hant daou ha pevar-ugent
+3983 = MMMCMLXXXIII = tri mil nav c'hant tri ha pevar-ugent
+3984 = MMMCMLXXXIV = tri mil nav c'hant pevar ha pevar-ugent
+3985 = MMMCMLXXXV = tri mil nav c'hant pemp ha pevar-ugent
+3986 = MMMCMLXXXVI = tri mil nav c'hant c'hwec'h ha pevar-ugent
+3987 = MMMCMLXXXVII = tri mil nav c'hant seizh ha pevar-ugent
+3988 = MMMCMLXXXVIII = tri mil nav c'hant eizh ha pevar-ugent
+3989 = MMMCMLXXXIX = tri mil nav c'hant nav ha pevar-ugent
+3990 = MMMCMXC = tri mil nav c'hant dek ha pevar-ugent
+3991 = MMMCMXCI = tri mil nav c'hant unnek ha pevar-ugent
+3992 = MMMCMXCII = tri mil nav c'hant daouzek ha pevar-ugent
+3993 = MMMCMXCIII = tri mil nav c'hant trizek ha pevar-ugent
+3994 = MMMCMXCIV = tri mil nav c'hant pevarzek ha pevar-ugent
+3995 = MMMCMXCV = tri mil nav c'hant pemzek ha pevar-ugent
+3996 = MMMCMXCVI = tri mil nav c'hant c'hwezek ha pevar-ugent
+3997 = MMMCMXCVII = tri mil nav c'hant seitek ha pevar-ugent
+3998 = MMMCMXCVIII = tri mil nav c'hant triwec'h ha pevar-ugent
+3999 = MMMCMXCIX = tri mil nav c'hant naontek ha pevar-ugent
