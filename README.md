@@ -28,28 +28,28 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 
 - A. 01. Classical way to count in breton femnin forms:
     - Description: you will find a database from "2" to "1184" to show the parten to count in breton in the feminin. If you want to count more than that in breton you can reuse the patern and put it in the file "A. 02. Classical way to count in breton masculin forms".
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2001.%20Classical%20way%20to%20count%20in%20breton%20femnin%20forms
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-01.-Classical-way-to-count-in-breton-femnin-forms
 - A. 02. Classical way to count in breton masculin forms:
     - Description: you will find a database from "0" to "2000000000" to count in breton in the masculin.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2002.%20Classical%20way%20to%20count%20in%20breton%20masculin%20forms
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-02.-Classical-way-to-count-in-breton-masculin-forms
 - A. 03. Irregular Breton Ordinals numbers:
     - Description: You will find the only Irregulars Breton Ordinals Numbers, but there are not rare.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2003.%20Irregular%20Breton%20Ordinals%20numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-03.-Irregular-Breton-Ordinals-numbers
 - A. 04. Regular Breton Ordinals numbers:
     - Description: You will find a short explanations how to generate Regular Breton Ordinals numbers.
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2004.%20Regular%20Breton%20Ordinals%20numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-04.-Regular-Breton-Ordinals-numbers
 - A. 05. Breton Fractional Numbers:
     - Description: You will find a short explanations how to generate Breton Fractionnal Numbers, e.g. "un eizhvedenn eus an dartezenn" = "an eighth of the pie".
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2005.%20Breton%20Fractional%20Numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-05.-Breton-Fractional-Numbers
 - A. 06. Breton Duration Numbers:
     - Description: You will find a short explanations how to generate Breton Duration Numbers, e.g. "ur c'hantved" = "a century".
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2006.%20Breton%20Duration%20Numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-06.-Breton-Duration-Numbers
 - A. 07. Breton Annual Duration Numbers:
     - Description: You will find a short explanations how to generate Breton Annual Duration Numbers, e.g. "ur c'hantvloavezh" = "a century".
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2007.%20Breton%20Annual%20Duration%20Numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-07.-Breton-Annual-Duration-Numbers
 - A. 08. Breton Daily Duration Numbers:
     - Description: You will find a short explanations how to generate Breton Daily Duration Numbers, e.g. "pemzektevezh" = "fifteen days".
-    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.%2008.%20Breton%20Daily%20Duration%20Numbers
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/A.-08.-Breton-Daily-Duration-Numbers
 
 - B. 01. Rare forms to count in breton in letters:
     - Description: This file shows how to count every number contening "99" in a particular way. For exemple 99 = kant nemet unan (a hundred minus one).
