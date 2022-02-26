@@ -1,3 +1,5 @@
+{
+{
 "Comment":
 {
 "1stCommentInEnglishIs"={We just have to put the suffix "-vedenn" at the end unit of the masculins forms. When there is a "-v" at the end of the original number we generally merged it with the one in the "-vedenn" suffix, but some doesn't.}
@@ -17,3 +19,6 @@
 ...
 200226{-vedenn} = daou c'hant mil daou c'hant c'hwec'hvedenn warn-ugent
 ...
+}
+"End"
+}

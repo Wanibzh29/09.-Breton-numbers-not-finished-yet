@@ -1,3 +1,5 @@
+{
+{
 "Comment":
 {
 "1stCommentInEnglishIs"={We just have to put the suffix "-vet" at the end unit of the masculins forms. When there is a "-v" at the end of the original number we generally merged it with the one in the "-vet" suffix, but some doesn't.}
@@ -19,3 +21,6 @@
 ...
 200226{-vet} = daou c'hant mil daou c'hant c'hwec'hvet warn-ugent
 ...
+}
+"End"
+}

@@ -1,3 +1,4 @@
+{
 "Comment":
 {
 "1stCommentinBretonIs"={Amañ al lizherenn {X} a dalvezo evit un dra bennak en unander.}
@@ -10180,4 +10181,5 @@
 1000000000 {X} = ur miliard {X}
 2000000000 {X} = daou viliard {X}
 }
-Ending
+"Ending"
+}
