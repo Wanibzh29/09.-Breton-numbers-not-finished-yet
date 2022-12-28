@@ -10138,9 +10138,10 @@
 40000 {Y} = daou-ugent mil {Y}
 50000 {Y} = hanter-kant mil {Y}
 60000 {Y} = tri-ugent mil {Y}
-70000 {Y} = dek mil ha tri-ugent {Y}
+70000 {Y} = dek ha tri-ugent mil {Y}
 80000 {Y} = pevar-ugent mil {Y}
-90000 {Y} = dek mil ha pevar-ugent {Y}
+90000 {Y} = dek ha pevar-ugent mil {Y}
+
 100000 {Y} = kant mil {Y}
 200000 {Y} = daou c'hant mil {Y}
 300000 {Y} = tri c'hant mil {Y}
@@ -10167,9 +10168,9 @@
 40000000 {Y} = daou-ugent milion {Y}
 50000000 {Y} = hanter-kant milion {Y}
 60000000 {Y} = tri-ugent milion {Y}
-70000000 {Y} = dek milion ha tri-ugent {Y}
+70000000 {Y} = dek ha tri-ugent milion {Y}
 80000000 {Y} = pevar-ugent milion {Y}
-90000000 {Y} = dek milion ha pevar-ugent {Y}
+90000000 {Y} = dek ha pevar-ugent milion {Y}
 
 100000000 {Y} = kant milion {Y}
 200000000 {Y} = daou c'hant milion {Y}
