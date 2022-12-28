@@ -98,20 +98,20 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 ### D. Dialectals forms (Coming soon)
 
 - D. 01. GO
-    - Description: Counting in Goelo's dialectal country.
-    - Link to this file: 
+    - Description: Counting in Goelo's dialectal country. The way of counting seems to be the same as standard breton.
+    - Link to this file: no file.
 - D. 02. Gw
     - Description: Counting in Gwened's dialectal country. It only shows the differences with the standard.
     - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/D.%2002.%20Gw
 - D. 03. K
-    - Description: Counting in Kerne's dialectal country.
-    - Link to this file:
+    - Description: Counting in Kerne's dialectal country. The way of counting seems to be the same as standard breton.
+    - Link to this file: no file.
 - D. 04. L
-    - Description: Counting in Leon's dialectal country.
-    - Link to this file:
+    - Description: Counting in Leon's dialectal country. The way of counting seems to be the same as standard breton.
+    - Link to this file: no file.
 - D. 05. T
-    - Description: Counting in Treger's dialectal country.
-    - Link to this file:
+    - Description: Counting in Treger's dialectal country. The way of counting seems to be the same as standard breton.
+    - Link to this file: no file.
 
 ### E. Breton numbers, Latin, Mathematics and others
 
@@ -135,6 +135,12 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
 #### Mathematics
 
 - E. 02. Names of the basics elements in matematics in Breton.
+    - Description: 
+    - Link to this file: 
+
+#### Pronunciation in Phonetical Alphabet International (PAI)
+
+- E. 03. Retranscription of the breton numbers into PAI.
     - Description: 
     - Link to this file: 
 
