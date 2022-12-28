@@ -101,8 +101,8 @@ poellgor@bedniverel.bzh - https://bedniverel.bzh
     - Description: Counting in Goelo's dialectal country.
     - Link to this file: 
 - D. 02. Gw
-    - Description: Counting in Gwened's dialectal country.
-    - Link to this file:
+    - Description: Counting in Gwened's dialectal country. It only shows the differences with the standard.
+    - Link to this file: https://github.com/Wanibzh29/09.-Breton-numbers-not-finished-yet/blob/master/D.%2002.%20Gw
 - D. 03. K
     - Description: Counting in Kerne's dialectal country.
     - Link to this file:
