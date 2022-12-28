@@ -7077,7 +7077,7 @@
 6998 = c'hwec'h mil nav c'hant triwec'h ha pevar-ugent
 6999 = c'hwec'h mil nav c'hant naontek ha pevar-ugent
 
-7000 = c'hwec'h mil 
+7000 = seizh mil 
 7001 = seizh mil unan
 7002 = seizh mil daou
 7003 = seizh mil tri
@@ -10113,9 +10113,9 @@
 40000 = daou-ugent mil
 50000 = hanter-kant mil
 60000 = tri-ugent mil
-70000 = dek mil ha tri-ugent
+70000 = dek ha tri-ugent mil
 80000 = pevar-ugent mil
-90000 = dek mil ha pevar-ugent
+90000 = dek ha pevar-ugent mil
 100000 = kant mil
 200000 = daou c'hant mil
 300000 = tri c'hant mil
@@ -10142,9 +10142,9 @@
 40000000 = daou-ugent milion
 50000000 = hanter-kant milion
 60000000 = tri-ugent milion
-70000000 = dek milion ha tri-ugent 
+70000000 = dek ha tri-ugent milion
 80000000 = pevar-ugent milion
-90000000 = dek milion ha pevar-ugent
+90000000 = dek ha pevar-ugent milion
 
 100000000 = kant milion
 200000000 = daou c'hant milion
