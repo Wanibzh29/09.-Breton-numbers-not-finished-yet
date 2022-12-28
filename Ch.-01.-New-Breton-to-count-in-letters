@@ -10113,9 +10113,10 @@
 40000 = pergont mil
 50000 = pemont mil
 60000 = cʼhwegont mil
-70000 = dek mil cʼhwegont
+70000 = seikont mil
 80000 = eikont mil
-90000 = dek mil eikont
+90000 = naogont mil
+
 100000 = kant mil
 200000 = daou c'hant mil
 300000 = tri c'hant mil
@@ -10142,9 +10143,9 @@
 40000000 = pergont milion
 50000000 = pemont milion
 60000000 = cʼhwegont milion
-70000000 = dek milion cʼhwegont 
+70000000 = seikont milion
 80000000 = eikont milion
-90000000 = dek milion eikont
+90000000 = naogont milion
 
 100000000 = kant milion
 200000000 = daou c'hant milion
